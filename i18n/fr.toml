@@ -1,0 +1,48 @@
+[by]
+  other = "par"
+
+[currentPage]
+  other = "Page"
+
+[mainMenu]
+  other = "Menu principal"
+
+[next]
+  other = "Suivant"
+
+[nextPage]
+  other = "Page suivante"
+
+[nextPost]
+  other = "Billet suivant"
+
+[noTerm]
+  other = "Pas un seul {{ .Term }}!"
+
+[openSomethingInNewTab]
+  other = "Ouvrir {{ .Something }} dans un nouvel onglet"
+
+[page]
+  other = "Page"
+
+[previous]
+  other = "Précédent"
+
+[previousPage]
+  other = "Page précédente"
+
+[previousPost]
+  other = "Billet précédent"
+
+[postedOn]
+  other = "Publié le"
+
+[recentPosts]
+  other = "Billets récents"
+
+[socialMenu]
+  other = "Social Menu"
+
+[readingTime]
+  one = "Une minute de lecture"
+  other = "{{ .Count }} minutes de lecture"
