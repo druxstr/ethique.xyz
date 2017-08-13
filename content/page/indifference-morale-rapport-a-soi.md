@@ -14,7 +14,7 @@ De façon générale, on distinguera nettement entre :
 
 Contrairement à ce que pourraient penser les plus libéraux, l'indifférence morale du rapport à soi n'est pas une évidence. Elle a ses adversaires au sein de la tradition philosophique. Ça n'est pas non plus un principe vide, qui ne s'applique à aucune action, comme pourraient le penser les plus pessimistes.
 
-## Les partisans du rapport moral à soi-même
+## Les partisans du rapport moral à soi
 
 À la suite de [Kant](https://fr.wikipedia.org/wiki/Emmanuel_Kant) et d'[Aristote](https://fr.wikipedia.org/wiki/Aristote), de nombreux penseurs soutiennent que notre rapport à nous-mêmes possède une valeur morale.
 
@@ -24,7 +24,7 @@ Selon Aristote et ses adeptes contemporains, nous aurions des vertus personnelle
 
 L'éthique minimale rejette ces 2 approches.  Selon elle, la notion de devoir envers soi-même est contradictoire (entre autres difficultés)[^3] ; et l'éthique des vertus pose de lourds problèmes ontologiques et épistémologiques[^4]. Mais l'existence de ces 2 traditions montre que l'indifférence morale du rapport à soi n'est pas une position évidente ou unanimement partagée.
 
-## Des actions qui ne concernent pas les autres
+## Des actions qui ne concernent que nous
 
 L'indifférence morale du rapport à soi semblerait un principe vide et inutile si *aucune* de nos actions ne concernait que nous[^5]. Si nos actes apparemment les plus solitaires avaient un effet indirect sur autrui, on pourrait critiquer le caractère abstrait du principe, son détachement complet du réel.
 
@@ -44,11 +44,11 @@ Il n'y a donc pas à s'inquiéter de voir l'indifférence morale du rapport à s
 
 [^1]: Ruwen Ogien, *L'éthique aujourd'hui*, Ch. 1, p. 25 & 31
 
-[^2]: Ruwen Ogien, Ibid., Ch. 2, p. 38
+[^2]: Ruwen Ogien, *Ibid.*, Ch. 2, p. 38
 
-[^3]: Ruwen Ogien, Ibid., Ch. 2, p. 33-34
+[^3]: Ruwen Ogien, *Ibid.*, Ch. 2, p. 33-34
 
-[^4]: Ruwen Ogien, Ibid., Ch. 3, p. 63
+[^4]: Ruwen Ogien, *Ibid.*, Ch. 3, p. 63
 
 [^5]: Ruwen Ogien, *La panique morale*, Ch. 1, p. 40
 
