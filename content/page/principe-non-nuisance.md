@@ -1,4 +1,4 @@
-même---
+---
 title: Principe de non-nuisance
 description: L'éthique minimale nous demande de "ne pas nuire aux autres". Mais que signifie "nuire" ? Qui sont les "autres" ? Et où s'arrête la nuisance ?
 ---
@@ -7,7 +7,7 @@ L'éthique minimale reprend le [principe de non-nuisance](https://fr.wikipedia.o
 
 <!-- "interférer" plutôt que '"intervenir", voir LEA p. 102 où Ogien cite Mill, qui utilise bien "interférer" -->
 
-La société n'est légitime à utiliser la force ou la réprobation morale que dans une situation : lorsque l'action d'un individu risque de nuire *à d'autres*. Les actions qui ne concernent que soi-même ou celles qui ne nuisent à personne ne sont pas du ressort de la société. Elle n'a pas à les interdire ou les empêcher.
+La société n'est légitime à utiliser la force ou la réprobation morale que dans une situation : lorsque l'action d'un individu risque de nuire *à d'autres*. Les actions qui [ne concernent que soi-même](/page/indifference-morale-rapport-a-soi) ou celles qui ne nuisent à personne ne sont pas du ressort de la société. Elle n'a pas à les interdire ou les empêcher.
 
 Comme tous les principes généraux, le principe de non-nuisance fait l'objet de plusieurs interprétations. L'éthique minimale accepte donc une version particulière du principe et précise ce qu'elle entend pas "nuire" et "autrui".
 
