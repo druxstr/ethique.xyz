@@ -5,7 +5,7 @@ theme = "minimo"
 
 disqusShortname = ""
 googleAnalytics = ""
-Paginate = 5
+Paginate = 50
 
 preserveTaxonomyNames = true
 
