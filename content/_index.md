@@ -19,5 +19,4 @@ L'éthique minimale est une théorie qui réduit l'éthique à un minimum de pri
 
 ## Et c'est tout ?
 
-Oui. L'éthique minimale réside dans ces 3 seuls principes. Pour en savoir plus, une présentation détaillée de l'éthique minimale et de chacun des principes est disponible sur ce site.
-
+Oui. L'éthique minimale réside dans ces 3 seuls principes. Pour en savoir plus, une présentation détaillée <!-- de l'éthique minimale et --> de chacun des principes est disponible sur ce site.
