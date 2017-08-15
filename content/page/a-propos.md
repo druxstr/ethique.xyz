@@ -10,8 +10,7 @@ Ce site a pour objectif principal de présenter l'éthique minimale de [Ruwen Og
 
 ## Contact
 
-xxxx.xxxx@xxxx
-
+![contact](/media/contact.png)
 
 ## Réutilisation & partage
 
@@ -19,4 +18,8 @@ Vous pouvez partager et adapter le contenu de ce site à condition de créditer 
 
 ### Mentions légales
 
-Hébergeur
+Ethique.xyz est hébergé par Infomaniak Network SA
+Avenue de la Praille, 26 - 1227 Carouge - Suisse
+N° IDE & TVA : CHE-103.167.648
+
+Ce site et ses contenus sont fournis "en l’état", sans aucune garantie explicite ou tacite. Il peut présenter des inexactitudes, des erreurs, des omissions ou des problèmes techniques. Ethique.xyz ne saurait être tenu responsable des problèmes rencontrés lors de l’utilisation du site
