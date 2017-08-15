@@ -2,9 +2,9 @@
 title: Principe d'égale considération
 description: L'éthique minimale nous invite à "considérer chacun également". Mais que veut-elle dire par là ?
 ---
-Le principe d'égale consideration est un principe moral qui nous demande d'accorder la même valeur à la voix et aux revendications de chacun. L'ethique minimale le désigne aussi comme "égale considération de chacun"[^1] ou, dans sa formulation complète :
+Le principe d'égale considération est un principe moral qui nous demande d'accorder la même valeur à la voix et aux revendications de chacun. L'éthique minimale le désigne aussi comme "égale considération de chacun"[^1] ou, dans sa formulation complète :
 
-> consideration égale de la voix et des revendications de chacun *dans la mesure où elles possèdent une valeur impersonnelle*[^2].
+> considération égale de la voix et des revendications de chacun *dans la mesure où elles possèdent une valeur impersonnelle*[^2].
 
 Selon ce principe, nous devrions traiter les égaux en égaux et ne jamais mépriser ou négliger la voix de quelqu'un sous prétexte qu'il serait noir, blanc, brun, petit, grand, juif, pauvre, homosexuel, prostitué, etc.[^3]. C'est un principe d'impartialité[^4] qui nous appelle à considérer également bien.
 
@@ -12,7 +12,7 @@ C'est aussi un principe tourné vers l'écoute des revendications de tous, dans 
 
 C'est le cas des demandes d'assistance venant de personnes en danger de mort par exemple. Ce ne sont pas des requêtes "personnelles", qui ne vaudraient que pour un cas singulier. En fait *n'importe qui* en danger de mort mérite qu'on écoute sa demande d'aide ; et *quiconque* en mesure de l'assister devrait le faire.
 
-Enfin, la considération égale est un principe anti-[paternaliste](https://plato.stanford.edu/entries/paternalism/)[^6] qui nous conduit à ne pas faire d'ingérence dans la vie d'autrui au nom de raisons qu'il reconnaîtrait pas. Faire le "bien" d'autrui contre son gré ou le forcer à agir pour "son bien" est donc exclu.
+Enfin, la considération égale est un principe anti-[paternaliste](https://plato.stanford.edu/entries/paternalism/)[^6] qui nous conduit à ne pas faire d'ingérence dans la vie d'autrui au nom de raisons qu'il ne reconnaîtrait pas. Faire le "bien" d'autrui contre son gré ou le forcer à agir pour "son bien" est donc exclu.
 
 ## Qu'est-ce que considérer également ?
 
@@ -38,7 +38,7 @@ Dans les premières versions de l'éthique minimale, le principe d'égale consid
 
 On peut en effet définir les intérêts  de quelqu'un sans lui demander son avis. Pensez à l'expression "C'est pour ton bien" qu'on assène aux enfants, aux malades ou aux vieillards. Dans ces contextes, on veut dire que l'intérêt objectif de la personne ne coïncide pas avec ses demandes. Celui qui connaît mieux l'intérêt de la personne, c'est le parent ou l'équipe médicale.
 
-La notion d'intéret n'exclut donc pas le paternalisme. C'est-à-dire à l'attitude qui consiste à protéger les personnes d'elles-mêmes sans demande claire et explicite de leur part, en les empêchant de se causer des maux (supposés) ou en promouvant leur bien (supposé)[^12].
+La notion d'intérêt n'exclut donc pas le paternalisme. C'est-à-dire l'attitude qui consiste à protéger les personnes d'elles-mêmes sans demande claire et explicite de leur part, en les empêchant de se causer des maux (supposés) ou en promouvant leur bien (supposé)[^12].
 
 C'est pourquoi l'éthique minimale préfère le concept de revendication. Si on écoute les revendications de quelqu'un, on est moins enclin à agir de façon paternaliste. On ne risque pas de privilégier ses intérêts *tels que nous les comprenons* sur ses demandes explicites. Et ce même quand elles tranchent avec *notre* vision de ce qui serait bien pour la personne.
 
@@ -46,13 +46,13 @@ Cette façon d'agir n'empêche pas de transmettre des connaissances aux jeunes (
 
 ## Le point de vue moral
 
-Selon les minimalistes, le principe d'égale considération est central en éthique. Toute théorie normative qui aspire à être dite "morale" doit l'adopter par défaut[^14]. On peut le comparer au [principe de non-contradiction](https://fr.wikipedia.org/wiki/Principe_de_non-contradiction) en logique, ou à celui de maximisation de l'utilité en économie[^15].
+Selon les minimalistes, le principe d'égale considération est central en éthique. Toute [théorie normative](https://fr.wikipedia.org/wiki/%C3%89thique_normative) qui aspire à être dite "morale" doit l'adopter par défaut[^14]. On peut le comparer au [principe de non-contradiction](https://fr.wikipedia.org/wiki/Principe_de_non-contradiction) en logique, ou à celui de maximisation de [l'utilité](https://fr.wikipedia.org/wiki/Utilit%C3%A9_(%C3%A9conomie)) en économie[^15].
 
 Ce genre de principe est central au sens où si une de nos croyances entre en conflit avec ces principes, on préfère généralement renoncer à cette croyance plutôt qu'aux principes[^15]. Si un raisonnement nous conduit à rejeter l'égale considération, on se dira que quelque chose ne va pas *avec ce raisonnement*.
 
 Aux yeux de l'éthique minimale, l'égale considération exprime en fait "le point de vue moral"[^16]. Ce qui fait qu'une théorie donnée est bien une "théorie morale", qu'elle pense l'éthique (et pas l'économie ou autre chose), c'est qu'elle accepte ce principe. Une conception qui se prétendrait "éthique" sans accorder la même valeur à la voix de chacun n'aurait en réalité rien de moral.
 
-Cela ne veut pas dire pour autant que toutes les philosophies doivent s'accorder sur le sens des termes du principe ("voix ", "chacun", etc)[^16]. On peut leurs donner des interprétations différentes et les discuter[^5]. Mais on doit reconnaître que le principe lui-meme a une importance centrale en éthique.
+Cela ne veut pas dire pour autant que toutes les philosophies doivent s'accorder sur le sens des termes du principe ("voix ", "chacun", etc)[^16]. On peut leur donner des interprétations différentes et les discuter[^5]. Mais on doit reconnaître que le principe lui-même a une importance centrale en éthique.
 
 ## Un principe d'impartialité substantiel
 
@@ -69,11 +69,11 @@ Selon l'éthique minimale, l'impartialité n'est donc pas suffisante à circonsc
 Théorie morale impartialiste : donne prio a l'exigence d'impartialité p' 148
 -->
 
-## Les justifications du principe
+## Comment justifier le principe ?
 
-On peut juger que l'égale considération est un principe évident qui n'a pas besoin d'être justifié[^19]. En fait, c'est ceux qui refusent le principe qui devraient se justifier. C'est à eux d'expliquer pourquoi la couleur, la religion, l'orientation sexuelle ou la profession permettent selon eux de traiter inégalement des revendications à valeur impersonnelle[^20].
+On peut juger que l'égale considération est un principe évident qui n'a pas besoin d'être justifié[^19]. En fait, ce sont ceux qui refusent le principe qui devraient se justifier. C'est à eux d'expliquer pourquoi la couleur, la religion, l'orientation sexuelle ou la profession permettent selon eux de traiter inégalement des revendications à valeur impersonnelle[^20].
 
-Si on veut tout de même justifier l'égale considération, on peut invoquer le respect de la liberté d'autrui et de l'égalité des personnes[^21]. On peut aussi rappeler qu'il est censé exprimer le point de vue moral : un élément partagé par toutes les conceptions éthiques.
+Si on veut tout de même justifier l'égale considération, on peut invoquer le respect de la liberté d'autrui et de l'égalité des personnes[^21]. On peut aussi rappeler qu'elle est censée exprimer le point de vue moral : un élément partagé par toutes les conceptions éthiques.
 
 L'éthique minimale précise néanmoins qu'elle n'ambitionne pas de fonder absolument son principe. Selon elle, l'égale considération a probablement plusieurs justifications, pas forcément compatibles entre elles.
 

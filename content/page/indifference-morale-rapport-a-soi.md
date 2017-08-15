@@ -30,7 +30,7 @@ L'indifférence morale du rapport à soi semblerait un principe vide et inutile 
 
 En consommant de la drogue ou de la pornographie, n'avons nous pas *quand même* un effet sur quelqu'un ? Admettons qu'on s'adonne à ces pratiques seul, en secret, et à volets fermés : cela suffit-il pour dire qu'autrui n'est aucunement concerné ?
 
-Mais supposons un instant que *toutes nos actions* affectent autrui d'une quelconque façon. Faut-il alors renoncer à la distinction entre "ce que nous *nous* faisons" et "ce que nous faisons *aux autres*" ? Faut-il (par exemple) mettre sur le même plan le meurtre et le suicide&nbsp;?
+Mais supposons un instant que *toutes nos actions* affectent autrui d'une quelconque façon. Faut-il alors renoncer à la distinction entre "ce que nous *nous* faisons" et "ce que nous faisons *aux autres*" ? Faut-il (par exemple) mettre sur le même plan le suicide et le meurtre&nbsp;?
 
 Ce n'est pas l'avis de l'éthique minimale[^6]. Selon elle, il est possible de trouver une différence significative entre ce qu'on se fait à soi et ce qu'on fait à autrui. Un raisonnement qui conduirait à affirmer le contraire impliquerait des aberrations, et il vaudrait mieux l'abandonner que d'accepter ses implications.
 

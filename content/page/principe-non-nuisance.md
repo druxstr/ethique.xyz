@@ -90,21 +90,13 @@ Selon elle, les actions précitées sont bien condamnables, mais pas en vertu du
 
 ## Que signifie "ne pas intervenir" ?
 
-- principe de Mill dit d'éviter d'intervenir. pendant un temps l'EM disait "intervention limitée"
-- qu'est ce qu'intervenir
-- utiliser la force, [ou la contrainte économique, psychologique] pour empêcher autrui d'agir
-- utiliser l'humour, le sarcasme, la mocquerie, humiliation pour contester ses choix et pratiques, y compris lorsqu'ils ne concerne que lui ou des tiers ayant consentis
-- l'EM nous demande de ne pas faire la police morale, même par la pression sociale.
-- une éthique exigeante, qui nous demande d'aller contre des préjugés et des clichés sociaux pour prendre l'égalité au sérieux
-- plus difficile que de courir partout en condamnant à tout va les conduites qui ne nous plaisent pas chez nos contemporaines
+Le principe de non-nuisance nous demande ne pas intervenir dans les affaires des autres, sauf pour les empêcher de causer du tort à autrui. C'est pourquoi l'éthique minimale le désignait pendant un temps comme "[principe d'intervention limitée ](/page/formulations-ethique-minimale/)".
 
-<!--  ## Humour et humiliation
+Cette non-intervention est à comprendre de façon assez large. Il s'agit de ne pas utiliser la contrainte physique, économique, psychologique pour forcer quelqu'un à abandonner ses projets ou à changer son style de vie[^16].
 
-L'éthique minimale n'a pas grande sympathie pour ceux qui utilisent l'humour, la mocquerie, le sarcasme pour rabaisser et humilier leurs semblables. Elle y voit une forme de nuisance authentique et
+Mais l'éthique minimale demande aussi de renoncer à des interventions plus "diffuses" : celles qui passent par le rire, le sarcasme, le mépris, l'insulte, l'ostracisme, la culpabilisation, l'humiliation, etc.[^17]. Elles ne sont pas forcément plus sympathiques que les précédentes.
 
-Là passage d'exemple sur la nuisance, qui prend contrepied de partie précédent. C'est pas parce qu'on séparée nuire et offenser que l'humiliation etc sont OK.
-
-[7](LdO p.19) -->
+En fait, l'éthique minimale nous invite à contenir notre penchant à faire la "police morale"[^18], à nous ingérer dans les affaires d'autrui au nom de la morale - même quand personne ne subit de préjudice.
 
 ## Un principe moral
 
@@ -114,36 +106,13 @@ En démocratie libérale, l'idée que l'État ne puisse s'ingérer dans nos affa
 
 Mais nombre de ceux qui admettent le principe de non-nuisance en font un usage strictement *politique*. Selon eux, le principe règle nos rapports avec l'État, pas les rapports entre individus. Pour tout ce qui touche au champ moral, il n'y a pas de raison de se limiter au principe de ne pas nuire.
 
-C'est ce qui les distingue des défenseurs de l'éthique minimale. Ces derniers font une lecture *morale* du principe de non-nuisance. Ils ne voient pas pourquoi limiter son usage au champ politique.
+C'est ce qui les distingue des défenseurs de l'éthique minimale. Ces derniers font une lecture *morale* du principe de non-nuisance[^19]. Ils ne voient pas pourquoi limiter son usage au champ politique.
 
 <!-- LPM p.39 ; LEA p. 77 -->
 
-<!-- (* action ne concernant que soi // laissons ça de côté
-* actions interdites pour des motifs non moraux ???)
-
-
-
-## Sanctions diffuses, humour
-
-Préciser, citation à l'appui que nuire inclus les humiliations, l'humour, les sanctions diffuses et non étatiques. Bref illustrer un peu ce l'EM juge problématique... Sauf si c'est dans le PCE ou sur l'article général que ça a sa place au fond
-
-## Questions ouvertes (perplexités morales, cas litigieux)
-
-* animaux, robots
-* situations étriquées (tort à être né, mort
-* trucs règlés : pas interdits en vertu du pnn
-
+<!--
 ### quid nuire a soi-même ?
-MDCC admet que possible, mais sans valeur morale p. 101 p.133
-
-### qui sont les autres
-### qu'est ce que nuire ?
-### ce qui nuire n'est pas
-blabla général
-#### nuire n'est pas offenser
-#### nuire n'est pas manquer d'assistance
-### que signifie "ne pas intervenir" ?
-### un principe moral
+MDCC admet que possible, mais sans valeur morale p. 101 p.133. Et je m'appuierais pas sur ce passage sans réserve. Il est pas cohérent avec d'autres propos sur le suicide.
 -->
 
 ## Lire aussi
@@ -170,11 +139,11 @@ blabla général
 
 [^9]: Ruwen Ogien, *L'éthique aujourd'hui*, Ch. 4., p. 81. Voir aussi Ch. 10 p. 73-83 pour l'analyse de la notion de consentement et des problèmes qu'elle soulève
 
-[^10]: *Ibid.* Ch.  4, p. 81-82
+[^10]: *Ibid.*, Ch. 4, p. 81-82
 
-[^11]: *Ibid.*, Ch.  4, p. 95 & Ruwen Ogien, *La liberté d'offenser*, Avant-propos, p. 15-20
+[^11]: *Ibid.*, Ch. 4, p. 95 & Ruwen Ogien, *La liberté d'offenser*, Avant-propos, p. 15-20
 
-[^12]: Ruwen Ogien, *L'éthique aujourd'hui*, Ch.  4, p. 95-99
+[^12]: Ruwen Ogien, *L'éthique aujourd'hui*, Ch. 4, p. 95-99
 
 [^13]: Ruwen Ogien, *La liberté d'offenser*, Avant-propos, p. 18
 
@@ -182,6 +151,13 @@ blabla général
 
 [^15]: *Ibid.* p. 113, 115 et 118. Ogien stipule que selon l'interprétation qu'on choisit du principe de non-nuisance, on aura (ou pas) besoin d'un autre principe pour construire une théorie éthique complète et satisfaisante. Il conteste ensuite que les principes d'assistance soient *toujours* réductibles au principe de non-nuisance.
 
+[^16]: *Ibid.*, p. 102-103 & Ch.6, p. 138-139 . Ogien structure son propos autour de 3 oppositions. Il distingue les interventions : a) formelles VS informelles ; b) collectives VS individuelles ; c) organisées VS diffuses. Il sépare les interventions Étatiques (formelles, organisées) et celles venant de "chacun et tout le monde" (informelles, diffuses). L'idée est bien sûr d'éviter les interventions paternalistes.
+
+[^17]: Ruwen Ogien, *La panique morale*, p. 39 ; *L'éthique aujourd'hui*, Ch. 6, p. 138-139
+
+[^18]: Ruwen Ogien, *L'éthique aujourd'hui*, Conclusion, p. 195-199
+
+[^19]: *Ibid*, Ch. 4, p. 77-80
 <!--
 
 [^4b]: voir par ex MDCC " que reste-t-il de la liberté d'offenser", dernière pages
