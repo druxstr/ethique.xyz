@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ethique.xyz on Éthique minimale</title>
+    <link>http://ethique.xyz/categories/ethique.xyz/</link>
+    <description>Recent content in Ethique.xyz on Éthique minimale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 16 Aug 2017 12:00:00 +0600</lastBuildDate>
+    
+	<atom:link href="http://ethique.xyz/categories/ethique.xyz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ouverture du site</title>
+      <link>http://ethique.xyz/blog/ouverture-site/</link>
+      <pubDate>Wed, 16 Aug 2017 12:00:00 +0600</pubDate>
+      
+      <guid>http://ethique.xyz/blog/ouverture-site/</guid>
+      <description>Ethique.xyz est un site web dédié à l&amp;rsquo;éthique minimale de Ruwen Ogien. Son objectif est de présenter la théorie de façon aussi claire et accessible que possible. Il aurait pu s&amp;rsquo;appeler ethique-minimale.org, .fr, ou .net, mais ethique.xyz était plus &amp;ldquo;minimal&amp;rdquo;, dans la mesure où ethique.mini n&amp;rsquo;était pas disponible.
+On y trouvera des articles (souvent trop longs) autour des notions centrales de l&amp;rsquo;éthique minimale :
+ Indifférence morale du rapport à soi Non-nuisance Considération égale de chacun  À terme, l&amp;rsquo;idée est de couvrir des notions comme les crimes sans victimes, le paternalisme, ou de préciser ce que Ruwen Ogien entend par &amp;ldquo;morale&amp;rdquo; (ou &amp;ldquo;éthique&amp;rdquo;1) de façon générale.</description>
+    </item>
+    
+  </channel>
+</rss>

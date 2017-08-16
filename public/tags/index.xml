@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Éthique minimale</title>
+    <link>http://ethique.xyz/tags/</link>
+    <description>Recent content in Tags on Éthique minimale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 16 Aug 2017 12:00:00 +0600</lastBuildDate>
+    
+	<atom:link href="http://ethique.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ethique.xyz</title>
+      <link>http://ethique.xyz/tags/ethique.xyz/</link>
+      <pubDate>Wed, 16 Aug 2017 12:00:00 +0600</pubDate>
+      
+      <guid>http://ethique.xyz/tags/ethique.xyz/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

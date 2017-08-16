@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://ethique.xyz/</loc>
+    <lastmod>2017-08-16T12:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ethique.xyz/page/a-propos/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ethique.xyz/page/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ethique.xyz/blog/ouverture-site/</loc>
+    <lastmod>2017-08-16T12:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ethique.xyz/blog/</loc>
+    <lastmod>2017-08-16T12:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ethique.xyz/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ethique.xyz/tags/ethique.xyz/</loc>
+    <lastmod>2017-08-16T12:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ethique.xyz/categories/ethique.xyz/</loc>
+    <lastmod>2017-08-16T12:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ethique.xyz/page/formulations-ethique-minimale/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ethique.xyz/page/indifference-morale-rapport-a-soi/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ethique.xyz/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ethique.xyz/page/egale-consideration-de-chacun/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ethique.xyz/page/principe-non-nuisance/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ethique.xyz/tags/</loc>
+    <lastmod>2017-08-16T12:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
