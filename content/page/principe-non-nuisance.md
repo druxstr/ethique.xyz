@@ -86,7 +86,7 @@ Certains philosophes considèrent que le principe de non-nuisance s'étend aux d
 
 L'éthique minimale rejette toutefois l'idée qu'on puisse nuire indirectement, du seul fait qu'on n'a pas agi ou réagi[^15]. Elle accepte une version "étroite" du principe, qui ne cible que les dommages directs.
 
-Selon elle, les actions précitées sont bien condamnables, mais pas en vertu du principe de non-nuisance. Elles violent le [principe de considération égale](page/egale-consideration-de-chacun).
+Selon elle, les actions précitées sont bien condamnables, mais pas en vertu du principe de non-nuisance. Elles violent le [principe de considération égale](/page/egale-consideration-de-chacun).
 
 ## Que signifie "ne pas intervenir" ?
 

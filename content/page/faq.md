@@ -14,11 +14,11 @@ weight: -10
 
 > **<span id="autresmini">Peut-on faire plus minimaliste que l'éthique minimale&nbsp;?</span>**
 
-Oui et non. Une théorie qui n'admettrait *que* le principe de non-nuisance serait plus minimaliste : elle serait constituée de moins d'éléments conceptuels. Cependant, si cette théorie reconnaissait une valeur morale au rapport à soi-même, elle serait en même temps *moins* minimaliste que l'éthique d'Ogien. Elle reconnaitrait un champ plus large à la morale : le rapport à autrui *et* [le rapport à soi](page/indifference-morale-rapport-a-soi/). Sur ce dernier point, il est difficile de faire plus minimaliste que l'éthique minimale.
+Oui et non. Une théorie qui n'admettrait *que* le principe de non-nuisance serait plus minimaliste : elle serait constituée de moins d'éléments conceptuels. Cependant, si cette théorie reconnaissait une valeur morale au rapport à soi-même, elle serait en même temps *moins* minimaliste que l'éthique d'Ogien. Elle reconnaitrait un champ plus large à la morale : le rapport à autrui *et* [le rapport à soi](/page/indifference-morale-rapport-a-soi/). Sur ce dernier point, il est difficile de faire plus minimaliste que l'éthique minimale.
 
 > **<span id="">Qu'est-il arrivé au principe de neutralité à l'égard des conceptions du bien personnel&nbsp;?</span>**
 
-Les [premières versions de l'éthique minimale](/page/formulations-ethique-minimale/#2007-l-éthique-aujourd-hui) incluaient le principe de neutralité à l'égard des conceptions du bien personnel. Il n'est désormais plus central, mais il reste présent. L'éthique minimale nous demande de rester neutre au regard de ces conceptions "dans la mesure où elles ne concernent que soi-même". Une conception du bien personnel pourrait très bien inclure l'élimination physique des autres (voisins bruyants, automobilistes lents au feu rouge, etc.). L'éthique minimale n'incite alors pas à la neutralité.
+Les [premières versions de l'éthique minimale](/page/formulations-ethique-minimale/) incluaient le principe de neutralité à l'égard des conceptions du bien personnel. Il n'est désormais plus central, mais il reste présent. L'éthique minimale nous demande de rester neutre au regard de ces conceptions "dans la mesure où elles ne concernent que soi-même". Une conception du bien personnel pourrait très bien inclure l'élimination physique des autres (voisins bruyants, automobilistes lents au feu rouge, etc.). L'éthique minimale n'incite alors pas à la neutralité.
 
 ----------
 
