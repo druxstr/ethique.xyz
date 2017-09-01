@@ -22,7 +22,7 @@ Le site a aussi pour objectif d'héberger des critiques et des continuations de 
 Si vous avez des travaux que vous souhaitez partager, vous pouvez écrire au site pour qu'ils soient mis en ligne dans la section "Blog". L'idée est de scinder le site en 2 parties :
 
 * l'exposition de l'éthique d'Ogien (dans les "[pages](/page/)")
-* les réflexions autour de cette théorie (sur le "[blog](/blog)")
+* les réflexions autour de cette théorie (sur le "[blog](/blog/)")
 
 ## Pourquoi ce site ?
 
@@ -30,7 +30,7 @@ Ce site cherche à faire connaître et faire vivre l'éthique minimale. Il incit
 
 Ce site est aussi une sorte de réponse à la mort de Ruwen Ogien il y a un peu plus de 3 mois. Les livres d'Ogien sont passionnants (et drôles), mais sans voir une *preview* du contenu sur le web, on a moins peut-être moins envie de se lancer.
 
-Pour plus d'infos : [À propos](page/a-propos) / [F.A.Q](/page/faq) / ou par mail
+Pour plus d'infos : [À propos](/page/a-propos) / [F.A.Q](/page/faq) / ou par mail
 
 ![contact](/media/contact.png)
 

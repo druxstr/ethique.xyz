@@ -1,6 +1,6 @@
 ---
 title: Principe de non-nuisance
-description: L'éthique minimale nous demande de "ne pas nuire aux autres". Mais que signifie "nuire" ? Qui sont les "autres" ? Et où s'arrête la nuisance ?
+description: L'éthique minimale nous demande de "ne pas nuire aux autres". Mais que signifie "nuire" ? Qui sont les "autres" ? Et où commence et où s'arrête la nuisance ?
 ---
 
 L'éthique minimale reprend le [principe de non-nuisance](https://fr.wikipedia.org/wiki/Harm_principle) énoncé par John Stuart Mill en 1859 dans *De la liberté*[^1]. Selon ce principe, la seule raison légitime d'interférer avec les affaires des autres est d'empêcher que du tort soit causé à autrui.
@@ -121,23 +121,23 @@ MDCC admet que possible, mais sans valeur morale p. 101 p.133. Et je m'appuierai
 * [Principe d'indifférence morale du rapport à soi](/page/indifference-morale-rapport-a-soi)
 
 ## Notes
-[^1]: Ruwen Ogien, *Penser la pornographie*, 2003, PUF, Ch. 1., p. 12-13 ; *La panique morale*, 2005, Grasset, Ch. 1, p. 39-42 & p. 327 note 30 ; *L'éthique aujourd'hui*, Gallimard, 2007, Ch. 8, p. 156
+[^1]: Ruwen Ogien, *Penser la pornographie*, 2003, PUF, Ch. 1, p. 12-13 ; *La panique morale*, 2005, Grasset, Ch. 1, p. 39-42 & p. 327 note 30 ; *L'éthique aujourd'hui*, Gallimard, 2007, Ch. 8, p. 156.
 
-[^2]: Ruwen Ogien, *L'éthique aujourd'hui*, Introduction, p. 21-22 & Ch. 4., p. 83-84 ; "Que reste-t-il de la liberté d'offenser ?" in *Mon dîner chez les cannibales*, 2016, Grasset, p. 70.
+[^2]: Ruwen Ogien, *L'éthique aujourd'hui*, Introduction, p. 21-22 & Ch. 4, p. 83-84 ; "Que reste-t-il de la liberté d'offenser ?" in *Mon dîner chez les cannibales*, 2016, Grasset, p. 70.
 
-[^3]: Ruwen Ogien, *L'éthique aujourd'hui*, Ch. 4., p. 83-84. Il semble qu'Ogien soit tenté de considérer la société comme une entité abstraite. Cependant le principe de non-nuisance est censé pouvoir protéger des "groupes de personnes clairement identifiés" (*op. cit.* p. 93). Concernant l'extension du principe au-delà des personnes humaines, Ogien mentionne le statut moral "controversé" d'êtres comme les foetus (être concrêt non personnel) et les animaux (dont certains au moins sont des personnes).
+[^3]: Ruwen Ogien, *L'éthique aujourd'hui*, Ch. 4, p. 83-84. Il semble qu'Ogien soit tenté de considérer la société comme une entité abstraite. Cependant le principe de non-nuisance est censé pouvoir protéger des "groupes de personnes clairement identifiés" (*op. cit.* p. 93). Concernant l'extension du principe au-delà des personnes humaines, Ogien mentionne le statut moral "controversé" d'êtres comme les foetus (être concrêt non personnel) et les animaux (dont certains au moins sont des personnes).
 
-[^4]: *Ibid.*, Ch. 4., p. 81
+[^4]: *Ibid.*, Ch. 4, p. 81
 
-[^5]: *Ibid.*, Ch. 4., p. 81-83
+[^5]: *Ibid.*, Ch. 4, p. 81-83. Le dommage peut être de différente nature : physique, psychologique, économique... Pour la reconnaissance des domages psychologiques, voir Ch. 1, p. 30 & Ch. 4, p. 93 et 99.
 
-[^6]: *Ibid.*, Ch. 3., p. 64-66, 95-96. L'engagement d'Ogien pour des outils conceptuels qui permettent de démontrer / vérifier ce qu'on affirme est visible dans sa critique de la notion de caractère. Son enthousiasme envers la dénonciation de crimes moraux imaginaires est par ailleurs assez limité, c'est le moins qu'on puisse dire.
+[^6]: *Ibid.*, Ch. 3, p. 64-66, 95-96 & Ch. 6, p. 128. L'engagement d'Ogien pour des outils conceptuels qui permettent de démontrer / vérifier ce qu'on affirme est visible dans sa critique de la notion de caractère. Son enthousiasme envers la dénonciation de crimes moraux imaginaires est par ailleurs assez limité, c'est le moins qu'on puisse dire.
 
-[^7]: *Ibid.*, Ch. 4., p. 84-88 (en particulier p. 85-86), p. 96-97, et p. 99
+[^7]: *Ibid.*, Ch. 4, p. 84-88 (en particulier p. 85-86), p. 96-97, et p. 99
 
 [^8]: Ruwen Ogien, "Mon dîner chez les cannibales" in *Mon dîner chez les cannibales*, p. 100. Également *L'éthique aujourd'hui*, Ch. 5 p. 100-101 & p. 112-116, en particulier p. 115-116
 
-[^9]: Ruwen Ogien, *L'éthique aujourd'hui*, Ch. 4., p. 81. Voir aussi Ch. 10 p. 73-83 pour l'analyse de la notion de consentement et des problèmes qu'elle soulève
+[^9]: Ruwen Ogien, *L'éthique aujourd'hui*, Ch. 4, p. 81. Voir aussi Ch. 10 p. 173-183 pour l'analyse de la notion de consentement et des problèmes qu'elle soulève. Note qu'Ogien évoque des exceptions où le consentement ne suffirait pas à annuler le tort, en Ch. 1 p. 30-31. Sur la valeur relative que l'éthique minimale accorde au consentement, cf. p. 182.
 
 [^10]: *Ibid.*, Ch. 4, p. 81-82
 
@@ -160,12 +160,6 @@ MDCC admet que possible, mais sans valeur morale p. 101 p.133. Et je m'appuierai
 [^19]: *Ibid*, Ch. 4, p. 77-80
 <!--
 
-[^4b]: voir par ex MDCC " que reste-t-il de la liberté d'offenser", dernière pages
-
 [^5b]: ogien n'est pas toujours clair sur le critère de l'intentionnalité : s'agit t-il d'agir intentionnellement (par rapport aux agissements involontaires), ou s'agit-il en plus de "vouloir nuire", de chercher consciemment à causer du tort (ce qui n'exclut pas qu'on échoue).
-
-[^9b]: LdO p. 18
-
-LEA p.30 sur la caractérisation d'un dommage en tort du fait de l'injustice
 
 -->

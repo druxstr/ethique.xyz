@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://ethique.xyz/"
 languageCode = "fr-fr"
 title = "Éthique minimale"
 theme = "minimo"
@@ -21,9 +21,8 @@ preserveTaxonomyNames = true
   hideSocialMenu = true
   showReadTime = true
 
-
 [author.social]
-  twitter = "burgervege"
+  twitter = ""
 
 # Language Configuration
 defaultContentLanguage = "fr"
