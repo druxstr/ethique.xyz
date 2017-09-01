@@ -45,7 +45,6 @@ De façon générale, le dommage doit pouvoir être dit "injuste" sous un aspect
 
 Ici encore l'éthique minimale laisse des questions ouvertes[^5] :
 
-* Si on consent "après coup", en réalisant que le dommage qu'on subit a eu un effet positif, cela annule-t-il le tort ?
 * Un voleur qui se ferait voler son butin pourrait-il dire qu'on lui nuit, alors que sa situation initiale était illégitime ?
 * Peut-on admettre un "tort à être né" gravement handicapé, quand le handicap était prévisible et évitable ?
 
@@ -129,7 +128,7 @@ MDCC admet que possible, mais sans valeur morale p. 101 p.133. Et je m'appuierai
 
 [^4]: *Ibid.*, Ch. 4, p. 81
 
-[^5]: *Ibid.*, Ch. 4, p. 81-83. Le dommage peut être de différente nature : physique, psychologique, économique... Pour la reconnaissance des domages psychologiques, voir Ch. 1, p. 30 & Ch. 4, p. 93 et 99.
+[^5]: *Ibid.*, Ch. 4, p. 81-83. Le dommage peut être de différente nature : physique, psychologique, économique... Pour la reconnaissance des dommages psychologiques, voir Ch. 1, p. 30 & Ch. 4, p. 93 et 99.
 
 [^6]: *Ibid.*, Ch. 3, p. 64-66, 95-96 & Ch. 6, p. 128. L'engagement d'Ogien pour des outils conceptuels qui permettent de démontrer / vérifier ce qu'on affirme est visible dans sa critique de la notion de caractère. Son enthousiasme envers la dénonciation de crimes moraux imaginaires est par ailleurs assez limité, c'est le moins qu'on puisse dire.
 
@@ -137,7 +136,7 @@ MDCC admet que possible, mais sans valeur morale p. 101 p.133. Et je m'appuierai
 
 [^8]: Ruwen Ogien, "Mon dîner chez les cannibales" in *Mon dîner chez les cannibales*, p. 100. Également *L'éthique aujourd'hui*, Ch. 5 p. 100-101 & p. 112-116, en particulier p. 115-116
 
-[^9]: Ruwen Ogien, *L'éthique aujourd'hui*, Ch. 4, p. 81. Voir aussi Ch. 10 p. 173-183 pour l'analyse de la notion de consentement et des problèmes qu'elle soulève. Note qu'Ogien évoque des exceptions où le consentement ne suffirait pas à annuler le tort, en Ch. 1 p. 30-31. Sur la valeur relative que l'éthique minimale accorde au consentement, cf. p. 182.
+[^9]: Ruwen Ogien, *L'éthique aujourd'hui*, Ch. 4, p. 81. Voir aussi Ch. 10 p. 173-183 pour l'analyse de la notion de consentement et des problèmes qu'elle soulève. Note qu'Ogien évoque des exceptions où le consentement ne suffirait pas à annuler le tort en Ch. 1, p. 30-31. Sur la valeur relative que l'éthique minimale accorde au consentement, cf. p. 182.
 
 [^10]: *Ibid.*, Ch. 4, p. 81-82
 
