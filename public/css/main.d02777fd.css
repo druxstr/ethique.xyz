@@ -664,11 +664,11 @@ a {
 
 a,
 a:visited {
-    color: #212121
+    /* color: #212121 */
 }
 
 a:focus {
-    outline: thin dotted #212121;
+    outline: thin dotted /* #212121 */;
     outline-offset: 2px
 }
 
@@ -700,7 +700,7 @@ a:hover {
 }
 
 .entry-content a {
-    border-bottom: .11111em solid #bdbdbd
+    border-bottom: .11111em solid /* #bdbdbd */
 }
 
 .footer a {

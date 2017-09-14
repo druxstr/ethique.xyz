@@ -12,11 +12,10 @@ L'éthique minimale est une théorie qui réduit l'éthique à un minimum de pri
 
 ## Les 3 principes de l'éthique minimale
 
-* [Ne pas nuire aux autres](/page/principe-non-nuisance)
-* [Considérer également chacun](/page/egale-consideration-de-chacun)
-* [Ce qu'on se fait à soi-même ne relève pas de la morale](/page/indifference-morale-rapport-a-soi)
-
+ * [Ne pas nuire aux autres](/page/principe-non-nuisance)
+ * [Considérer également chacun](/page/egale-consideration-de-chacun)
+ * [Ce qu'on se fait à soi-même ne relève pas de la morale](/page/indifference-morale-rapport-a-soi)
 
 ## Et c'est tout ?
 
-Oui. L'éthique minimale réside dans ces 3 seuls principes. Pour en savoir plus, une présentation détaillée <!-- de l'éthique minimale et --> de chacun des principes est disponible sur ce site.
+Oui. L'éthique minimale réside dans ces 3 seuls principes. Pour une présentation détaillée de chacun des principes, cliquez les 3 liens dans la section ci-dessus.

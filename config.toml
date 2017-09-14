@@ -17,7 +17,6 @@ preserveTaxonomyNames = true
   favicon = "favicon.ico"
   hideEntryNavigation = true
   customCSS = ["css/custom.css"]
-  customJS = ["js/custom.js"]
   hideSocialMenu = true
   showReadTime = true
 
