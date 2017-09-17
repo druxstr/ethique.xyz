@@ -685,8 +685,11 @@ a:hover {
 
 .entry-content a:active,
 .entry-content a:focus,
-.entry-content a:hover {
-    border-bottom-color: #ffcd00
+.entry-content a:hover,
+.list-item-title a:active,
+.list-item-title a:focus,
+.list-item-title a:hover {
+    border-bottom-color: #ffcd00;
 }
 
 .main-menu a,
@@ -699,7 +702,8 @@ a:hover {
     color: #263238
 }
 
-.entry-content a {
+.entry-content a,
+.list-item-title a {
     border-bottom: .11111em solid /* #bdbdbd */
 }
 

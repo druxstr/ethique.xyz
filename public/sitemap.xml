@@ -32,13 +32,13 @@
   </url>
   
   <url>
-    <loc>http://ethique.xyz/tags/ethique.xyz/</loc>
+    <loc>http://ethique.xyz/categories/ethique.xyz/</loc>
     <lastmod>2017-08-16T12:00:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ethique.xyz/categories/ethique.xyz/</loc>
+    <loc>http://ethique.xyz/tags/ethique.xyz/</loc>
     <lastmod>2017-08-16T12:00:00+06:00</lastmod>
     <priority>0</priority>
   </url>
