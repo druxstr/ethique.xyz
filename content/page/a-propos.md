@@ -6,11 +6,13 @@ menu: main
 weight: -170
 ---
 
-Ce site a pour objectif principal de présenter l'éthique minimale de [Ruwen Ogien](https://fr.wikipedia.org/wiki/Ruwen_Ogien) de façon claire, exacte, et accessible au plus grand nombre. Il a aussi pour objectif d'héberger des discussions, critiques ou des continuations du travail d'Ogien, via la section "Blog".
+Ce site a pour objectif principal de présenter l'éthique minimale de [Ruwen Ogien](https://fr.wikipedia.org/wiki/Ruwen_Ogien) de façon claire, exacte, et accessible au plus grand nombre. Il a aussi pour objectif d'héberger des discussions, critiques ou des continuations du travail d'Ogien, via [la section "Blog"](/blog/).
 
 ## Contact
 
 ![contact](/media/contact.png)
+
+---
 
 ## Réutilisation & partage
 

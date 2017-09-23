@@ -2,6 +2,7 @@
 title: Principe de non-nuisance
 description: L'éthique minimale nous demande de "ne pas nuire aux autres". Mais que signifie "nuire" ? Qui sont les "autres" ? Où commence et où s'arrête la nuisance ?
 ---
+![Ne pas nuire](/media/ne-pas-nuire.png)
 
 L'éthique minimale reprend le [principe de non-nuisance](https://fr.wikipedia.org/wiki/Harm_principle) énoncé par John Stuart Mill en 1859 dans *De la liberté*[^1]. Selon ce principe, la seule raison légitime d'interférer avec les affaires des autres est d'empêcher que du tort soit causé à autrui.
 
@@ -119,7 +120,10 @@ MDCC admet que possible, mais sans valeur morale p. 101 p.133. Et je m'appuierai
 * [Principe d'égale considération de chacun](/page/egale-consideration-de-chacun)
 * [Principe d'indifférence morale du rapport à soi](/page/indifference-morale-rapport-a-soi)
 
-## Notes
+## Notes & crédits
+
+Image : CC-BY-SA 4.0 Ethique.xyz, à partir de [Assault par parkjisun](https://thenounproject.com/icon/302798/) & [Forbidden par Noah](https://thenounproject.com/icon/1232525/)
+
 [^1]: Ruwen Ogien, *Penser la pornographie*, 2003, PUF, Ch. 1, p. 12-13 ; *La panique morale*, 2005, Grasset, Ch. 1, p. 39-42 & p. 327 note 30 ; *L'éthique aujourd'hui*, Gallimard, 2007, Ch. 8, p. 156.
 
 [^2]: Ruwen Ogien, *L'éthique aujourd'hui*, Introduction, p. 21-22 & Ch. 4, p. 83-84 ; "Que reste-t-il de la liberté d'offenser ?" in *Mon dîner chez les cannibales*, 2016, Grasset, p. 70.
@@ -159,8 +163,3 @@ MDCC admet que possible, mais sans valeur morale p. 101 p.133. Et je m'appuierai
 [^19]: Ruwen Ogien, *L'éthique aujourd'hui*, Conclusion, p. 195-199
 
 [^20]: *Ibid*, Ch. 4, p. 77-80
-<!--
-
-[^5b]: ogien n'est pas toujours clair sur le critère de l'intentionnalité : s'agit t-il d'agir intentionnellement (par rapport aux agissements involontaires), ou s'agit-il en plus de "vouloir nuire", de chercher consciemment à causer du tort (ce qui n'exclut pas qu'on échoue).
-
--->

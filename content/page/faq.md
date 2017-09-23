@@ -23,18 +23,16 @@ weight: -10
 
   [Wikipédia](https://fr.wikipedia.org/w/index.php?title=%C3%89thique_minimale&oldid=137352851) a longtemps affirmé qu'Ogien avait réduit l'éthique minimale au seul principe de non-nuisance. Mais cette partie de l'article Wikipédia n'était pas sourcée, ou de façon contestable (appui sur une citation au conditionnel dans un article de presse).
 
-  Cependant, il est vrai qu'Ogien parle progressivement moins des autres principes de l'éthique minimale. Dans ses ouvrages postérieurs à *L'éthique aujourd'hui*, il mobilise presque uniquement le principe de non-nuisance.
-
-  Ce n'est pas forcément dû à une évolution de la théorie. Il est possible que les autres principes (plus abstraits) n'aient pas besoin d'être mobilisés dans ses travaux postérieurs ou ses textes "grand public".
+  Cependant, il est vrai qu'Ogien parle moins des autres principes de l'éthique minimale dans ses ouvrages postérieurs à *L'éthique aujourd'hui*. Même lorsqu'il mobilise *de fait* ces principes et s'appuie sur eux, il ne l'indique pas toujours explicitement.
 
   D'un point de vue intellectuel, admettre l'abandon d'un principe (ou plus) pose de lourds problèmes. Ogien aurait profondément remanié sa théorie, sans expliquer pourquoi, ni le mentionner explicitement...
 
-  Il semble *improbable* qu'Ogien abandonne le principe de considération égale. Selon lui, c'est un principe central que toute théorie morale doit accepter par défaut. Il exprime "le point de vue moral".
+  Il semble *improbable* qu'Ogien abandonne le [principe de considération égale](/page/egale-consideration-de-chacun/). Selon lui, c'est un principe central que toute théorie morale doit accepter par défaut. Il exprime "le point de vue moral".
 
-  Il semble *concevable* qu'Ogien supprime le principe d'indifférence morale du rapport à soi, qui pourrait être impliqué par le principe de non-nuisance à autrui. Mais Ogien avait déjà envisagé cette idée dans *L'éthique aujourd'hui* et l'avait rejetée.
+  Il semble *concevable* qu'Ogien supprime le [principe d'indifférence morale du rapport à soi](/page/indifference-morale-rapport-a-soi/), qui pourrait être impliqué par le principe de non-nuisance à autrui. Mais Ogien avait déjà envisagé cette idée dans *L'éthique aujourd'hui* et l'avait rejetée.
 
   Bref, la situation est compliquée. Si vous disposez d'informations permettant de trancher définitivement la question : [écrivez-moi de suite](/page/a-propos/#contact).
-  <span>[permalien](#2007)</span>
+  <span>[[permalien]](#2007)</span>
 </details>
 <details id="evolution">
   <summary>Les principes ont-ils toujours été les mêmes&nbsp;?</summary>

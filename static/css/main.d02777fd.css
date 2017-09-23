@@ -943,6 +943,10 @@ div .footnotes ol li {
   padding-bottom: 1em;
 }
 
+img {
+  margin-bottom: 1em;
+}
+
 @media (max-width:600px){
 
 body,

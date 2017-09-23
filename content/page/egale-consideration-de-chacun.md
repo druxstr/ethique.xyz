@@ -2,6 +2,7 @@
 title: Principe d'égale considération
 description: L'éthique minimale nous invite à "considérer chacun également". Mais que veut-elle dire par là ?
 ---
+![Considérer également](/media/considerer-egalement.png)
 Le principe d'égale considération est un principe moral qui nous demande d'accorder la même valeur à la voix et aux revendications de chacun. L'éthique minimale le désigne aussi comme "égale considération de chacun"[^1] ou, dans sa formulation complète :
 
 > considération égale de la voix et des revendications de chacun *dans la mesure où elles possèdent une valeur impersonnelle*[^2].
@@ -84,7 +85,9 @@ Cette diversité montre que le principe est robuste : il est plus stable que les
 * [Principe de non-nuisance](/page/principe-non-nuisance)
 * [Principe d'indifférence morale du rapport à soi](/page/indifference-morale-rapport-a-soi)
 
-## Notes
+## Notes & crédits
+
+Image : CC-BY-SA 4.0 Ethique.xyz, à partir de [Lawyer par Luis Prado](https://thenounproject.com/icon/74832/)
 
 [^1]: *L'éthique aujourd'hui*, Conclusion, p. 196
 
