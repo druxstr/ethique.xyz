@@ -1,8 +1,7 @@
 ---
 title: Principe de non-nuisance
-description: L'éthique minimale nous demande de "ne pas nuire aux autres". Mais que signifie "nuire" ? Qui sont les "autres" ? Où commence et où s'arrête la nuisance ?
+description: L'éthique minimale nous demande de "ne pas nuire aux autres". Mais que signifie "nuire" ? Qui sont les "autres" ? Et où s'arrête la nuisance ?
 ---
-![Ne pas nuire](/media/ne-pas-nuire.png)
 
 L'éthique minimale reprend le [principe de non-nuisance](https://fr.wikipedia.org/wiki/Harm_principle) énoncé par John Stuart Mill en 1859 dans *De la liberté*[^1]. Selon ce principe, la seule raison légitime d'interférer avec les affaires des autres est d'empêcher que du tort soit causé à autrui.
 
@@ -40,16 +39,17 @@ Ce dommage doit être causé intentionnellement[^7]. Les dommages qu'on cause de
 
 Le dommage doit aussi être direct, c'est-à-dire produit personnellement par l'agent[^8]. Les dommages indirects, qui ont lieu parce qu'on n'a pas agi pour les empêcher, ne relèvent pas du principe de non-nuisance. Selon l'éthique minimale, il faut utiliser un autre principe pour les prendre en compte.
 
-Enfin ce dommage ne devrait pas avoir été consenti au préalable[^9]. Dans un match de boxe ou des pratiques sadomasochistes, les participants ont donné leur accord pour recevoir certains dommages. Ils ne subissent aucun préjudice, dans la mesure où le cadre auquel ils ont consenti est respecté.
+Enfin ce dommage ne doit pas avoir été consenti au préalable[^9]. Dans un match de boxe ou des pratiques sadomasochistes, les participants ont donné leur accord pour recevoir certains dommages. Ils ne subissent aucun préjudice, dans la mesure où le cadre auquel ils ont consenti est respecté.
 
 De façon générale, le dommage doit pouvoir être dit "injuste" sous un aspect important[^10]. En épousant quelqu'un, on provoque parfois un dommage émotionnel intense chez sa famille ou ses soupirants : il n'est pas pour autant "injuste" de se marier.
 
 Ici encore l'éthique minimale laisse des questions ouvertes[^5] :
 
+* Si on consent "après coup", en réalisant que le dommage qu'on subit a eu un effet positif, cela annule-t-il le tort ?
 * Un voleur qui se ferait voler son butin pourrait-il dire qu'on lui nuit, alors que sa situation initiale était illégitime ?
 * Peut-on admettre un "tort à être né" gravement handicapé, quand le handicap était prévisible et évitable ?
 
-Sur tous ces points, le minimalisme ne clôt la réflexion.
+Sur tous ces points, le minimalisme ne cherche pas à clore la réflexion.
 
 <!-- atteintes aux biens incluses par ex MDcC p70] -->
 
@@ -57,7 +57,7 @@ Sur tous ces points, le minimalisme ne clôt la réflexion.
 
 L'objectif de l'éthique minimale n'est pas de réduire les libertés au nom de crimes imaginaires. Elle se méfie des ["crimes" sans victimes](https://fr.wikipedia.org/wiki/Crime_sans_victime), sans auteurs, ou dont les "auteurs" ne pouvaient ni prévoir ni empêcher les souffrances qu'ils ont provoquées.
 
-Ce que l'éthique minimale cherche à éviter, ce sont les atteintes graves à l'intégrité physique et psychologique des personnes (ou à certains de leurs droits fondamentaux)[^11].
+Ce que l'éthique minimale cherche à éviter, ce sont les atteintes graves à l'intégrité physique et psychologique des personnes (ou à certains de leurs droits fondamentaux).
 
 Elle rejette donc les usages trop larges du principe de non-nuisance, qui conduisent à voir la nuisance partout, quitte à détourner le principe de son esprit d'origine. Ce rejet s'exprime de 2 façons :
 
@@ -66,25 +66,25 @@ Elle rejette donc les usages trop larges du principe de non-nuisance, qui condui
 
 ## Nuire n'est pas offenser
 
-L'éthique minimale distingue "nuire" et "offenser"[^12]. Les blasphèmes, les œuvres artistiques subversives ou les signes religieux ostentatoires peuvent "offenser". Il s'agit d'actes ou de représentations qui provoquent des émotions négatives chez certains publics. Ils peuvent se dire "choqués", "dégoûtés" ; ils peuvent ressentir de l'anxiété ou des désagréments sensoriels (auditifs, olfactifs...).
+L'éthique minimale distingue "nuire" et "offenser"[^11]. Les blasphèmes, les œuvres artistiques subversives ou les signes religieux ostentatoires peuvent "offenser". Il s'agit d'actes ou de représentations qui provoquent des émotions négatives chez certains publics. Ils peuvent se dire "choqués", "dégoûtés" ; ils peuvent ressentir de l'anxiété ou des désagréments sensoriels (auditifs, olfactifs...).
 
-Ces souffrances émotionnelles ne constituent pas un préjudice *moral* aux yeux de l'éthique minimale. Elles sont vagues (difficiles à identifier et mesurer), inévitables (elles peuvent toujours avoir lieu quoiqu'on fasse pour les prévenir), et causées sans intention de nuire[^13]. Chercher à les protéger aboutirait à un moralisme généralisé.
+Ces souffrances émotionnelles ne constituent pas un préjudice *moral* aux yeux de l'éthique minimale. Elles sont vagues (difficiles à identifier et mesurer), inévitables (elles peuvent toujours avoir lieu quoiqu'on fasse pour les prévenir), et causées sans intention de nuire[^12]. Chercher à les protéger aboutirait à un moralisme généralisé.
 
 On trouvera *toujours* quelqu'un pour s'offusquer des jupes trop courtes en été. Si celui-là disait souffrir atrocement en sortant au mois d'août à Paris, faudrait-il interdire les jupes ? Imposer "le niqab pour tous" ? La situation ne serait pas plus légitime si la plupart des membres de la société partageait le sentiment de notre "super-puritain".
 
-La différence entre nuire et offenser peut parfois s'estomper[^14]. Ce qui semblerait une offense dans la plupart des cas *peut* se révéler être un tort authentique. Mais ces situations ne remettent pas en cause la séparation nuire / offenser de façon générale.
+La différence entre nuire et offenser peut parfois s'estomper[^13]. Ce qui semblerait une offense dans la plupart des cas *peut* se révéler être un tort authentique. Mais ces situations ne remettent pas en cause la séparation nuire / offenser de façon générale.
 
 La nuisance est immorale et attente aux droits ou à la personne d'autrui. L'offense est désagréable (peut-être), mais ne cause aucun préjudice moral.
 
 ## Ne pas agir n'est pas nuire
 
-Certains philosophes considèrent que le principe de non-nuisance s'étend aux dommages indirects[^15]. Il permettrait de justifier l'assistance à personne en danger et les contributions au bien collectif (témoigner au tribunal, etc.). Selon eux, il existe un ensemble de cas où ne rien faire, ne pas intervenir, c'est nuire.
+Certains philosophes considèrent que le principe de non-nuisance s'étend aux dommages indirects[^14]. Il permettrait de justifier l'assistance à personne en danger et les contributions au bien collectif (témoigner au tribunal, etc.). Selon eux, il existe un ensemble de cas où ne rien faire, ne pas intervenir, c'est nuire.
 
 * Ne pas aider une victime d'accident qui se vide de son sang sur le bord de la route, n'est-ce pas lui causer du tort ?
 * Refuser de témoigner à un procès pour empêcher une erreur judiciaire, n'est-ce pas provoquer un dommage injuste ?
 * Que penserait-on de quelqu'un qui laisserait se produire un attentat, alors qu'il connaissait les plans des assaillants et aurait aisément pu les dénoncer à la police ?
 
-L'éthique minimale rejette toutefois l'idée qu'on puisse nuire indirectement, du seul fait qu'on n'a pas agi ou réagi[^16]. Elle accepte une version "étroite" du principe, qui ne cible que les dommages directs.
+L'éthique minimale rejette toutefois l'idée qu'on puisse nuire indirectement, du seul fait qu'on n'a pas agi ou réagi[^15]. Elle accepte une version "étroite" du principe, qui ne cible que les dommages directs.
 
 Selon elle, les actions précitées sont bien condamnables, mais pas en vertu du principe de non-nuisance. Elles violent le [principe de considération égale](/page/egale-consideration-de-chacun).
 
@@ -92,11 +92,11 @@ Selon elle, les actions précitées sont bien condamnables, mais pas en vertu du
 
 Le principe de non-nuisance nous demande ne pas intervenir dans les affaires des autres, sauf pour les empêcher de causer du tort à autrui. C'est pourquoi l'éthique minimale le désignait pendant un temps comme "[principe d'intervention limitée ](/page/formulations-ethique-minimale/)".
 
-Cette non-intervention est à comprendre de façon assez large. Il s'agit de ne pas utiliser la contrainte physique, économique, psychologique pour forcer quelqu'un à abandonner ses projets ou à changer son style de vie[^17].
+Cette non-intervention est à comprendre de façon assez large. Il s'agit de ne pas utiliser la contrainte physique, économique, psychologique pour forcer quelqu'un à abandonner ses projets ou à changer son style de vie[^16].
 
-Mais l'éthique minimale demande aussi de renoncer à des interventions plus "diffuses" : celles qui passent par le rire, le sarcasme, le mépris, l'insulte, l'ostracisme, la culpabilisation, l'humiliation, etc.[^18]. Elles ne sont pas forcément plus sympathiques que les précédentes.
+Mais l'éthique minimale demande aussi de renoncer à des interventions plus "diffuses" : celles qui passent par le rire, le sarcasme, le mépris, l'insulte, l'ostracisme, la culpabilisation, l'humiliation, etc.[^17]. Elles ne sont pas forcément plus sympathiques que les précédentes.
 
-En fait, l'éthique minimale nous invite à contenir notre penchant à faire la "police morale"[^19], à nous ingérer dans les affaires d'autrui au nom de la morale - même quand personne ne subit de préjudice.
+En fait, l'éthique minimale nous invite à contenir notre penchant à faire la "police morale"[^18], à nous ingérer dans les affaires d'autrui au nom de la morale - même quand personne ne subit de préjudice.
 
 ## Un principe moral
 
@@ -106,7 +106,7 @@ En démocratie libérale, l'idée que l'État ne puisse s'ingérer dans nos affa
 
 Mais nombre de ceux qui admettent le principe de non-nuisance en font un usage strictement *politique*. Selon eux, le principe règle nos rapports avec l'État, pas les rapports entre individus. Pour tout ce qui touche au champ moral, il n'y a pas de raison de se limiter au principe de ne pas nuire.
 
-C'est ce qui les distingue des défenseurs de l'éthique minimale. Ces derniers font une lecture *morale* du principe de non-nuisance[^20]. Ils ne voient pas pourquoi limiter son usage au champ politique.
+C'est ce qui les distingue des défenseurs de l'éthique minimale. Ces derniers font une lecture *morale* du principe de non-nuisance[^19]. Ils ne voient pas pourquoi limiter son usage au champ politique.
 
 <!-- LPM p.39 ; LEA p. 77 -->
 
@@ -120,46 +120,52 @@ MDCC admet que possible, mais sans valeur morale p. 101 p.133. Et je m'appuierai
 * [Principe d'égale considération de chacun](/page/egale-consideration-de-chacun)
 * [Principe d'indifférence morale du rapport à soi](/page/indifference-morale-rapport-a-soi)
 
-## Notes & crédits
+## Notes
+[^1]: Ruwen Ogien, *Penser la pornographie*, 2003, PUF, Ch. 1., p. 12-13 ; *La panique morale*, 2005, Grasset, Ch. 1, p. 39-42 & p. 327 note 30 ; *L'éthique aujourd'hui*, Gallimard, 2007, Ch. 8, p. 156
 
-Image : CC-BY-SA 4.0 Ethique.xyz, à partir de [Assault par parkjisun](https://thenounproject.com/icon/302798/) & [Forbidden par Noah](https://thenounproject.com/icon/1232525/)
+[^2]: Ruwen Ogien, *L'éthique aujourd'hui*, Introduction, p. 21-22 & Ch. 4., p. 83-84 ; "Que reste-t-il de la liberté d'offenser ?" in *Mon dîner chez les cannibales*, 2016, Grasset, p. 70.
 
-[^1]: Ruwen Ogien, *Penser la pornographie*, 2003, PUF, Ch. 1, p. 12-13 ; *La panique morale*, 2005, Grasset, Ch. 1, p. 39-42 & p. 327 note 30 ; *L'éthique aujourd'hui*, Gallimard, 2007, Ch. 8, p. 156.
+[^3]: Ruwen Ogien, *L'éthique aujourd'hui*, Ch. 4., p. 83-84. Il semble qu'Ogien soit tenté de considérer la société comme une entité abstraite. Cependant le principe de non-nuisance est censé pouvoir protéger des "groupes de personnes clairement identifiés" (*op. cit.* p. 93). Concernant l'extension du principe au-delà des personnes humaines, Ogien mentionne le statut moral "controversé" d'êtres comme les foetus (être concrêt non personnel) et les animaux (dont certains au moins sont des personnes).
 
-[^2]: Ruwen Ogien, *L'éthique aujourd'hui*, Introduction, p. 21-22 & Ch. 4, p. 83-84 ; "Que reste-t-il de la liberté d'offenser ?" in *Mon dîner chez les cannibales*, 2016, Grasset, p. 70.
+[^4]: *Ibid.*, Ch. 4., p. 81
 
-[^3]: Ruwen Ogien, *L'éthique aujourd'hui*, Ch. 4, p. 83-84. Il semble qu'Ogien soit tenté de considérer la société comme une entité abstraite. Cependant le principe de non-nuisance est censé pouvoir protéger des "groupes de personnes clairement identifiés" (*op. cit.* p. 93). Concernant l'extension du principe au-delà des personnes humaines, Ogien mentionne le statut moral "controversé" d'êtres comme les foetus (être concrêt non personnel) et les animaux (dont certains au moins sont des personnes).
+[^5]: *Ibid.*, Ch. 4., p. 81-83
 
-[^4]: *Ibid.*, Ch. 4, p. 81
+[^6]: *Ibid.*, Ch. 3., p. 64-66, 95-96. L'engagement d'Ogien pour des outils conceptuels qui permettent de démontrer / vérifier ce qu'on affirme est visible dans sa critique de la notion de caractère. Son enthousiasme envers la dénonciation de crimes moraux imaginaires est par ailleurs assez limité, c'est le moins qu'on puisse dire.
 
-[^5]: *Ibid.*, Ch. 4, p. 81-83. Le dommage peut être de différente nature : physique, psychologique, économique... Pour la reconnaissance des dommages psychologiques, voir Ch. 1, p. 29-30 & Ch. 4, p. 93 et 99.
-
-[^6]: *Ibid.*, Ch. 3, p. 64-66, 95-96 & Ch. 6, p. 128. L'engagement d'Ogien pour des outils conceptuels qui permettent de démontrer / vérifier ce qu'on affirme est visible dans sa critique de la notion de caractère. Son enthousiasme envers la dénonciation de crimes moraux imaginaires est par ailleurs assez limité, c'est le moins qu'on puisse dire. Voir aussi Ruwen Ogien, “Que reste-t-il de la liberté d'offenser ?” in *Mon dîner chez les cannibales*, p. 72.
-
-[^7]: *Ibid.*, Ch. 4, p. 84-88 (en particulier p. 85-86), p. 96-97, et p. 99
+[^7]: *Ibid.*, Ch. 4., p. 84-88 (en particulier p. 85-86), p. 96-97, et p. 99
 
 [^8]: Ruwen Ogien, "Mon dîner chez les cannibales" in *Mon dîner chez les cannibales*, p. 100. Également *L'éthique aujourd'hui*, Ch. 5 p. 100-101 & p. 112-116, en particulier p. 115-116
 
-[^9]: Ruwen Ogien, *L'éthique aujourd'hui*, Ch. 1, p. 30 & Ch. 4, p. 81. Pour être exact, le consentement n'est pas un critère direct de la nuisance. C'est un critère du juste dans les relations entre les personnes ("La fabrique du consentement" in *Mon dîner chez les cannibales*, p. 207-208). En l'absence de consentement à un dommage, il y a une *présomption* d'injustice, qui doit être confirmée pour constituer la nuisance. Mais Ogien cite presque toujours l'absence de consentement lorsqu'il explique le principe de non-nuisance (*La liberté d'offenser*, p. 15-16 ou *La vie, la mort et l'État*, p. 49-50, par ex.). Voir *L'éthique aujourd'hui*, Ch. 10 p. 173-183 pour l'analyse de la notion de consentement et des problèmes qu'elle soulève. Sur la valeur relative que l'éthique minimale accorde au consentement, cf. p. 182.
+[^9]: Ruwen Ogien, *L'éthique aujourd'hui*, Ch. 4., p. 81. Voir aussi Ch. 10 p. 73-83 pour l'analyse de la notion de consentement et des problèmes qu'elle soulève
 
 [^10]: *Ibid.*, Ch. 4, p. 81-82
 
-[^11]: *La liberté d'offenser*, Avant-propos, p. 15, et *La vie, la mort, et l'État*, p. 87-88
+[^11]: *Ibid.*, Ch. 4, p. 95 & Ruwen Ogien, *La liberté d'offenser*, Avant-propos, p. 15-20
 
-[^12]: *Ibid.*, p. 15-20, et *L'éthique aujourd'hui*, Ch. 4, p. 95
+[^12]: Ruwen Ogien, *L'éthique aujourd'hui*, Ch. 4, p. 95-99
 
-[^13]: Ruwen Ogien, *L'éthique aujourd'hui*, Ch. 4, p. 95-99
+[^13]: Ruwen Ogien, *La liberté d'offenser*, Avant-propos, p. 18
 
-[^14]: Ruwen Ogien, *La liberté d'offenser*, Avant-propos, p. 18
+[^14]: Ruwen Ogien, *L'éthique aujourd'hui*, Ch. 5, p. 115 & 102-105. Mill lui-même considère que le principe de non-nuisance peut s'appliquer aux dommages indirects. Même si c'est l'exception plutôt que la règle.
 
-[^15]: Ruwen Ogien, *L'éthique aujourd'hui*, Ch. 5, p. 115 & 102-105. Mill lui-même considère que le principe de non-nuisance peut s'appliquer aux dommages indirects. Même si c'est selon lui une exception plutôt que la règle.
+[^15]: *Ibid.* p. 113, 115 et 118. Ogien stipule que selon l'interprétation qu'on choisit du principe de non-nuisance, on aura (ou pas) besoin d'un autre principe pour construire une théorie éthique complète et satisfaisante. Il conteste ensuite que les principes d'assistance soient *toujours* réductibles au principe de non-nuisance.
 
-[^16]: *Ibid.* p. 113, 115 et 118. Ogien stipule que selon l'interprétation qu'on choisit du principe de non-nuisance, on aura (ou pas) besoin d'un autre principe pour construire une théorie éthique complète et satisfaisante. Il conteste ensuite que les principes d'assistance soient *toujours* réductibles au principe de non-nuisance.
+[^16]: *Ibid.*, p. 102-103 & Ch.6, p. 138-139 . Ogien structure son propos autour de 3 oppositions. Il distingue les interventions : a) formelles VS informelles ; b) collectives VS individuelles ; c) organisées VS diffuses. Il sépare les interventions Étatiques (formelles, organisées) et celles venant de "chacun et tout le monde" (informelles, diffuses). L'idée est bien sûr d'éviter les interventions paternalistes.
 
-[^17]: *Ibid.*, p. 102-103 & Ch.6, p. 138-139 . Ogien structure son propos autour de 3 oppositions. Il distingue les interventions : a) formelles VS informelles ; b) collectives VS individuelles ; c) organisées VS diffuses. Il sépare les interventions Étatiques (formelles, organisées) et celles venant de "chacun et tout le monde" (informelles, diffuses). L'idée est bien sûr d'éviter les interventions paternalistes.
+[^17]: Ruwen Ogien, *La panique morale*, p. 39 ; *L'éthique aujourd'hui*, Ch. 6, p. 138-139
 
-[^18]: Ruwen Ogien, *La panique morale*, p. 39 ; *L'éthique aujourd'hui*, Ch. 6, p. 138-139
+[^18]: Ruwen Ogien, *L'éthique aujourd'hui*, Conclusion, p. 195-199
 
-[^19]: Ruwen Ogien, *L'éthique aujourd'hui*, Conclusion, p. 195-199
+[^19]: *Ibid*, Ch. 4, p. 77-80
+<!--
 
-[^20]: *Ibid*, Ch. 4, p. 77-80
+[^4b]: voir par ex MDCC " que reste-t-il de la liberté d'offenser", dernière pages
+
+[^5b]: ogien n'est pas toujours clair sur le critère de l'intentionnalité : s'agit t-il d'agir intentionnellement (par rapport aux agissements involontaires), ou s'agit-il en plus de "vouloir nuire", de chercher consciemment à causer du tort (ce qui n'exclut pas qu'on échoue).
+
+[^9b]: LdO p. 18
+
+LEA p.30 sur la caractérisation d'un dommage en tort du fait de l'injustice
+
+-->

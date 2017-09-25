@@ -1,5 +1,5 @@
 +++
-date = "2017-09-23T12:00:00+06:00"
+date = "2017-09-25T12:00:00+06:00"
 title = "La notion de dommage en éthique minimale"
 description = "L'éthique minimale demande de ne pas causer certains dommages. Mais qu'entend-elle par dommage ?"
 categories = ["critique", "exegèse"]
@@ -18,7 +18,7 @@ S'il n'y a pas de dommage, il n'y a pas de nuisance. L'existence d'un dommage es
 
 En l'absence de dommage avéré, on devra prendre d'extrêmes précautions avant de crier au tort. N'est-on pas en train d'imaginer un crime sans victime&nbsp;? De condamner un préjudice inexistant&nbsp;?
 
-La definition et l'identification des dommages est un enjeu pour l'éthique minimale, puisque la nuisance est une sorte de dommage particulière[^2].
+La définition et l'identification des dommages est un enjeu pour l'éthique minimale, puisque la nuisance est une sorte de dommage particulière[^2].
 
 ## Qu'est-ce qu'un dommage&nbsp;?
 
@@ -70,9 +70,9 @@ Pour le savoir, il faudrait comparer son état actuel avec un autre. Mais lequel
 
 Le tort à être né handicapé n'est pas le seul cas limite que rencontre l'éthique minimale. On peut se demander si l'éthique d'Ogien peut expliquer le dommage à être tué[^13]. Après tout, l'état dans lequel on serait "après sa mort" semble aussi étrange que celui dans lequel on serait "avant d'être né".
 
-Est-ce forcément un état "moins bon" que celui dans lequel on était auparavant&nbsp;? Ne pourrait-il pas être *meilleur*&nbsp;? Peut-on balayer d'un revers de main l'avis de ceux qui croient à une vie après la mort&nbsp;? Et, quoiqu'il en soit, sur quels éléments s'appuie-t-on pour parler d'un tel état&nbsp;? Il semble qu'ici aussi, un des termes manque pour réaliser une comparaison.
+Est-ce forcément un état "moins bon" que celui dans lequel on était auparavant&nbsp;? Ne pourrait-il pas être *meilleur*&nbsp;? Peut-on balayer d'un revers de main l'avis de ceux qui croient à une vie après la mort&nbsp;? Et, quoi qu'il en soit, sur quels éléments s'appuie-t-on pour parler d'un tel état&nbsp;? Il semble qu'ici aussi, un des termes manque pour réaliser une comparaison.
 
-Le probleme ne se pose pas uniquement pour les cas de suicide assisté ou d'euthanasie des mourants. Il s'étend à *tous les homicides non consentis* quels qu'ils soient. Même si ce genre d'homicide semble généralement injuste, ce n'est pas l'injustice qui est problématique dans ces situations.
+Le problème ne se pose pas uniquement pour les cas de suicide assisté ou d'euthanasie des mourants. Il s'étend à *tous les homicides non consentis* quels qu'ils soient. Même si ce genre d'homicide semble généralement injuste, ce n'est pas l'injustice qui est problématique dans ces situations.
 
 Ce qui ne va pas, c'est que le *dommage* n'est pas constitué. Il n'y a pas de "dommage injuste", parce qu'il n'y a pas de dommage tout court. Affirmer (par exemple) que tout ce qui viole notre consentement est injuste ne suffit pas à constituer le dommage manquant.
 
@@ -104,7 +104,7 @@ Image : CC-BY-SA 4.0 Ethique.xyz, à partir de [Hit par Ezra Keddell](https://th
 
 [^6]: La distinction entre dommages émotionnels et psychologiques n'est pas clairement établie par Ogien. Les deux relèvent de dommages "subjectifs" et posent des problèmes d'identification. Ogien utilise en général "dommages émotionnels" pour ceux qui ne sont pas pris en compte par le principe de non-nuisance. Il privilégie "dommages psychologiques" pour ceux qui peuvent constituer des nuisances authentiques. Mais il lui arrive de ne pas respecter cette séparation.
 
-[^7]: "Il me semble que les supposés 'dommages psychologiques' posent des problèmes d'identité de même nature. L'état psychique qui permettrait [...] d'apprécier l'étendue du dommage subi, est impossible à reconstituer. Comment établir la réalité du dommage et son ampleur dans ces conditions&nbsp;?" *Ibid*. p.82-83. Voir aussi p. 95-99, en particulier la section "Vagues" p. 95-96.<br>On est toutefois pas obligé de suivre Ogien sur le caractère *impossible* à reconstituer des états psychiques. Une reconstitution partielle et imprécise de l'état pourrait suffire à constater la dégradation.
+[^7]: "Il me semble que les supposés 'dommages psychologiques' posent des problèmes d'identité de même nature. L'état psychique qui permettrait [...] d'apprécier l'étendue du dommage subi, est impossible à reconstituer. Comment établir la réalité du dommage et son ampleur dans ces conditions&nbsp;?" *Ibid*. p.82-83. Voir aussi p. 95-99, en particulier la section "Vagues" p. 95-96.<br>On n'est toutefois pas obligé de suivre Ogien sur le caractère *impossible* à reconstituer des états psychiques. Une reconstitution partielle et imprécise de l'état pourrait suffire à constater la dégradation.
 
 [^8]: "Dire qu'il faudrait exclure du domaine d'application du principe de non-nuisance *certaines* souffrances émotionnelles [...] ne revient pas à soutenir qu'il faudrait exclure *toutes* les douleurs supposées 'psychologiques' ou 'subjectives' de ce domaine. [...] Si le principe de non-nuisance devait exclure ce genre de dommages, il serait certainement trop pauvre" *Op. cit.*. p. 99
 
@@ -122,4 +122,4 @@ Image : CC-BY-SA 4.0 Ethique.xyz, à partir de [Hit par Ezra Keddell](https://th
 
 [^15]: Pensez à quelqu'un qui empoisonnerait ses victimes pendant leur sommeil avec un poison indolore. Ou aux victimes d'une mort violente et rapide qui "n'ont pas eu le temps de comprendre de ce qui leur arrivait ou de souffrir". De façon plus abstraite, si on pouvait tuer instantanément et sans douleur, cela constituerait-il un dommage&nbsp;?
 
-[^16]: C'est loin d'être évident. Imaginez qu'un oncle que vous n'aimez pas verse 10 000 € sur votre compte en banque. Vous lui aviez bien dit que vous ne vouliez pas de son argent au préalable, mais il a passé outre. Avez-vous subi un dommage&nbsp;?<br>Pensez aussi aux situations où quelqu'un vous fait quelque chose contre votre gré (ou sans vous demander votre avis). Si vous "finissez par aimer ça" ou que "vous êtes contents du résultat", y-a-t-il quand même eu dommage&nbsp;?
+[^16]: C'est loin d'être évident. Imaginez qu'un oncle que vous n'aimez pas verse 10 000 € sur votre compte en banque. Vous lui aviez bien dit que vous ne vouliez pas de son argent au préalable, mais il a passé outre. Avez-vous subi un dommage&nbsp;?<br>Pensez aussi aux situations où quelqu'un vous fait quelque chose contre votre gré (ou sans vous demander votre avis). Si vous "finissez par aimer ça" ou que "vous êtes content du résultat", y-a-t-il quand même eu dommage&nbsp;?

@@ -1,7 +1,7 @@
 ---
 title: Accueil
 menu: main
-description: hello world !!!
+description: "Un site sur l'éthique de Ruwen Ogien"
 weight: -270
 ---
 
@@ -13,7 +13,7 @@ L'éthique minimale est une théorie qui réduit l'éthique à un minimum de pri
 
 ## Les 3 principes de l'éthique minimale
 
-**Ne pas nuire aux autres**. C'est-à-dire ne pas causer délibérément et directement des dommages injustes. Ce principe nous demande de ne pas nuire aux êtres vivants concrets et d'intervenir si quelqu'un tente de leur causer du tort.<br>*Explication détaillée&nbsp;: [principe de non-nuisance](/page/principe-non-nuisance)*.
+**Ne pas nuire aux autres**. C'est-à-dire ne pas causer délibérément et directement des dommages injustes. Ce principe nous demande de ne pas nuire aux personnes vivantes concrètes et d'intervenir si quelqu'un tente de leur causer du tort.<br>*Explication détaillée&nbsp;: [principe de non-nuisance](/page/principe-non-nuisance)*.
 
 **Considérer chacun également**. Autrement dit, éviter les formes les plus grossières de discrimination et prendre en compte les revendications importantes de chacun. C'est un principe qui nous invite à ne pas faire d’ingérence dans la vie d’autrui pour des raisons qu’il n'accepterait pas.<br>*Explication détaillée&nbsp;: [principe d'égale considération](/page/egale-consideration-de-chacun)*.
 
