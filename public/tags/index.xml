@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Éthique minimale</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 16 Aug 2017 12:00:00 +0600</lastBuildDate>
+    <lastBuildDate>Sat, 07 Oct 2017 12:00:00 +0600</lastBuildDate>
     
 	<atom:link href="http://ethique.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Consentement</title>
+      <link>http://ethique.xyz/tags/consentement/</link>
+      <pubDate>Sat, 07 Oct 2017 12:00:00 +0600</pubDate>
+      
+      <guid>http://ethique.xyz/tags/consentement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dommage</title>
+      <link>http://ethique.xyz/tags/dommage/</link>
+      <pubDate>Mon, 25 Sep 2017 12:00:00 +0600</pubDate>
+      
+      <guid>http://ethique.xyz/tags/dommage/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ethique.xyz</title>
@@ -17,6 +35,15 @@
       <pubDate>Wed, 16 Aug 2017 12:00:00 +0600</pubDate>
       
       <guid>http://ethique.xyz/tags/ethique.xyz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-nuisance</title>
+      <link>http://ethique.xyz/tags/non-nuisance/</link>
+      <pubDate>Sat, 07 Oct 2017 12:00:00 +0600</pubDate>
+      
+      <guid>http://ethique.xyz/tags/non-nuisance/</guid>
       <description></description>
     </item>
     

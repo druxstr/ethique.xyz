@@ -3,7 +3,7 @@ languageCode = "fr-fr"
 title = "Éthique minimale"
 theme = "minimo"
 
-disqusShortname = ""
+disqusShortname = "ethiquemini"
 googleAnalytics = ""
 Paginate = 50
 
@@ -21,7 +21,7 @@ preserveTaxonomyNames = true
   showReadTime = true
 
 [author.social]
-  twitter = ""
+  twitter = "burgervege"
 
 # Language Configuration
 defaultContentLanguage = "fr"

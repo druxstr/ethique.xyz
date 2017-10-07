@@ -11,11 +11,29 @@
     
     
     <item>
+      <title>Critique</title>
+      <link>http://ethique.xyz/categories/critique/</link>
+      <pubDate>Mon, 25 Sep 2017 12:00:00 +0600</pubDate>
+      
+      <guid>http://ethique.xyz/categories/critique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ethique.xyz</title>
       <link>http://ethique.xyz/categories/ethique.xyz/</link>
       <pubDate>Wed, 16 Aug 2017 12:00:00 +0600</pubDate>
       
       <guid>http://ethique.xyz/categories/ethique.xyz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exegèse</title>
+      <link>http://ethique.xyz/categories/exeg%C3%A8se/</link>
+      <pubDate>Sat, 07 Oct 2017 12:00:00 +0600</pubDate>
+      
+      <guid>http://ethique.xyz/categories/exeg%C3%A8se/</guid>
       <description></description>
     </item>
     

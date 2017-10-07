@@ -46,6 +46,12 @@ weight: -10
   Les [premières versions de l'éthique minimale](/page/formulations-ethique-minimale/) incluaient le principe de neutralité à l'égard des conceptions du bien personnel. Il n'est désormais plus central, mais il reste présent. L'éthique minimale nous demande de rester neutre au regard de ces conceptions "dans la mesure où elles ne concernent que soi-même". Une conception du bien personnel pourrait très bien inclure l'élimination physique des autres (voisins bruyants, automobilistes lents au feu rouge, etc.). L'éthique minimale n'incite alors pas à la neutralité.
   <span>[[permalien]](#neutre)</span>
 </details>
+<details id="defmorale">
+  <summary> Qu'est ce que l'éthique pour un minimaliste&nbsp;?</summary>
+
+  Pour un minimaliste, l'éthique s'intéresse à la coexistence des libertés individuelles et à la coopération sociale équitable. Elle ne cherche pas à répondre à des questions supposées "profondes" ou "existentielles". Elle n'a pas non plus vocation à régenter tous les aspects de notre existence.
+  <span>[[permalien]](#defmorale)</span>
+</details>
 <details id="moralimmoral">
   <summary>Toutes nos actions sont-elles soit morales soit immorales&nbsp;?</summary>
 
@@ -74,12 +80,22 @@ weight: -10
   Non. Toutes ces formulations sont équivalentes.
   <span>[[permalien]](#formulation)</span>
 </details>
+<details id="universel">
+  <summary>L'éthique minimale a-t-elle une prétention à l'universalité&nbsp;?</summary>
+
+  Oui, au sens où la prétention à l'universalité est un caractère fondamental de l'éthique *en général*. Mais aussi parce que le créateur de l'éthique minimale (Ruwen Ogien) n'est pas relativiste en morale.
+  <span>[[permalien]](#universel)</span>
+</details>
 <details id="autresmini">
   <summary>Peut-on faire plus minimaliste que l'éthique minimale&nbsp;?</summary>
 
-  Oui et non. Une théorie qui n'admettrait *que* le principe de non-nuisance serait plus minimaliste : elle serait constituée de moins d'éléments conceptuels.
+  Oui et non.
 
-  Cependant, si cette théorie reconnaissait une valeur morale au rapport à soi-même, elle serait en même temps *moins* minimaliste que l'éthique d'Ogien. Elle reconnaitrait un champ plus large à la morale : le rapport à autrui *et* [le rapport à soi](/page/indifference-morale-rapport-a-soi/). Sur ce dernier point, il est difficile de faire plus minimaliste que l'éthique minimale.
+  *Oui*. Une théorie qui n'admettrait *que* le principe de non-nuisance serait plus minimaliste : elle serait constituée de moins d'éléments conceptuels.
+
+  *Non*. L'éthique minimale réduit la morale au rapport à autrui, alors que d'autres théories y incluent le [rapport à soi-même](/page/indifference-morale-rapport-a-soi/). De ce point de vue, il est difficile de faire plus minimaliste.
+
+  On peut très bien réduire l'éthique à la non-nuisance *et* accorder une valeur au rapport à soi-même. Dans ce cas on est *à la fois* plus et moins minimaliste qu'Ogien.
   <span>[[permalien]](#autresmini)</span>
 </details>
 
@@ -94,8 +110,16 @@ weight: -10
 <details id="biblio">
   <summary>Y-a-t-il une bibliographie des ouvrages utilisés pour ce site&nbsp;?</summary>
 
-  Pas pour l'instant. Si vraiment ça vous intéresse, écrivez au site, je ferai une liste exhaustive. En bref, le site s'appuie sur *L'éthique aujourd'hui* et *La panique morale*, avec quelques éléments issus de *La liberté d'offenser*, de *La vie, la mort et l'État*, et de *Mon dîner chez les cannibales*.
+  Pas pour l'instant. Si vraiment ça vous intéresse, écrivez au site, je ferai une liste exhaustive. En bref, le site s'appuie sur *L'éthique aujourd'hui* et *La panique morale*, avec quelques éléments issus de *La liberté d'offenser*, de *La vie, la mort, l'État*, et de *Mon dîner chez les cannibales*.
   <span>[[permalien]](#biblio)</span>
+</details>
+<details id="pageblog">
+  <summary>Quelle est la différence entre la section "Blog" et le reste&nbsp;?</summary>
+
+  La section ""[Blog](/blog/)" est réservée aux contenus qui ne sont pas 100% ogieniens. Elle a vocation à contenir des analyses approfondies, des interprétations, des critiques ou des prolongations de l'éthique d'Ogien.
+
+  Le reste du site (la section "[Pages](/page/)" et cette FAQ) expose l'éthique minimale telle que Ruwen Ogien la présente lui-même, sans critique ni parti pris interprétatif.
+  <span>[[permalien]](#pageblog)</span>
 </details>
 <details id="qui">
   <summary>Qui fait ce site&nbsp;?</summary>

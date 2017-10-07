@@ -4,7 +4,7 @@
   
   <url>
     <loc>http://ethique.xyz/</loc>
-    <lastmod>2017-08-16T12:00:00+06:00</lastmod>
+    <lastmod>2017-10-07T12:00:00+06:00</lastmod>
   </url>
   
   <url>
@@ -16,13 +16,23 @@
   </url>
   
   <url>
+    <loc>http://ethique.xyz/blog/ethique-minimale-consentement/</loc>
+    <lastmod>2017-10-07T12:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ethique.xyz/blog/notion-dommage-en-ethique-minimale/</loc>
+    <lastmod>2017-09-25T12:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://ethique.xyz/blog/ouverture-site/</loc>
     <lastmod>2017-08-16T12:00:00+06:00</lastmod>
   </url>
   
   <url>
     <loc>http://ethique.xyz/blog/</loc>
-    <lastmod>2017-08-16T12:00:00+06:00</lastmod>
+    <lastmod>2017-10-07T12:00:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -32,8 +42,20 @@
   </url>
   
   <url>
-    <loc>http://ethique.xyz/categories/ethique.xyz/</loc>
-    <lastmod>2017-08-16T12:00:00+06:00</lastmod>
+    <loc>http://ethique.xyz/tags/consentement/</loc>
+    <lastmod>2017-10-07T12:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ethique.xyz/categories/critique/</loc>
+    <lastmod>2017-09-25T12:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ethique.xyz/tags/dommage/</loc>
+    <lastmod>2017-09-25T12:00:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -44,11 +66,29 @@
   </url>
   
   <url>
+    <loc>http://ethique.xyz/categories/ethique.xyz/</loc>
+    <lastmod>2017-08-16T12:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ethique.xyz/categories/exeg%C3%A8se/</loc>
+    <lastmod>2017-10-07T12:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://ethique.xyz/page/formulations-ethique-minimale/</loc>
   </url>
   
   <url>
     <loc>http://ethique.xyz/page/indifference-morale-rapport-a-soi/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ethique.xyz/tags/non-nuisance/</loc>
+    <lastmod>2017-10-07T12:00:00+06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -66,7 +106,7 @@
   
   <url>
     <loc>http://ethique.xyz/tags/</loc>
-    <lastmod>2017-08-16T12:00:00+06:00</lastmod>
+    <lastmod>2017-10-07T12:00:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   

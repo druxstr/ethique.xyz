@@ -16,7 +16,7 @@ On y trouvera des articles (souvent trop longs) autour des notions centrales de 
 <meta property='og:site_name' content='Éthique minimale'>
 <meta property='og:type' content='article'><meta property='article:section' content='Blog'><meta property='article:tag' content='ethique.xyz'><meta property='article:published_time' content='2017-08-16T12:00:00&#43;06:00'/><meta property='article:modified_time' content='2017-08-16T12:00:00&#43;06:00'/>
 
-<meta name="generator" content="Hugo 0.26" />
+<meta name="generator" content="Hugo 0.27.1" />
 
   <title>Ouverture du site • Éthique minimale</title>
   <link rel='canonical' href='http://ethique.xyz/blog/ouverture-site/'>
@@ -204,7 +204,26 @@ On y trouvera des articles (souvent trop longs) autour des notions centrales de 
 
   
     <div class='comments-container'>
-  
+  <div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "ethiquemini" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 </div>
 
   

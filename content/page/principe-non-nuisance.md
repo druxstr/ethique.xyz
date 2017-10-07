@@ -48,8 +48,9 @@ Ici encore l'éthique minimale laisse des questions ouvertes[^5] :
 
 * Un voleur qui se ferait voler son butin pourrait-il dire qu'on lui nuit, alors que sa situation initiale était illégitime ?
 * Peut-on admettre un "tort à être né" gravement handicapé, quand le handicap était prévisible et évitable ?
+* Consentir à un dommage peut-il annuler le tort subi ?
 
-Sur tous ces points, le minimalisme ne clôt la réflexion.
+Sur tous ces points, le minimalisme ne clôt pas d'emblée la réflexion.
 
 <!-- atteintes aux biens incluses par ex MDcC p70] -->
 
@@ -140,11 +141,11 @@ Image : CC-BY-SA 4.0 Ethique.xyz, à partir de [Assault par parkjisun](https://t
 
 [^8]: Ruwen Ogien, "Mon dîner chez les cannibales" in *Mon dîner chez les cannibales*, p. 100. Également *L'éthique aujourd'hui*, Ch. 5 p. 100-101 & p. 112-116, en particulier p. 115-116
 
-[^9]: Ruwen Ogien, *L'éthique aujourd'hui*, Ch. 1, p. 30 & Ch. 4, p. 81. Pour être exact, le consentement n'est pas un critère direct de la nuisance. C'est un critère du juste dans les relations entre les personnes ("La fabrique du consentement" in *Mon dîner chez les cannibales*, p. 207-208). En l'absence de consentement à un dommage, il y a une *présomption* d'injustice, qui doit être confirmée pour constituer la nuisance. Mais Ogien cite presque toujours l'absence de consentement lorsqu'il explique le principe de non-nuisance (*La liberté d'offenser*, p. 15-16 ou *La vie, la mort et l'État*, p. 49-50, par ex.). Voir *L'éthique aujourd'hui*, Ch. 10 p. 173-183 pour l'analyse de la notion de consentement et des problèmes qu'elle soulève. Sur la valeur relative que l'éthique minimale accorde au consentement, cf. p. 182.
+[^9]: Ruwen Ogien, *L'éthique aujourd'hui*, Ch. 1, p. 30 & Ch. 4, p. 81. Pour être exact, le consentement n'est pas un critère direct de la nuisance. C'est un critère du juste dans les relations entre les personnes ("La fabrique du consentement" in *Mon dîner chez les cannibales*, p. 207-208). En l'absence de consentement à un dommage, il y a une *présomption* d'injustice, qui doit être confirmée pour constituer la nuisance. Mais Ogien cite presque toujours l'absence de consentement lorsqu'il explique le principe de non-nuisance (*La liberté d'offenser*, p. 15-16 ou *La vie, la mort, l'État*, p. 49-50, par ex.). Voir *L'éthique aujourd'hui*, Ch. 10 p. 173-183 pour l'analyse de la notion de consentement et des problèmes qu'elle soulève. Sur la valeur relative que l'éthique minimale accorde au consentement, cf. p. 182.
 
 [^10]: *Ibid.*, Ch. 4, p. 81-82
 
-[^11]: *La liberté d'offenser*, Avant-propos, p. 15, et *La vie, la mort, et l'État*, p. 87-88
+[^11]: *La liberté d'offenser*, Avant-propos, p. 15, et *La vie, la mort, l'État*, p. 87-88
 
 [^12]: *Ibid.*, p. 15-20, et *L'éthique aujourd'hui*, Ch. 4, p. 95
 
