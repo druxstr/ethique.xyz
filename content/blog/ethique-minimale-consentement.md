@@ -2,15 +2,15 @@
 date = "2017-10-07T12:00:00+06:00"
 title = "Éthique minimale et consentement"
 author = "Guillaume Gallais"
-description = "Quels sont les liens entre éthique minimale et consentement ? Sont-ils aussi intimes qu'il n'y paraît ?"
+description = "Quels sont les liens entre éthique minimale et consentement ? Sont-ils aussi intimes qu'il y paraît ?"
 categories = ["exegèse"]
 tags = ["non-nuisance", "consentement"]
 draft = false
 +++
 ![consentement](/media/consentement.png)
-La notion de consentement joue un rôle important en éthique minimale. Elle n'est cependant pas aussi centrale qu'on pourrait le croire. L'éthique de Ruwen Ogien n'est pas construite autour de cette notion.
+La notion de consentement joue un rôle important en éthique minimale. Elle n'est cependant pas aussi centrale qu'on pourrait le croire : l'éthique de Ruwen Ogien n'est pas construite autour de cette notion.
 
-Cet article aborde les liens entre éthique minimale, nuisance et consentement. Il s'intéresse à certains points qui peuvent échapper à une lecture trop rapide du texte. Il répond à 3 questions&nbsp;:
+Cet article aborde les liens entre éthique minimale, nuisance et consentement. Il s'intéresse à certains points qui peuvent échapper à une lecture trop rapide des textes. Il répond à 3 questions&nbsp;:
 
 1. Les dommages non-consentis sont-ils toujours des torts&nbsp;?
 2. La présence du consentement permet-elle d'annuler le tort&nbsp;?
@@ -26,17 +26,17 @@ S'il y a dommage, mais que la personne a donné son accord, il n'y a *probableme
 
 Mais Ogien ne dit jamais que l'absence de consentement *suffit* à transformer un dommage en préjudice. Il affirme que "sous certaines conditions morales et légales"[^3], un dommage non consenti peut constituer un tort. Il y a une *présomption* d'injustice, mais qui doit être confirmée pour parler de nuisance.
 
-Le consentement n'est pas un des critères de la nuisance, ou du moins pas *directement*[^4]. C'est un critère de la justice dans les relations interpersonnelles[^5]. Quand nous cherchons ce qu'il y a de juste d'injuste dans une situation, la présence ou l'absence de consentement est un des critères que l'on peut invoquer.
+Le consentement n'est pas un des critères de la nuisance, ou du moins pas *directement*[^4]. C'est un critère de la justice dans les relations interpersonnelles[^5]. Quand nous cherchons ce qu'il y a de juste ou d'injuste dans une situation, la présence ou l'absence de consentement est un des critères que l'on peut invoquer.
 
 ## 2. Consentir annule-t-il le tort&nbsp;?
 
 Ogien mentionne plusieurs fois l'adage "On ne fait pas de tort à celui qui est consentant" (*Volenti non fit injuria*)[^6]. Selon cette formule,  le consentement permettrait *d'annuler* le caractère moralement contestable de certains actes.
 
-Pensez au fait de tuer. Tuer autrui sans son consentement est souvent jugé immoral (meurtre, peine de mort, etc.). Mais avec consentement, certains affirment que l'immoralité se dissipe : suicide assisté, sacrifice de soi pour le groupe... On peut condamner les homicides non-consentis et accepter les autres.
+Pensez au fait de tuer. Tuer autrui sans son consentement est souvent jugé immoral (meurtre, peine de mort, etc.). Mais certains affirment que l'immoralité se dissipe lorsqu'il y a consentement : suicide assisté, sacrifice de soi pour le groupe... On peut condamner les homicides non-consentis et accepter les autres.
 
-Qu'en pense l'éthique minimale&nbsp;? La réponse est moins claire qu'il n'y paraît. Quand Ogien mentionne l'adage vu plus haut, il ne le reprend jamais à son compte. Au contraire, il insiste sur le fait qu'il ne s'est jamais imposé universellement – y compris au sein des démocraties libérales contemporaines[^7].
+Qu'en pense l'éthique minimale&nbsp;? La réponse est moins claire qu'il n'y paraît. Quand Ogien mentionne l'adage vu plus haut, il ne le reprend jamais à son compte. Au contraire, il insiste sur le fait cet adage ne s'est jamais imposé universellement – y compris au sein des démocraties libérales contemporaines[^7].
 
-Il évoque aussi des cas dans lesquels le consentement n’annule pas forcément le tort : duels, combats de gladiateurs, esclavage volontaire, voire lancer de nain ou prostitution[^8]. Mais il ne détaille pas ces exemples, et son positionnement les concernant est peu explicite[^9].
+Il évoque aussi des cas dans lesquels le consentement n’annulerait *pas forcément* le tort : duels, combats de gladiateurs, esclavage volontaire, voire lancer de nain ou prostitution[^8]. Mais il ne détaille pas ces exemples, et son positionnement les concernant est peu explicite[^9].
 
 <!-- ALERTE : il mentionne les mêmes exemples pour dire ce que le paternalisme interdit, et rajoute le lancer de nain et -->
 
@@ -76,7 +76,7 @@ Image : CC-BY-SA 4.0 Ethique.xyz depuis [Tick](https://thenounproject.com/icon/6
 
 [^5]: "Toute la difficulté est donc de reconnaître les fragilités du consentement sans renoncer à en faire un critère de justice dans les relations interpersonnelles" Ruwen Ogien, “La fabrique du consentement” in *Mon dîner chez les cannibales*, p. 207-208
 
-[^6]: "Quand on cause volontairement un dommage à autrui *avec* son consentement, il n'y a pas d'injustice [...] si on en croit l'adage 'On en fait pas de tort à celui qui est consentant' (*Volenti non fit injuria*)" Ruwen Ogien, *L'éthique aujourd'hui*, Ch. 1, p. 30.<br>Ogien mentionne également cette formule au Ch. 10, p. 177 et ailleurs dans son œuvre (*La vie, la mort, l'État*, p. 54 ; *Mon dîner chez les cannibales*, p. 210)
+[^6]: "Quand on cause volontairement un dommage à autrui *avec* son consentement, il n'y a pas d'injustice [...] si on en croit l'adage 'On ne fait pas de tort à celui qui est consentant' (*Volenti non fit injuria*)" Ruwen Ogien, *L'éthique aujourd'hui*, Ch. 1, p. 30.<br>Ogien mentionne également cette formule au Ch. 10, p. 177 et ailleurs dans son œuvre (*La vie, la mort, l'État*, p. 54 ; *Mon dîner chez les cannibales*, p. 210)
 
 [^7]: "Contrairement à ce que pourraient penser ceux qui ont à l'esprit l'adage 'volenti non fit injuria' ('on ne fait pas de mal à celui qui est consentant'), c'est un principe qui est loin d'être systématiquement défendu en droit"  Ruwen Ogien, *L'éthique aujourd'hui*, Ch. 10, p. 177<br>"[L'adage] est d'ailleurs loin d'être suivi en droit, puisque toutes sortes de dommages auxquels les personnes consentent formellement sont néanmoins jugés comme des torts" Ruwen Ogien, *La vie, la mort, l'État*, Ch. 1, p. 54<br>"Mais les philosophes et les juristes qui contestent l'adage ou en limitent la portée ne manquent pas. Ils invoquent habituellement le cas du duel, que le consentement des adversaires ne suffit pas à rendre licite." Ruwen Ogien, "La fabrique du consentement", in *Mon dîner chez les cannibales*, p. 210
 
