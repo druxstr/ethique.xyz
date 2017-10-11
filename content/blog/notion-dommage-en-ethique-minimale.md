@@ -5,7 +5,9 @@ description = "L'éthique minimale demande de ne pas causer certains dommages. M
 categories = ["critique", "exegèse"]
 tags = ["non-nuisance", "dommage"]
 +++
-![dommage](/media/dommage.png)
+> **En bref** : L'éthique minimale définit le dommage comme une dégradation d'état par rapport à un état antérieur. Cela rend difficile l'évaluation des dommages psychologiques, et empêche de parler de "nuisance" dans certains cas limites (dommage à naître ou à mourir).
+<!-- ![dommage](/media/dommage.png) -->
+
 L'éthique de Ruwen Ogien appuie son [principe de non-nuisance](/page/principe-non-nuisance/) sur la notion de dommage. C'est grâce au dommage qu'elle s'enracine dans le réel et évite de condamner des crimes imaginaires. La notion est donc centrale.
 
 Elle rencontre toutefois des cas problématiques : dommage psychologique, à être né ou encore à être tué. Cet article détaille le fonctionnement du dommage en éthique minimale et les difficultés qu'il soulève.
@@ -74,7 +76,7 @@ Est-ce forcément un état "moins bon" que celui dans lequel on était auparavan
 
 Le problème ne se pose pas uniquement pour les cas de suicide assisté ou d'euthanasie des mourants. Il s'étend à *tous les homicides non consentis* quels qu'ils soient. Même si ce genre d'homicide semble généralement injuste, ce n'est pas l'injustice qui est problématique dans ces situations.
 
-Ce qui ne va pas, c'est que le *dommage* n'est pas constitué. Il n'y a pas de "dommage injuste", parce qu'il n'y a pas de dommage tout court. Affirmer (par exemple) que tout ce qui viole notre consentement est injuste ne suffit pas à constituer le dommage manquant.
+Ce qui ne va pas, c'est que le *dommage* n'est pas constitué. Il n'y a pas de "dommage injuste", parce qu'il n'y a pas de dommage tout court. Affirmer (par exemple) que tout ce qui viole notre [consentement](/blog/ethique-minimale-consentement/) est injuste ne suffit pas à constituer le dommage manquant.
 
 ## ... et leurs enjeux
 

@@ -2,13 +2,11 @@
 title: Principe de non-nuisance
 description: L'éthique minimale nous demande de "ne pas nuire aux autres". Mais que signifie "nuire" ? Qui sont les "autres" ? Où commence et où s'arrête la nuisance ?
 ---
-![Ne pas nuire](/media/ne-pas-nuire.png)
-
-L'éthique minimale reprend le [principe de non-nuisance](https://fr.wikipedia.org/wiki/Harm_principle) énoncé par John Stuart Mill en 1859 dans *De la liberté*[^1]. Selon ce principe, la seule raison légitime d'interférer avec les affaires des autres est d'empêcher que du tort soit causé à autrui.
+![Ne pas nuire](/media/ne-pas-nuire.png)L'éthique minimale reprend le [principe de non-nuisance](https://fr.wikipedia.org/wiki/Harm_principle) énoncé par John Stuart Mill en 1859 dans *De la liberté*[^1]. Selon ce principe, la seule raison légitime d'interférer avec les affaires des autres est d'empêcher que du tort soit causé à autrui.
 
 <!-- "interférer" plutôt que '"intervenir", voir LEA p. 102 où Ogien cite Mill, qui utilise bien "interférer" -->
 
-La société n'est légitime à utiliser la force ou la réprobation morale que dans une situation : lorsque l'action d'un individu risque de nuire *à d'autres*. Les actions qui [ne concernent que soi-même](/page/indifference-morale-rapport-a-soi) ou celles qui ne nuisent à personne ne sont pas du ressort de la société. Elle n'a pas à les interdire ou les empêcher.
+La société n'est légitime à utiliser la force ou la réprobation morale que dans une situation&nbsp;: lorsque l'action d'un individu risque de nuire *à d'autres*. Les actions qui [ne concernent que soi-même](/page/indifference-morale-rapport-a-soi) ou celles qui ne nuisent à personne ne sont pas du ressort de la société. Elle n'a pas à les interdire ou les empêcher.
 
 Comme tous les principes généraux, le principe de non-nuisance fait l'objet de plusieurs interprétations. L'éthique minimale accepte donc une version particulière du principe et précise ce qu'elle entend pas "nuire" et "autrui".
 
@@ -16,9 +14,9 @@ Comme tous les principes généraux, le principe de non-nuisance fait l'objet de
 
 ## Qui sont les autres ?
 
-Le principe de non-nuisance nous demande de ne pas causer de dommages aux personnes physiques, concrètes[^2]. Il exclut d'emblée qu'on puisse nuire à des entités abstraites ou symboliques : Dieu, la patrie, la nature ou la dignité humaine par exemple. Nuire, c'est nuire à des êtres vivants concrets, qui subissent des dommages contre leur gré.
+Le principe de non-nuisance nous demande de ne pas causer de dommages aux personnes physiques, concrètes[^2]. Il exclut d'emblée qu'on puisse nuire à des entités abstraites ou symboliques&nbsp;: Dieu, la patrie, la nature ou la dignité humaine par exemple. Nuire, c'est nuire à des êtres vivants concrets, qui subissent des dommages contre leur gré.
 
-Dans cette perspective, on ne nuit pas :
+Dans cette perspective, on ne nuit pas&nbsp;:
 
 * aux morts (ils n'existent plus)
 * aux générations futures (elles n'existent pas encore)
@@ -30,19 +28,19 @@ Cette définition minimale d'autrui ne ferme pas la réflexion. Peut-on dire qu'
 
 ## Qu'est-ce que nuire ?
 
-Nuire consiste à causer directement et délibérément du dommage à autrui contre son gré. Il s'agit de dommages qu'on doit pouvoir dire "injustes" d'une façon ou d'une autre. L'éthique minimale désigne ce genre d'action sous plusieurs termes : "nuire", causer du "dommage injuste", du "tort", un "préjudice". De son point de vue, toutes ces formules sont équivalentes[^4].
+Nuire consiste à causer directement et délibérément du dommage à autrui contre son gré. Il s'agit de dommages qu'on doit pouvoir dire "injustes" d'une façon ou d'une autre. L'éthique minimale désigne ce genre d'action sous plusieurs termes&nbsp;: "nuire", causer du "dommage injuste", du "tort", un "préjudice". De son point de vue, toutes ces formules sont équivalentes[^4].
 
-Nuire suppose d'abord de provoquer du dommage[^5]. C'est-à-dire d'engendrer une dégradation d'état : faire passer d'un état donné à un autre, pire que le précédent. C'est ce qui arrive quand est volé ou brutalisé : notre état est moins bon *après* le vol ou l'agression. Mais s'il n'y a pas dommage, ou s'il n'y a aucune procédure concevable qui permette de l'établir, on ne parlera pas de nuisance[^6].
+Nuire suppose d'abord de provoquer du dommage[^5]. C'est-à-dire d'engendrer une dégradation d'état&nbsp;: faire passer d'un état donné à un autre, pire que le précédent. C'est ce qui arrive quand est volé ou brutalisé&nbsp;: notre état est moins bon *après* le vol ou l'agression. Mais s'il n'y a pas dommage, ou s'il n'y a aucune procédure concevable qui permette de l'établir, on ne parlera pas de nuisance[^6].
 
 <!-- /!\ non consentement = part de la caractérisation comme injustice -->
 
-Ce dommage doit être causé intentionnellement[^7]. Les dommages qu'on cause de façon involontaire et les conséquences non intentionnelles de notre action ne comptent pas comme comme nuisance. Pensez au suicide : la tristesse éprouvée par les proches n'est en général pas provoquée *délibérément* par le suicidé. C'est un dommage non intentionnel (dans la plupart des cas) qui résulte de son action.
+Ce dommage doit être causé intentionnellement[^7]. Les dommages qu'on cause de façon involontaire et les conséquences non intentionnelles de notre action ne comptent pas comme comme nuisance. Pensez au suicide&nbsp;: la tristesse éprouvée par les proches n'est en général pas provoquée *délibérément* par le suicidé. C'est un dommage non intentionnel (dans la plupart des cas) qui résulte de son action.
 
 Le dommage doit aussi être direct, c'est-à-dire produit personnellement par l'agent[^8]. Les dommages indirects, qui ont lieu parce qu'on n'a pas agi pour les empêcher, ne relèvent pas du principe de non-nuisance. Selon l'éthique minimale, il faut utiliser un autre principe pour les prendre en compte.
 
 Enfin ce dommage ne devrait pas avoir été consenti au préalable[^9]. Dans un match de boxe ou des pratiques sadomasochistes, les participants ont donné leur accord pour recevoir certains dommages. Ils ne subissent aucun préjudice, dans la mesure où le cadre auquel ils ont consenti est respecté.
 
-De façon générale, le dommage doit pouvoir être dit "injuste" sous un aspect important[^10]. En épousant quelqu'un, on provoque parfois un dommage émotionnel intense chez sa famille ou ses soupirants : il n'est pas pour autant "injuste" de se marier.
+De façon générale, le dommage doit pouvoir être dit "injuste" sous un aspect important[^10]. En épousant quelqu'un, on provoque parfois un dommage émotionnel intense chez sa famille ou ses soupirants&nbsp;: il n'est pas pour autant "injuste" de se marier.
 
 Ici encore l'éthique minimale laisse des questions ouvertes[^5] :
 
@@ -60,7 +58,7 @@ L'objectif de l'éthique minimale n'est pas de réduire les libertés au nom de 
 
 Ce que l'éthique minimale cherche à éviter, ce sont les atteintes graves à l'intégrité physique et psychologique des personnes (ou à certains de leurs droits fondamentaux)[^11].
 
-Elle rejette donc les usages trop larges du principe de non-nuisance, qui conduisent à voir la nuisance partout, quitte à détourner le principe de son esprit d'origine. Ce rejet s'exprime de 2 façons :
+Elle rejette donc les usages trop larges du principe de non-nuisance, qui conduisent à voir la nuisance partout, quitte à détourner le principe de son esprit d'origine. Ce rejet s'exprime de 2 façons&nbsp;:
 
 * en distinguant "nuire" et "offenser"
 * en justifiant l'assistance à personne en danger par un *autre* principe moral que la non-nuisance
@@ -120,10 +118,12 @@ MDCC admet que possible, mais sans valeur morale p. 101 p.133. Et je m'appuierai
 
 * [Principe d'égale considération de chacun](/page/egale-consideration-de-chacun)
 * [Principe d'indifférence morale du rapport à soi](/page/indifference-morale-rapport-a-soi)
+* [Blog] [La notion de dommage en éthique minimale](/blog/notion-dommage-en-ethique-minimale)
+* [Blog] [Éthique minimale et consentement](/blog/ethique-minimale-consentement)
 
 ## Notes & crédits
 
-Image : CC-BY-SA 4.0 Ethique.xyz, à partir de [Assault par parkjisun](https://thenounproject.com/icon/302798/) & [Forbidden par Noah](https://thenounproject.com/icon/1232525/)
+Image&nbsp;: CC-BY-SA 4.0 Ethique.xyz, à partir de [Assault par parkjisun](https://thenounproject.com/icon/302798/) & [Forbidden par Noah](https://thenounproject.com/icon/1232525/)
 
 [^1]: Ruwen Ogien, *Penser la pornographie*, 2003, PUF, Ch. 1, p. 12-13 ; *La panique morale*, 2005, Grasset, Ch. 1, p. 39-42 & p. 327 note 30 ; *L'éthique aujourd'hui*, Gallimard, 2007, Ch. 8, p. 156.
 
@@ -133,7 +133,7 @@ Image : CC-BY-SA 4.0 Ethique.xyz, à partir de [Assault par parkjisun](https://t
 
 [^4]: *Ibid.*, Ch. 4, p. 81
 
-[^5]: *Ibid.*, Ch. 4, p. 81-83. Le dommage peut être de différente nature : physique, psychologique, économique... Pour la reconnaissance des dommages psychologiques, voir Ch. 1, p. 29-30 & Ch. 4, p. 93 et 99.
+[^5]: *Ibid.*, Ch. 4, p. 81-83. Le dommage peut être de différente nature&nbsp;: physique, psychologique, économique... Pour la reconnaissance des dommages psychologiques, voir Ch. 1, p. 29-30 & Ch. 4, p. 93 et 99.
 
 [^6]: *Ibid.*, Ch. 3, p. 64-66, 95-96 & Ch. 6, p. 128. L'engagement d'Ogien pour des outils conceptuels qui permettent de démontrer / vérifier ce qu'on affirme est visible dans sa critique de la notion de caractère. Son enthousiasme envers la dénonciation de crimes moraux imaginaires est par ailleurs assez limité, c'est le moins qu'on puisse dire. Voir aussi Ruwen Ogien, “Que reste-t-il de la liberté d'offenser ?” in *Mon dîner chez les cannibales*, p. 72.
 
@@ -157,7 +157,7 @@ Image : CC-BY-SA 4.0 Ethique.xyz, à partir de [Assault par parkjisun](https://t
 
 [^16]: *Ibid.* p. 113, 115 et 118. Ogien stipule que selon l'interprétation qu'on choisit du principe de non-nuisance, on aura (ou pas) besoin d'un autre principe pour construire une théorie éthique complète et satisfaisante. Il conteste ensuite que les principes d'assistance soient *toujours* réductibles au principe de non-nuisance.
 
-[^17]: *Ibid.*, p. 102-103 & Ch.6, p. 138-139 . Ogien structure son propos autour de 3 oppositions. Il distingue les interventions : a) formelles VS informelles ; b) collectives VS individuelles ; c) organisées VS diffuses. Il sépare les interventions Étatiques (formelles, organisées) et celles venant de "chacun et tout le monde" (informelles, diffuses). L'idée est bien sûr d'éviter les interventions paternalistes.
+[^17]: *Ibid.*, p. 102-103 & Ch.6, p. 138-139 . Ogien structure son propos autour de 3 oppositions. Il distingue les interventions&nbsp;: a) formelles VS informelles ; b) collectives VS individuelles ; c) organisées VS diffuses. Il sépare les interventions Étatiques (formelles, organisées) et celles venant de "chacun et tout le monde" (informelles, diffuses). L'idée est bien sûr d'éviter les interventions paternalistes.
 
 [^18]: Ruwen Ogien, *La panique morale*, p. 39 ; *L'éthique aujourd'hui*, Ch. 6, p. 138-139
 

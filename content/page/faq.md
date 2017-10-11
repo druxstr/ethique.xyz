@@ -57,7 +57,7 @@ weight: -10
 
   Non. L'éthique minimale ne divise pas nos actions en "soit morales, soit immorales". Elle ne les divise pas *non plus* en "soit morales, soit immorales, soit moralement neutres".
 
-  La séparation se fait entre les actions *immorales* (qui violent les principes de non-nuisance ou d'égale considération) et *toutes les autres* (qui ne violent pas ces principes). Si une action n'est pas immorale, elle n'a "rien à voir" avec l'éthique.
+  La séparation se fait entre les actions *immorales* (qui violent les principes de [non-nuisance](/page/principe-non-nuisance) ou d'[égale considération](/page/egale-consideration-de-chacun)) et *toutes les autres* (qui ne violent pas ces principes). Si une action n'est pas immorale, elle n'a "rien à voir" avec l'éthique.
   <span>[[permalien]](#moralimmoral)</span>
 </details>
 <details id="moral">
@@ -95,7 +95,7 @@ weight: -10
 
   *Non*. L'éthique minimale réduit la morale au rapport à autrui, alors que d'autres théories y incluent le [rapport à soi-même](/page/indifference-morale-rapport-a-soi/). De ce point de vue, il est difficile de faire plus minimaliste.
 
-  On peut très bien réduire l'éthique à la non-nuisance *et* accorder une valeur au rapport à soi-même. Dans ce cas on est *à la fois* plus et moins minimaliste qu'Ogien.
+  *Oui et non (en même temps)*. On peut réduire l'éthique à la non-nuisance *et* accorder une valeur au rapport à soi-même. Dans ce cas on est *à la fois* plus et moins minimaliste qu'Ogien.
   <span>[[permalien]](#autresmini)</span>
 </details>
 

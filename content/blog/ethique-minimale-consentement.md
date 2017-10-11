@@ -7,12 +7,14 @@ categories = ["exegèse"]
 tags = ["non-nuisance", "consentement"]
 draft = false
 +++
-![consentement](/media/consentement.png)
+> **En bref** : La notion de consentement est importante en éthique minimale, mais elle n'est pas centrale. Ogien est souvent ambigu ou peu explicite lorsqu'il aborde les liens entre éthique minimale et consentement.
+<!-- ![consentement](/media/consentement.png) -->
+
 La notion de consentement joue un rôle important en éthique minimale. Elle n'est cependant pas aussi centrale qu'on pourrait le croire : l'éthique de Ruwen Ogien n'est pas construite autour de cette notion.
 
 Cet article aborde les liens entre éthique minimale, nuisance et consentement. Il s'intéresse à certains points qui peuvent échapper à une lecture trop rapide des textes. Il répond à 3 questions&nbsp;:
 
-1. Les dommages non-consentis sont-ils toujours des torts&nbsp;?
+1. Les [dommages](/blog/notion-dommage-en-ethique-minimale/) non-consentis sont-ils toujours des torts&nbsp;?
 2. La présence du consentement permet-elle d'annuler le tort&nbsp;?
 3. L'éthique minimale est-elle une "morale du consentement"&nbsp;?
 
@@ -56,7 +58,7 @@ Pourtant, l'éthique minimale n'est pas une de ces théories. Au contraire, Ogie
 
 <!-- [ALERTE c'est la conception minimaliste du consentement qui est justifiée p 183. Mais p. 191 c'est l'éthique minimale dans son ensemble. L'index dit que 191 parle de la conception minimaliste du consentement, mais rien d'explicite en p. 191. Sauf si "l'éthique minimale" est une erreur et que ça devait être "la conception du consentement de l'éthique minimale" au départ ] -->
 
-Son éthique n'est pas fondée sur le consentement[^17]. Elle est constituée par les principes de non-nuisance, de considération égale et d'indifférence morale du rapport à soi. Elle accorde une valeur *relative* au consentement, qui dépend de sa contribution au respect des 3 principes précédents[^18].
+Son éthique n'est pas fondée sur le consentement[^17]. Elle est constituée par les principes de non-nuisance, de [considération égale](/page/egale-consideration-de-chacun/) et d'[indifférence morale du rapport à soi](/page/indifference-morale-rapport-a-soi/). Elle accorde une valeur *relative* au consentement, qui dépend de sa contribution au respect des 3 principes précédents[^18].
 
 Ogien est conscient des fragilités conceptuelles et pratiques qui entourent la notion de consentement. Il ne s'appuie pas directement sur elle pour construire l'éthique minimale. La place du consentement reste importante en éthique minimale, mais elle est secondaire, dérivée.
 

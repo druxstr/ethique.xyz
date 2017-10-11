@@ -436,7 +436,9 @@ blockquote {
     margin: 0 0 1.35em;
     padding-left: 1.25em;
     border-left: .2em solid #bdbdbd;
-    font-size: 1.11111em
+    font-size: 0.9em; /* 1.11111em */
+    background-color: #e0e0e0;
+    padding:0.9em;
 }
 
 hr {
