@@ -1,0 +1,182 @@
+/* Fonts */
+
+body,
+button,
+input,
+select,
+textarea {
+  font-size: 1.2em;
+  font-family: Helvetica, Siyam Rupali, sans-serif;
+  line-height: 1.6em;
+}
+
+.title,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size:1.55556em;
+  font-family: Helvetica , Siyam Rupali, sans-serif;
+}
+
+code,kbd,pre,tt,var {
+  font-family: monospace;
+}
+
+/* Page width */
+
+.comments-container #disqus_thread,
+.entry-content,
+.entry-cover,
+.entry-cover figcaption,
+.entry-footer,
+.entry-nav,
+.entry-toc,
+.footer,
+.header,
+.home-sections,
+.list,
+.pagination,
+.term-cloud {
+  max-width: 600px;
+  padding-left:initial;
+  padding-right:initial;
+}
+
+/* Main title */
+
+.header-info .title {
+  text-transform: unset;
+}
+
+/* Links  */
+
+.entry-content a,
+.list-item-title a  {
+  border-bottom: .125em solid blue;
+  color:blue;
+}
+
+.entry-content a:visited,
+.list-item-title a:visited {
+  border-bottom: .125em solid purple;
+  color: purple;
+}
+
+.entry-content a:active,
+.entry-content a:focus,
+.entry-content a:hover {
+  border-bottom-color: #ffcd00;
+}
+
+/* Blockquote */
+
+blockquote {
+  background:#e0e0e0;
+  padding:1em;
+  font-size:1em;
+}
+
+/* Footnotes */
+
+div .footnotes ol li {
+  padding-bottom: 1em;
+}
+
+/* Details */
+
+summary {
+    display: list-item;
+}
+
+details {
+  border-bottom:3px solid #ffcd00;;
+  padding-bottom:5px;
+  margin:5px;
+}
+
+details span:last-of-type {
+  font-size: smaller;
+  font-family:
+}
+
+img {
+  min-with:100%
+}
+
+/* Small screen */
+
+@media (max-width:600px){
+
+body,
+button,
+input,
+select,
+textarea {
+    font-size: 1em;
+    padding-left:1em;
+    padding-right:1em;
+    word-wrap: break-word
+}
+
+
+}
+
+/* a
+
+a,
+a:visited {
+    color: purple;
+}
+
+a:active,a:focus,a:hover {
+    color: #37474f;
+}
+
+
+a:focus {
+    outline: thin dotted blue ;
+    outline-offset: 2px
+}
+
+*/
+
+
+/*
+a,
+a:visited {
+    color: blue;
+}
+
+a:focus {
+    outline: thin dotted;
+}
+
+
+.entry-content a,
+.list-item-title a {
+    border-bottom: .11111em solid;
+}
+
+
+
+
+
+
+@media (max-width:600px){
+
+body,
+button,
+input,
+select,
+textarea {
+    font-size: 1em;
+    line-height: 1.6;
+    color: #37474f;
+    word-wrap: break-word
+}
+}
+
+*/
