@@ -1,7 +1,7 @@
 ---
 title: Ruwen Ogien et les animaux
 description: Essai d'inventaire des propos d'Ogien concernant les animaux et leur place en éthique.
-draft: true
+draft: false
 ---
 
 **Remarque** : cet essai d'inventaire ne s'appuie ni sur une relecture intégrale, ni sur une recherche *full text* du corpus ogienien dans son ensemble. Il est nécessairement incomplet. Si vous rencontrez d'autres extraits qui pourraient s'y ajouter, n'hésitez pas à [écrire au site](/page/a-propos/#contact).
@@ -61,4 +61,4 @@ Ogien mentionne des arguments conséquentialistes contre le fait de faire des en
 
 ## Notes
 
-[^1]: Le texte *Faire des enfants est-il immoral* semble conclure que oui, mettre au monde des enfants est toujours immoral, dans la mesure où ils n'ont pas consenti à naître. Mais cette position n'est pas dérivée des arguments conséquentialistes présentés. Par ailleurs, cette conclusion est à prendre avec recul : Ogien a défendu une liberté de procréer radicale dans *La vie, la mort, l'État*.
+[^1]: Le texte *Faire des enfants est-il immoral ?* semble conclure que oui, mettre au monde des enfants est toujours immoral, dans la mesure où ils n'ont pas consenti à naître. Mais cette position n'est pas dérivée des arguments conséquentialistes présentés. Par ailleurs, cette conclusion est à prendre avec recul : Ogien a défendu une liberté de procréer radicale dans *La vie, la mort, l'État*.

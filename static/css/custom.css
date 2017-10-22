@@ -5,7 +5,7 @@ button,
 input,
 select,
 textarea {
-  font-size: 1.2em;
+  font-size: 1.25em;
   font-family: Helvetica, Siyam Rupali, sans-serif;
   line-height: 1.6em;
 }
@@ -121,62 +121,4 @@ textarea {
     word-wrap: break-word
 }
 
-
 }
-
-/* a
-
-a,
-a:visited {
-    color: purple;
-}
-
-a:active,a:focus,a:hover {
-    color: #37474f;
-}
-
-
-a:focus {
-    outline: thin dotted blue ;
-    outline-offset: 2px
-}
-
-*/
-
-
-/*
-a,
-a:visited {
-    color: blue;
-}
-
-a:focus {
-    outline: thin dotted;
-}
-
-
-.entry-content a,
-.list-item-title a {
-    border-bottom: .11111em solid;
-}
-
-
-
-
-
-
-@media (max-width:600px){
-
-body,
-button,
-input,
-select,
-textarea {
-    font-size: 1em;
-    line-height: 1.6;
-    color: #37474f;
-    word-wrap: break-word
-}
-}
-
-*/
