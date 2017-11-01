@@ -44,21 +44,21 @@ Il évoque aussi des cas dans lesquels le consentement n’annulerait *pas forc�
 
 À la fin de *L'éthique aujourd'hui*, Ogien se demande à quelles conditions le consentement pourrait annuler le tort[^10]. Il juge cette question "très compliquée"... Et la laisse sans réponse.
 
-Mais 2 ans plus tard, la conclusion de *La vie, la mort, l'État* affirme clairement que le consentement annule le tort[^11].
+Deux ans plus tard, la conclusion de *La vie, la mort, l’État* (2009) affirme clairement que le consentement annule le tort dans les cas d'euthanasie[^11]. Mais cela n'implique pas qu'il annule *toujours* les torts, comme Ogien le précise dans *L'influence de l'odeur des croissants chauds sur la bonté humaine* (2011)[^12] :
 
-> “Le principe de non-nuisance ne peut pas s’appliquer au candidat à la mort douce, euthanasie active ou passive ou suicide assisté, puisqu’il est, dans tous les cas, consentant en principe, et qu’on ne peut pas causer de tort à celui qui consent”
+> On admet que, **dans certains cas au moins**, le consentement annule le tort
 
 L'éthique minimale soutient donc bien que le consentement annule le tort. Mais cette position n'est pas une évidence. Le texte d'Ogien est plus réservé et plus nuancé qu'on pourrait s'y attendre.
 
 ## 3. Les morales du consentement
 
-Ogien appelle "morales du consentement" les théories qui se construisent autour du consentement[^12] : elles accordent une place centrale à la notion dans leur élaboration. À la fin de *L'éthique aujourd'hui*, il défend ces morales face à plusieurs critiques.
+Ogien appelle "morales du consentement" les théories qui se construisent autour du consentement[^13] : elles accordent une place centrale à la notion dans leur élaboration. À la fin de *L'éthique aujourd'hui*, il défend ces morales face à plusieurs critiques.
 
-Pourtant, l'éthique minimale n'est pas une de ces théories. Au contraire, Ogien rappelle le caractère confus et contesté de l'idée de consentement[^13]. Il refuse de lui accorder une valeur absolue[^14], de la sacraliser[^15], et même d'en proposer une définition[^16].
+Pourtant, l'éthique minimale n'est pas une de ces théories. Au contraire, Ogien rappelle le caractère confus et contesté de l'idée de consentement[^14]. Il refuse de lui accorder une valeur absolue[^15], de la sacraliser[^16], et même d'en proposer une définition[^17].
 
 <!-- [ALERTE c'est la conception minimaliste du consentement qui est justifiée p 183. Mais p. 191 c'est l'éthique minimale dans son ensemble. L'index dit que 191 parle de la conception minimaliste du consentement, mais rien d'explicite en p. 191. Sauf si "l'éthique minimale" est une erreur et que ça devait être "la conception du consentement de l'éthique minimale" au départ ] -->
 
-Son éthique n'est pas fondée sur le consentement[^17]. Elle est constituée par les principes de non-nuisance, de [considération égale](/page/egale-consideration-de-chacun/) et d'[indifférence morale du rapport à soi](/page/indifference-morale-rapport-a-soi/). Elle accorde une valeur *relative* au consentement, qui dépend de sa contribution au respect des 3 principes précédents[^18].
+Son éthique n'est pas fondée sur le consentement[^18]. Elle est constituée par les principes de non-nuisance, de [considération égale](/page/egale-consideration-de-chacun/) et d'[indifférence morale du rapport à soi](/page/indifference-morale-rapport-a-soi/). Elle accorde une valeur *relative* au consentement, qui dépend de sa contribution au respect des 3 principes précédents[^19].
 
 Ogien est conscient des fragilités conceptuelles et pratiques qui entourent la notion de consentement. Il ne s'appuie pas directement sur elle pour construire l'éthique minimale. La place du consentement reste importante en éthique minimale, mais elle est secondaire, dérivée.
 
@@ -88,18 +88,20 @@ Image : CC-BY-SA 4.0 Ethique.xyz depuis [Tick](https://thenounproject.com/icon/6
 
 [^10]: "Dans cette seconde classe de cas, il faut répondre à une question de droit ou de morale très compliquée. C'est celle de savoir à quelles conditions le consentement pourrait annuler le tort ; à quelles conditions, par exemple, un homicide auquel la victime a consenti pourrait-il être considéré comme un acte qui n'a rien d'illégal ou immoral&nbsp;?" Ruwen Ogien, *L'éthique aujourd'hui*, Ch. 10, p. 177<br>Cette question avait déjà été soulevée lors de l'analyse du principe de non-nuisance au Ch. 4, p. 83 : "Le consentement de la victime suffit-il à annuler le préjudice&nbsp;?"
 
-[^11]: Ruwen Ogien, *La vie, la mort, l’État*, p. 206-207
+[^11]: "Le principe de non-nuisance ne peut pas s’appliquer au candidat à la mort douce, euthanasie active ou passive ou suicide assisté, puisqu’il est, dans tous les cas, consentant en principe, et qu’on ne peut pas causer de tort à celui qui consent" Ruwen Ogien, *La vie, la mort, l’État*, p. 206-207
 
-[^12]: Ruwen Ogien, *L'éthique aujourd'hui*, Ch. 10, p. 183 & p. 191. Pour être parfaitement exact, Ogien parle des "morales *dites* 'du consentement'" (je souligne).
+[^12]: Ruwen Ogien, *L'influence de l'odeur des croisants chauds sur la bonté humaine*, p. 162
 
-[^13]: Ruwen Ogien, *Ibid.*, p. 172-176
+[^13]: Ruwen Ogien, *L'éthique aujourd'hui*, Ch. 10, p. 183 & p. 191. Pour être parfaitement exact, Ogien parle des "morales *dites* 'du consentement'" (je souligne).
 
-[^14]: "Du point de vue normatif, il me paraît inutile d'essayer de donner une valeur absolue à l'idée de consentement, ou de faire dépendre cette valeur morale des liens supposés intimes entre la notion de consentement et celle d'autonomie ou de liberté" Ruwen Ogien, *Ibid.*, p. 182
+[^14]: Ruwen Ogien, *Ibid.*, p. 172-176
 
-[^15]: "On peut estimer, par exemple, que le consentement est toujours un bien [...] sans aller jusqu'à le sacraliser" Ruwen Ogien “La fabrique du consentement” in *Mon dîner chez les cannibales*, p. 211
+[^15]: "Du point de vue normatif, il me paraît inutile d'essayer de donner une valeur absolue à l'idée de consentement, ou de faire dépendre cette valeur morale des liens supposés intimes entre la notion de consentement et celle d'autonomie ou de liberté" Ruwen Ogien, *Ibid.*, p. 182
 
-[^16]: "Je ne vais certainement pas proposer une définition du consentement de mon cru." Ruwen Ogien, *L'éthique aujourd'hui*, Ch. 10, p. 76
+[^16]: "On peut estimer, par exemple, que le consentement est toujours un bien [...] sans aller jusqu'à le sacraliser" Ruwen Ogien “La fabrique du consentement” in *Mon dîner chez les cannibales*, p. 211
 
-[^17]: "L'éthique minimale n'est pas 'fondée' sur le consentement considéré comme une valeur absolue (pas plus qu'elle ne l'est sur toute autre supposée 'valeur absolue')" Ruwen Ogien, *Ibid.*, p. 191
+[^17]: "Je ne vais certainement pas proposer une définition du consentement de mon cru." Ruwen Ogien, *L'éthique aujourd'hui*, Ch. 10, p. 76
 
-[^18]: "Les plus libéraux pourraient très bien se contenter de donner au consentement une valeur *relative*, dépendante de la mesure dans laquelle il contribue au respect des principes de non-nuisance à autrui et d'égale considération" *Ibid.*, p. 182
+[^18]: "L'éthique minimale n'est pas 'fondée' sur le consentement considéré comme une valeur absolue (pas plus qu'elle ne l'est sur toute autre supposée 'valeur absolue')" Ruwen Ogien, *Ibid.*, p. 191
+
+[^19]: "Les plus libéraux pourraient très bien se contenter de donner au consentement une valeur *relative*, dépendante de la mesure dans laquelle il contribue au respect des principes de non-nuisance à autrui et d'égale considération" *Ibid.*, p. 182
