@@ -72,6 +72,8 @@ weight: -10
   <summary>Y a-t-il une différence entre "morale" et éthique"&nbsp;?</summary>
 
   Non. L'éthique minimale utilise les 2 termes indifféremment. Contrairement à d'autres théories, elle ne fait aucune distinction entre "morale" et "éthique".
+
+  Source : "Éthique et morale", in *L'influence de l'odeur des croissants chauds sur la bonté humaine*, p. 312 et p. 9 note 1
   <span>[[permalien]](#moraleethique)</span>
 </details>
 <details id="formulation">
