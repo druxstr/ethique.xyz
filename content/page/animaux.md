@@ -14,7 +14,7 @@ draft: false
 
 On trouve 4 occurences de "animaux" dans le texte. On rencontre aussi 8 occurences de "animal", mais aucune n'est pertinente (ce sont des citations de Kant, qui parle d'"être animal") :
 
-> [...] l’éthique appliquée, c’est-à-dire  la tentative de clarifier l’attitude qu’il conviendrait d’adopter face à des questions  concrètes comme  la peine de mort, le clonage, l’homoparentalité, la justice sociale, l’avortement, le rapport à l’environnement naturel **et aux animaux**, l’euthanasie, et d’autres, moins discutées publiquement mais aussi compliquées, comme le lancer de nains ou le préjudice d’être né.<br> -- Avant-propos
+> [...] l’éthique appliquée, c’est-à-dire  la tentative de clarifier l’attitude qu’il conviendrait d’adopter face à des questions  concrètes comme  la peine de mort, le clonage, l’homoparentalité, la justice sociale, l’avortement, le rapport à l’environnement naturel **et aux animaux**, l’euthanasie, et d’autres, moins discutées publiquement mais aussi compliquées, comme le lancer de nains ou le préjudice d’être né.<br> -- Avant-propos, p. 14
 
 <!-- -->
 
@@ -26,11 +26,11 @@ On trouve 4 occurences de "animaux" dans le texte. On rencontre aussi 8 occurenc
 
 <!-- -->
 
-> **Les cas dans lesquels cette demande [d'aide] ne peut pas ou plus s'exprimer (en l'absence de capacités linguistiques par exemple) ne suffit pas à invalider ce principe général**. Ils appellent seulement un amendement, spécifiant que les conditions de respect du principe doivent être restaurées "aussi vite que possible" (quand c'est possible), ou que le principe soit respecté "dans la mesure du possible" et non "absolument". <br> -- Ch.5, p. 117 (sur la considération égale et l'écoute des demandes d'aide et des revendications de droits)
+> **Les cas dans lesquels cette demande [d'aide] ne peut pas ou plus s'exprimer (en l'absence de capacités linguistiques par exemple) ne suffisent pas à invalider ce principe général**. Ils appellent seulement un amendement, spécifiant que les conditions de respect du principe doivent être restaurées "aussi vite que possible" (quand c'est possible), ou que le principe soit respecté "dans la mesure du possible" et non "absolument". <br> -- Ch.5, p. 117 (sur la considération égale et l'écoute des demandes d'aide et des revendications de droits)
 
 <!-- -->
 
-> On peut supposer raisonnablement que les parents ne veulent pas, dans la plupart des cas, nuire à leurs tout-petits enfants, que **les maîtres ne souhaitent pas spécialement nuire à leurs animaux de compagnie**, que les médecins ne cherchent pas systématiquement à nuire à leurs patients. S'en suit-il logiquement qu'ils devraient les traiter en égaux ou prendre toutes leurs revendications au sérieux (à condition qu'elles puissent être exprimées et comprises, **ce qui posera évidemment toute sorte de problèmes aux bébés, aux animaux ou aux comateux**)&nbsp;? <br> -- Ch. 8, p. 159
+> On peut supposer raisonnablement que les parents ne veulent pas, dans la plupart des cas, nuire à leurs tout-petits enfants, que **les maîtres ne souhaitent pas spécialement nuire à leurs animaux de compagnie**, que les médecins ne cherchent pas systématiquement à nuire à leurs patients. S'ensuit-il logiquement qu'ils devraient les traiter en égaux ou prendre toutes leurs revendications au sérieux (à condition qu'elles puissent être exprimées et comprises, **ce qui posera évidemment toutes sortes de problèmes aux bébés, aux animaux ou aux comateux**)&nbsp;? <br> -- Ch. 8, p. 159
 
 ## La vie, la mort, l'État (2009)
 
@@ -42,7 +42,7 @@ Ogien aborde la notion de dignité humaine chez Kant et la symétrie morale entr
 
 Dans le passage qui suit, Ogien *pourrait* parler en son nom (cf. le "Selon Kant", qui arrive immédiatement, et les exemples choisis) :
 
-> Dire que nous sommes des personnes signifie en premier lieu, que **nous ne sommes ni des bêtes qu'on peut tuer, manger et dont on peut jeter les restes à la poubelle, ni des choses** qu'on peut acquérir, transférer ou détruire si on en a plus besoin, comme un sac plastique ou des chaussettes trouées&nbsp;? Pourquoi&nbsp;? [...] Selon Kant [...]<br> -- p. 80
+> Dire que nous sommes des personnes signifie en premier lieu, que **nous ne sommes ni des bêtes qu'on peut tuer, manger et dont on peut jeter les restes à la poubelle, ni des choses** qu'on peut acquérir, transférer ou détruire si on n'en a plus besoin, comme un sac plastique ou des chaussettes trouées&nbsp;? Pourquoi&nbsp;? [...] Selon Kant [...]<br> -- p. 80
 
 Sur la question du droit d'avorter :
 
