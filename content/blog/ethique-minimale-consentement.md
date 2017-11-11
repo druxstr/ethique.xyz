@@ -90,7 +90,7 @@ Image : CC-BY-SA 4.0 Ethique.xyz depuis [Tick](https://thenounproject.com/icon/6
 
 [^11]: "Le principe de non-nuisance ne peut pas s’appliquer au candidat à la mort douce, euthanasie active ou passive ou suicide assisté, puisqu’il est, dans tous les cas, consentant en principe, et qu’on ne peut pas causer de tort à celui qui consent" Ruwen Ogien, *La vie, la mort, l’État*, p. 206-207
 
-[^12]: Ruwen Ogien, *L'influence de l'odeur des croisants chauds sur la bonté humaine*, p. 162
+[^12]: Ruwen Ogien, *L'influence de l'odeur des croissants chauds sur la bonté humaine*, p. 162
 
 [^13]: Ruwen Ogien, *L'éthique aujourd'hui*, Ch. 10, p. 183 & p. 191. Pour être parfaitement exact, Ogien parle des "morales *dites* 'du consentement'" (je souligne).
 
