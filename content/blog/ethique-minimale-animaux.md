@@ -9,7 +9,120 @@ draft = true
 <!--  **En bref** : L'éthique d'Ogien n'intégre pas pleinement les animaux à la morale. Une éthique minimale ouverte aux animaux peut cependant être construite.
 -->
 
-L'éthique minimale n'est pas conçue pour prendre en compte les animaux. Ruwen Ogien n'évoque presque jamais les animaux non-humains[^x]. Il signale que leur statut moral est "controversé"[^a], mais pas beaucoup plus.
+L'éthique minimale n'est pas conçue pour prendre en compte les animaux. À l'exception de 20 pages publiées en 2011[^a], Ruwen Ogien n'évoque presque jamais les animaux non-humains. Il signale que leur statut moral est "controversé"[^a], mais pas beaucoup plus.
+
+Dans cet article, j'essaie d'appliquer l'éthique d'Ogien aux non-humains, sans changer quoique ce soit à la théorie. L'idée est de voir jusqu'où l'éthique minimale peut répondre aux préoccupations des défenseurs des droits des animaux. Pour cela, je vais m'intéresser aux questions qui suivent :
+
+1. L'éthique concerne-t-elle les animaux ?
+2. Peut-on nuire aux animaux ?
+3. Que faire de l'idée de consentement ?
+4. Peut-on écouter des "revendications" animales ?
+5. Peut-on "considérer également" les animaux ?
+
+À chaque fois, je commencerai par rappeler la position "standard" de l'éthique minimale. Je tenterai ensuite de voir comment l'adapter ou l'étendre aux animaux.
+
+Je terminerai l'article par une hypothèse pour expliquer le silence d'Ogien concernant les animaux. À mon sens, la prise en compte des animaux met en lumière plusieurs faiblesses de l'éthique minimale.
+
+## 1. L'éthique concerne-t-elle les animaux ?
+
+C'est une question compliquée, qui admet plusieurs réponses différentes, pour ne pas dire contradictoires.
+
+Si on s'en tient à la définition générale de l'éthique proposée par Ogien, l'éthique ne concerne pas les animaux.
+
+Si on prend en compte ses autres déclarations, la réponse tend à être devenir "oui". Les animaux ont une place en éthique, mais pas équivalente à celle des humains.
+
+Enfin, il est aussi possible de tordre le texte d'Ogien pour lui faire dire que les a ima
+
+
+---
+
+Selon Ogien, l'éthique n'a pas à régenter tous les aspects de notre vie courante. Elle ne vise pas à répondre à des questions supposées profondes ou existentielles. La morale concerne uniquement :
+
+<!-- La morale concerne uniquement notre rapport aux autres, c'est-à-dire à des êtres vivants "de chair et d'os"[^a]. Elle s'intéresse -->
+
+> les relations entre les personnes non réglées par la menace et la force[^a].
+
+et
+
+> [les] formes possibles de la coexistence des libertés individuelles et de la coopération sociale équitable[^a].
+
+Les animaux ont-ils une place dans cette conception ? Oui, mais seulement à la marge. Il n'y a que les animaux qui sont des "personnes" qui comptent pleinement en morale[^a].
+
+Et encore, il est clair qu'Ogien n'a pas pensé sa théorie pour les dauphins et les grands singes. Ce sont plutôt des "passagers clandestins" : une lecture littérale d'Ogien permet de les faire entrer en éthique, mais ce n'est pas l'esprit du propos.
+
+À supposer qu'on accepte une telle lecture, il faut *aussi* réinterpréter les termes "libertés individuelles" et "coopération sociale". Il n'est pas exclu de les appliquer aux animaux, mais cela appelle quand même une explication.
+
+Ogien n'est pas pour autant un opposant acharné des droits des animaux. Il semble plutôt avoir du mal à trouver une position satisfaisante sur le sujet :
+
+> En fait, il est difficile de trouver de bons arguments qui pourraient justifier l'existence d'un abîme moral entre humains et animaux. Mais les tentatives d'aligner complètement le statut des animaux non humains sur celui des humains semblent, elles aussi, vouées à l'échec. Elles aboutissent à des conclusions paradoxales, au mieux.
+
+L'éthique concerne-t-elle les animaux ? Pas vraiment, mais il est difficile de trancher nettement la question. D'un coté, la définition generale de l'ethique proposée par Ogien exclut les animaux. De l'autre, Ogien admet qu'il n'y a pas d'abîme moral entre eux et nous.
+
+Pour le dire brutalement, il est à peu près clair que l'éthique minimale trouve à redire
+
+Certes, il est clair qu'il n'est pas moral d'égorger un grand singe, même pour les minimalistes. Mais après ? La plupart des questions que se posent les défenseurs des animaux restent sans réponse chez Ogien. Une éthique minimale ouverte aux animaux reste largement à construire.
+
+
+Mais rien n'empêche de concevoir d'autres versions de l'éthique minimale.
+
+On peut imaginer une éthique minimale moins centrée sur les "personnes". Ou bien qui donne à "personne" un sens particulièrement large. Ou encore, un minimalisme moral qui accepterait une *autre définition* générale de l'éthique.
+
+
+<!--
+
+Comment faire entrer les animaux dans ce genre de conception ? Pour le savoir, il faudrait répondre à des questions épineuses comme :
+
+* les animaux ont-ils des libertés individuelles ?
+* peuvent-ils "coopérer socialement" avec nous ?
+
+Cela suppose de réinterpréter profondément les termes "libertés individuelles" et "coopération sociale". Même s'il n'est pas exclu de les appliquer aux animaux, ces
+
+Mais tout n'est pas perdu. Les animaux sont biens des individus concrets ("de chair et d'os"). Et au moins certains d'entre eux sont des "personnes" : les grands singes ou les dauphins par exemple.
+
+En l'état, la conception de l'éthique soutenue par Ogien rend difficile d'intégrer les animaux dans l'éthique.
+
+Si on veut adapter l'éthique minimale aux animaux,
+
+On peut aussi proposer une *autre* réponse à la question "qu'est-ce que l'éthique ?". -->
+
+<!-- dans cet article :
+
+* pourquoi ce silence
+* que peut l'em pour les animaux
+
+-->
+
+## 2. Peut-on nuire aux animaux&nbsp;?
+
+L'éthique minimale demande de [ne pas nuire aux autres](#lien). C'est-à-dire de ne pas causer des dommages injustes à des individus physiques, à des êtres vivants faits "de chair et d'os"[^a]. Ogien est souvent plus précis et parle de "personnes"[^c] – et pas de n'importe quels individus.
+
+Les animaux sont-ils des "autres" protégés par le principe de non-nuisance ? La réponse est plutôt oui, même si Ogien évite d'être explicite ou définitif en la matière. En fait, il est conscient des difficultés que soulève la question animale et reste extrêmement prudent :
+
+> Il est difficile de trouver de bons arguments qui pourraient justifier l'existence d'un abîme moral entre humains et animaux. Mais les tentatives d'aligner complètement le statut des animaux non humains sur celui des humains semblent, elles aussi, vouées à l'échec.
+
+À lire Ogien, le problème n'est pas de savoir "si" l'on peut nuire aux animaux. C'est de savoir *quelle est l'étendue* des torts qu'on peut leur causer[^a]. La classe des actions qui peuvent nuire aux animaux est-elle plus large que celle des actions qui peuvent nuire aux humains adultes ? Ou bien est-elle plus restreinte ?
+
+Quoiqu'il en soit, il faut préciser que même une interprétation restrictive d'Ogien conserve une place aux animaux. À supposer qu'on ne puisse nuire qu'aux "personnes", certains animaux font partie de cette catégorie : grands singes, dauphins, etc.
+
+> Peut-on nuire aux animaux ? Oui, et ce même dans une lecture étroite de l'éthique minimale.
+
+## 6. Pourquoi ce silence ?
+
+L'éthique minimale est construite pour lutter contre le paternalisme. Autrement dit, elle rejette l'idée de "protéger" les autres quand ils ne nous ont rien demandé. Le paternalisme peut conduire à s'immiscer dans ce qui ne nous regarde pas, ou à ne pas écouter les revendications des gens qu'on dit vouloir "aider".
+
+Ogien rejette cette tendance à traiter les adultes comme des enfants irresponsables. C'est pourquoi son éthique insiste sur l'écoute des revendications, la prise en compte du consentement, et demande de n'intervenir que dans un minimum de cas.
+
+Mais cela pose des problèmes pratiques face aux animaux, aux enfants, aux comateux ou à certains handicapés mentaux. Quand il s'agit d'humains, Ogien affirme que ces difficultés sont surmontables sans modifier sa théorie[^a].
+
+Pour les animaux [plus silencieux , surtout que PB de l'abattage différents, dommage, rapport avec le fait de naître enfants handicapés - en fait la question est à l'articulation de plusieurs limites de la théorie d'Ogien : paternalisme et question de la mort
+
+silence pas du à absence de connaissance
+
+Même si Ogien connaît la littérature concernant les animaux [^a],
+
+
+
+L'éthique minimale est pensée pour lutter contre le paternalisme
 
 Dans cet article, j'essaie d'appliquer l'éthique d'Ogien aux non-humains, sans changer quoique ce soit à la théorie. Pour cela, je vais répondre aux questions qui suivent :
 
@@ -22,24 +135,19 @@ Je vais me poser les questions qui suivent, et tenter d'y répondre. À chaque f
 3. Peut-on écouter des "revendications" animales ?
 4. Peut-on "considérer également" les animaux ?
 5. L'éthique concerne-t-elle les animaux ?
+6. La vie des animaux vaut-elle d'être vécue ?
 
 À chaque fois, je commencerai par rappeler la position "standard" de l'éthique minimale.
 
-## 1. Peut-on nuire aux animaux ?
 
-<!-- Ne pas nuire aux animaux -->
 
-L'éthique minimale demande de [ne pas nuire aux autres](#lien). C'est-à-dire de ne pas causer des dommages injustes à des personnes physiques, à des êtres vivants faits "de chair et d'os"[^a]. Ogien parle parfois d'"individus"[^a], mais c'est bien l'idée de personne qui est centrale chez lui.
+<!-- Grands singes, dauphins, et tous ceux qui ont une conscience individuelle et à qui ont peut reconnaître des droits[^a]. -->
 
-Les animaux sont-ils des "autres" protégés par le principe de non-nuisance ? Ogien pose la question, sans aller plus loin[^a]. Mais la réponse est facile à deviner. Certains animaux sont des "autres" : ceux qui sont des personnes, qui ont une conscience individuelle et à qui ont peut reconnaître des droits[^a].
+<!-- Ogien parle de conscience "personnelle" dans mon texte d'appui. Je mets "individuelle" pour échapper à la circularité
 
-<!-- Ogien parle de conscience "personnelle" dans mon texte d'appui. Je mets "individuelle" pour échapper à la circularité -->
+Reste alors à déterminer quels sont les animaux qui sont dans ce cas. Est-ce un part infime des non-humains ? Ou au contraire un ensemble largement étendu ? Que faire des animaux auxquels ils manquent *certains* critères de la personnalité ? Ces *proto-personnes* sont-elles aussi protégées par le principe de non-nuisance ? -->
 
-Reste alors à déterminer quels sont les animaux qui sont dans ce cas. Est-ce un part infime des non-humains ? Ou au contraire un ensemble largement étendu ? Que faire des animaux auxquels ils manquent *certains* critères de la personnalité ? Ces *proto-personnes* sont-elles aussi protégées par le principe de non-nuisance ?
-
-> Peut-on nuire aux animaux ? Oui, au moins à ceux qui sont des personnes.
-
-## 2. Que faire de l'idée de consentement ?
+##2. Que faire de l'idée de consentement ?
 
 <!-- Les critères de l'injustice -->
 
@@ -169,3 +277,5 @@ Le critère du consentement risque de poser trop de problèmes dans certains cas
 [^a]: ajouter une note
 
 [^b]: on pourrait aussi élargir le sens donné a similaire pour aboutir à des considération comme "les mammifères sont des choses similaires entre elles"
+
+[^c]: source et préciser que ces mentions sont plus rares. dans des textes plus proches de 2007, ça peut être une simple imprécision. Dans ceux plus tardifs post 2011, on peut se demander s'il ne s'agit pas d'une nuance ou d'une évolution
