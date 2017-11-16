@@ -12,20 +12,18 @@ Dans cet article j'essaie d'appliquer l'éthique d'Ogien aux non-humains, sans c
 
 Pour cela, je vais m'intéresser à 6 questions :
 
-1. Peut-on nuire aux animaux ?
-2. Que faire de l'idée de consentement ?
-3. Peut-on écouter des "revendications" animales ?
-4. Peut-on "considérer également" les animaux ?
-5. L'éthique concerne-t-elle les animaux ?
-6. Manger de la viande est-il moral ?
-
-[Lien vers sections dans la liste à puces]
+1. [Peut-on nuire aux animaux ?](#1-peut-on-nuire-aux-animaux)
+2. [Que faire de l'idée de consentement ?](#2-que-faire-de-l-idée-de-consentement)
+3. [Peut-on écouter des "revendications" animales ?](#3-peut-on-écouter-des-revendications-animales)
+4. [Peut-on "considérer également" les animaux ?](#4-peut-on-considérer-également-les-animaux)
+5. [L'éthique concerne-t-elle les animaux ?](#5-l-éthique-concerne-t-elle-les-animaux)
+6. [Manger de la viande est-il moral ?](#6-manger-de-la-viande-est-il-moral)
 
 À chaque fois, je commencerai par rappeler la position standard de l'éthique minimale. Je tenterai ensuite de voir comment l'adapter ou l'étendre aux animaux. Le résultat sera une ébauche d'éthique minimale "animaliste".
 
 Je terminerai l'article par une hypothèse pour expliquer le silence relatif d'Ogien concernant les animaux. À mon sens, ce sujet met en évidence plusieurs faiblesses de l'éthique minimale.
 
-##1. Peut-on nuire aux animaux ?
+## 1. Peut-on nuire aux animaux ?
 
 L'éthique minimale demande de [ne pas nuire aux autres](/page/principe-non-nuisance/). C'est-à-dire de ne pas causer des dommages injustes à des personnes physiques, à des êtres vivants faits "de chair et d'os"[^3]. Ogien parle parfois d'"individus"[^4], mais c'est bien l'idée de personne qui est centrale chez lui.
 
@@ -41,7 +39,7 @@ Reste alors à déterminer quels sont les animaux qui sont des personnes. Est-ce
 
 > Peut-on nuire aux animaux ? Oui, au moins à ceux qui sont des personnes. Mais cette conclusion s'appuie sur une interprétation littérale d'Ogien.
 
-##2. Que faire de l'idée de consentement ?
+## 2. Que faire de l'idée de consentement ?
 
 Pour un minimaliste, nuire revient à provoquer des [dommages *injustes*](/page/principe-non-nuisance/#qu-est-ce-que-nuire). Mais sur quels critères s'appuie-t-on pour parler d'injustice ? Ogien n'en mentionne qu'un : [le consentement](/blog/ethique-minimale-consentement), le fait d'exprimer son accord. Un dommage non-consenti est présumé injuste ; un dommage consenti est présumé acceptable.
 
@@ -152,7 +150,7 @@ Discuter le statut moral des animaux revient à mettre en pleine lumière ses d�
 2. L'écoute des revendications n'est pas toujours possible, ou se fait dans des conditions très dégradées.
 3. La différence pratique entre "prise en compte des intérêts" et "écoute des revendications" semble minime lorsque l'autre n'a *jamais* pu s'exprimer.
 4. Malgré ses déclarations optimistes, Ogien n'applique jamais son antipaternalisme aux enfants ou aux handicapés mentaux pour expliciter sa théorie.
-5. La problématique des animaux renvoie l'éthique minimale à son incapacité à expliquer ce qu'il y a de mal à tuer quiconque en général[^k].
+5. La problématique des animaux renvoie l'éthique minimale à son incapacité à expliquer [ce qu'il y a de mal à tuer quiconque](/blog/notion-dommage-en-ethique-minimale/) en général[^k].
 6. La question animale ramène aussi à la question de la valeur de la vie, et au tort à faire naître des vies "misérables"[^l] (handicapés, animaux de laboratoire, etc.)
 
 Ces problèmes ne sont pas liés aux animaux. Ils sont déjà présents lorsqu'on ne s'intéresse qu'aux humains. Ils tournent globalement autour de l'application de l'antipaternalisme à certains cas limites.
@@ -161,9 +159,7 @@ Les lecteurs les plus attentifs objecteront qu'Ogien ne s'oppose pas au paternal
 
 Traiter les enfants comme ce qu'il sont est une bonne chose. De même pour les animaux ou les handicapés mentaux qui ne peuvent pas être autonomes. Mais pourquoi alors ne jamais crever l'abcès et expliquer comment faire dans ces situations ? Pourquoi ne pas prendre 20 pages pour imaginer ce que l'éthique minimale pourrait dire sur le sujet ?
 
------
-
-## Notes & crédit
+## Notes & crédits
 
 [^1]: Ruwen Ogien, *L’influence de l’odeur des croissants chauds sur la bonté humaine*, Ch. 11 "Faut-il éliminer les animaux pour les libérer ?", p. 151-170. On trouvera un essai d'inventaire des propos d'Ogien concernant les animaux sur la page [Ruwen Ogien & les animaux](/page/animaux/). On peut y lire des citations de la plupart des références appelées dans le présent article.
 
@@ -206,7 +202,6 @@ Traiter les enfants comme ce qu'il sont est une bonne chose. De même pour les a
 [^18]: Voir la section concernée à *L'influence de l'odeur des croissants chauds...* sur la page [Ruwen Ogien & les animaux](/page/animaux/#l-influence-de-l-odeur-des-croissants-chauds-sur-la-bonté-humaine-2011)
 
 [^19]: Ruwen Ogien, *L’influence de l’odeur des croissants chauds sur la bonté humaine*, Ch. 11, p. 170
-
 
 [^a]: ajouter une note
 
