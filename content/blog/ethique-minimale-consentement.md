@@ -3,7 +3,7 @@ date = "2017-10-07T12:00:00+06:00"
 title = "Éthique minimale et consentement"
 author = "Guillaume Gallais"
 description = "Quels sont les liens entre éthique minimale et consentement ? Sont-ils aussi intimes qu'il y paraît ?"
-categories = ["exegèse"]
+categories = ["analyse"]
 tags = ["non-nuisance", "consentement"]
 draft = false
 +++
@@ -100,7 +100,7 @@ Image : CC-BY-SA 4.0 Ethique.xyz depuis [Tick](https://thenounproject.com/icon/6
 
 [^16]: "On peut estimer, par exemple, que le consentement est toujours un bien [...] sans aller jusqu'à le sacraliser" Ruwen Ogien “La fabrique du consentement” in *Mon dîner chez les cannibales*, p. 211
 
-[^17]: "Je ne vais certainement pas proposer une définition du consentement de mon cru." Ruwen Ogien, *L'éthique aujourd'hui*, Ch. 10, p. 76
+[^17]: "Je ne vais certainement pas proposer une définition du consentement de mon cru." Ruwen Ogien, *L'éthique aujourd'hui*, Ch. 10, p. 176
 
 [^18]: "L'éthique minimale n'est pas 'fondée' sur le consentement considéré comme une valeur absolue (pas plus qu'elle ne l'est sur toute autre supposée 'valeur absolue')" Ruwen Ogien, *Ibid.*, p. 191
 
