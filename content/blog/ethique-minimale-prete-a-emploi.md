@@ -3,7 +3,7 @@ date = "2017-12-06T12:00:00+06:00"
 title = "L'éthique minimale est elle  \"prête à l'emploi\" ?"
 categories = ["analyse"]
 tags = ["consentement", "considération égale"]
-draft = true
+draft = false
 +++
 
 > **En bref** : L'éthique minimale n'est *peut-être* pas une théorie "prête à l'emploi" qu'il suffirait d'appliquer telle quelle. On peut la voir comme un cadre de pensée général au sein duquel plusieurs théories plus précises peuvent coexister.
