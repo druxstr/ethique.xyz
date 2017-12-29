@@ -26,6 +26,8 @@ Dans cette perspective, on ne nuit pas&nbsp;:
 
 Cette définition minimale d'autrui ne ferme pas la réflexion. Peut-on dire qu'on nuit moralement à un collectif (la société, une entreprise) ? Est-il crédible d'élargir la morale à *toutes* les personnes (même non-humaines) ? Ou, à l'inverse, à des entités concrètes qui ne sont pas des personnes[^3] ?
 
+![logigramme récapitulatif "à quoi peut-on nuire ?"](/media/logigramme_a-quoi-nuire.png)
+
 ## Qu'est-ce que nuire ?
 
 Nuire consiste à causer directement et délibérément du dommage à autrui contre son gré. Il s'agit de dommages qu'on doit pouvoir dire "injustes" d'une façon ou d'une autre. L'éthique minimale désigne ce genre d'action sous plusieurs termes&nbsp;: "nuire", causer du "dommage injuste", du "tort", un "préjudice". De son point de vue, toutes ces formules sont équivalentes[^4].
