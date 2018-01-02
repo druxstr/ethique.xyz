@@ -112,7 +112,7 @@ weight: -10
 <details id="biblio">
   <summary>Y-a-t-il une bibliographie des ouvrages utilisés pour ce site&nbsp;?</summary>
 
-  Pas pour l'instant. Si vraiment ça vous intéresse, écrivez au site, je ferai une liste exhaustive. En bref, le site s'appuie sur *L'éthique aujourd'hui* et *La panique morale*, avec quelques éléments issus de *La liberté d'offenser*, de *La vie, la mort, l'État*, et de *Mon dîner chez les cannibales*.
+  Oui ! C'est [sur cette page](/page/bibliographie). En bref, le site s'appuie sur *L'éthique aujourd'hui* et *La panique morale*, avec quelques éléments issus de *La liberté d'offenser*, de *La vie, la mort, l'État*, et de *Mon dîner chez les cannibales*.
   <span>[[permalien]](#biblio)</span>
 </details>
 <details id="pageblog">

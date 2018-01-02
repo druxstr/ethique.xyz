@@ -1,39 +1,57 @@
 ---
 title: Bibliographie
-description: Liste des ouvrages utilisés pour le site
+description: Liste des sources utilisées pour rédiger les contenus du site
 comments:
 weight: -170
-draft: true
+draft: false
 ---
 
-Du fait
+Le site Ethique.xyz a été conçu et rédigé à partir de mai 2017. Il s'appuie sur des lectures et relectures dispersées entre 2003 et 2017.
 
-~  |lu ou relu partiellement pour les besoins du site<br>
-~~ |lu ou relu intégralement pour les besoins du site
-
+|   Ouvrages suivis des symboles                        |
+|-------------------------------------------------------|
+|~  = lecture partielle uniquement                      |
+|¤  = lu ou relu pour rédiger le site               |
 
 ## Ouvrages de Ruwen Ogien
 
-En gras, les titres qui ont fait l'objet d'une lecture ou d'une relecture, totale ou partielle, à l'occasion de la conception de ce site web.
-
-* Le Rasoir de Kant et autres essais de philosophie pratique, L'Éclat 2003 -- lecture partielle
-* **Penser la pornographie**, Paris, Presses Universitaires de France, coll. « Questions d’éthique », 2003 -- relecture partielle ()
-* La philosophie morale (avec Monique Canto-Sperber), PUF, 2004 ; 3e édition mise à jour 2010
-* **La panique morale**, Grasset, 2004 -- relecture partielle (intro)
-* **L'éthique aujourd'hui** : maximalistes et minimalistes, Paris, Gallimard, 2007 -- relecture intégrale
-* **La liberté d'offenser** : le sexe, l'art et la morale, Paris, La Musardine, 2007 -- relecture partielle
-* **La vie, la mort, l'État** : le débat bioéthique, Paris, Grasset, 2009 -- relecture partielle
-* Le corps et l'argent, Paris, La Musardine, 2010
-* **L’Influence de l’odeur des croissants chauds sur la bonté humaine** et autres questions de philosophie morale expérimentale, Paris, Grasset, 2011 -- relecture partielle
-* La guerre aux pauvres commence à l'école : sur la morale laïque, Grasset, 2012
-* L'État nous rend-il meilleurs ? : essai sur la liberté politique, Gallimard, 336 pages, 2013, (ISBN 2070451917)20
-* Philosopher ou faire l’amour, Paris, Grasset, 2014 -- lecture intégrale
-* Mon dîner chez les cannibales, Paris, Grasset, 2016 -- lecture intégrale
-* Mes Mille et Une Nuits : la maladie comme drame et comme comédie, Albin Michel, 2017
+* *Le Rasoir de Kant*, L'Éclat, 2003 ~
+* *Penser la pornographie*, PUF Questions d'éthique, 2003 ¤
+* *La philosophie morale*, avec Monique Canto-Sperber, PUF QSJ, 2004, 3e éd. 2010
+* *La panique morale*, Grasset, 2004 ¤
+* *Éthique minimale*, manuscrit non-publié, février 2006[^1]
+* *L'éthique aujourd'hui*, Gallimard, 2007 ¤
+* *La liberté d'offenser*, La Musardine, 2007 ¤
+* *La vie, la mort, l'État*, Grasset, 2009 ¤
+* *Le corps et l'argent*, La Musardine, 2010
+* *L’Influence de l’odeur des croissants chauds sur la bonté humaine*, Grasset, 2011 ¤
+* *La guerre aux pauvres commence à l'école*, Grasset, 2012
+* *L'État nous rend-il meilleurs ?*, Gallimard, 2013
+* *Philosopher ou faire l’amour*, Grasset, 2014 ¤
+* *Mon dîner chez les cannibales*, Grasset, 2016 ¤
+* *Mes Mille et Une Nuits*, Albin Michel, 2017 ~
 
 ## Autres ouvrages
+* Cova, Florian, *Qu'en pensez vous&nbsp;?*, Germina, 2011
+* Kant, Emmanuel, *Métaphysique des moeurs I*, GF, 1994
+* Kant, Emmanuel, *Métaphysique des moeurs II*, GF, 1994 ~
+* Marzano, Michela, *Je consens, donc je suis*, PUF, 2006
+* Mill, John Stuart, *De la liberté*, Folio, 1990 ¤
+* Mill, John Stuart, *L'Utilitarisme*, PUF, 1998
+* Nagel, Thomas, *Moral Conflit and Political Legitimacy* ¤
+* Singer, Peter, *Questions d'éthique pratique* ~¤
+* *Stanford Encyclopedia of Philosophy*, *Paternalism*
 
-* **Mill, John Stuart, De la liberté** -- relecture partielle
-* Mill, L'utilitarisme
-* Nagel, Thomas, Moral Conflit and Political Legitimacy
-* Singer, Peter, Questions d'éthique pratique -- relecture partielle
+## Ce site est aussi le fruit de
+
+* Divers articles sur le web dont j'ai bien sûr perdu la trace
+* Un entretien avec Ruwen Ogien au Café qui parle (2006)[^2]
+* Des heures de discussions avec William & Clément
+* Des semestres de philo morale avec Cassien Billier
+* La relecture sans faille de JB & A.
+
+## Notes
+
+[^1]: Il s'agit d'une préversion de *L'éthique aujourd'hui*. Les différences notables dans la structure, le contenu et le titre expliquent un listing à part.
+
+[^2]: J'ai l'enregistrement audio quelque part (mais c'est sale)

@@ -1,17 +1,17 @@
 +++
-date = "2017-11-01T12:00:00+06:00"
+date = "2018-01-02T12:00:00+06:00"
 title = "Que peut l'éthique minimale pour les animaux ?"
 description ="L'éthique minimale de Ruwen Ogien peut-elle justifier moralement un meilleur traitement des animaux ? De quelles ressources dispose-t-elle pour le faire ? Et est-ce suffisant ?"
 categories = ["analyse"]
 tags = ["animaux", "consentement", "non-nuisance", "consideration egale"]
-draft = true
+draft = false
 +++
 
 > **En bref**&nbsp;: L'éthique d'Ogien ne permet qu'une prise en compte limitée des animaux. Ogien est très prudent sur ce sujet, qui met en lumière des défauts structurels de sa théorie.
 
 L'éthique minimale n'est pas conçue pour prendre en compte les animaux. À l'exception de 20 pages publiées en 2011[^1], Ruwen Ogien n'évoque presque jamais les animaux non-humains. Il signale que leur statut moral est "controversé"[^2], mais pas beaucoup plus.
 
-Dans cet article j'essaie d'appliquer l'éthique d'Ogien aux non-humains, sans changer quoique ce soit à la théorie. L'idée est de voir jusqu'où l'éthique minimale peut répondre aux préoccupations des défenseurs des droits des animaux.
+Dans cet article j'essaie d'appliquer l'éthique d'Ogien aux non-humains, sans changer quoi que ce soit à la théorie. L'idée est de voir jusqu'où l'éthique minimale peut répondre aux préoccupations des défenseurs des droits des animaux.
 
 Pour cela, je vais m'intéresser à 6 questions, qu'on pourra lire de façon assez indépendante&nbsp;:
 
@@ -34,13 +34,13 @@ L'éthique minimale demande de [ne pas nuire aux autres](/page/principe-non-nuis
 
 Les animaux sont-ils des "autres" protégés par le principe de non-nuisance&nbsp;? Ogien pose la question, sans aller plus loin[^4]. Dans les 20 pages qu'il consacre aux animaux, il réussit l'exploit de ne pas se prononcer clairement sur le sujet[^5].
 
-Ogien reconnaît qu'il est difficile de justifier l'existence d'un "abîme moral" entre nous et les animaux[^6]. Il admet à demi-mot que nous les traitons mal, voire que nous leur causons du tort. Mais il évite soigneusement d'affirmer quoique ce soit d'explicite.
+Ogien reconnaît qu'il est difficile de justifier l'existence d'un "abîme moral" entre nous et les animaux[^6]. Il admet à demi-mot que nous les traitons mal, voire que nous leur causons du tort. Mais il évite soigneusement d'affirmer quoi que ce soit d'explicite.
 
 Pourtant, on pourrait conclure que certains animaux au moins appartiennent à la communauté morale. Ceux qui sont des *personnes*, qui ont une conscience individuelle et à qui on peut reconnaître des droits[^7].
 
 Mais il est clair qu'Ogien n'a pas conçu sa théorie pour les dauphins et les grands singes. Ce sont plutôt des "passagers clandestins"&nbsp;: une lecture *littérale* permet de les faire entrer dans l'éthique minimale, mais ce n'est pas l'esprit des textes.
 
-Reste alors à déterminer quels sont les animaux qui sont des personnes. Est-ce un part infime des non-humains&nbsp;? Ou au contraire un ensemble largement étendu&nbsp;? Que faire des animaux auxquels ils manquent *certains* critères de la personnalité&nbsp;? Ces *proto-personnes* sont-elles aussi protégées par le principe de non-nuisance&nbsp;?
+Reste alors à déterminer quels sont les animaux qui sont des personnes. Est-ce une part infime des non-humains&nbsp;? Ou au contraire un ensemble largement étendu&nbsp;? Que faire des animaux auxquels il manque *certains* critères de la personnalité&nbsp;? Ces *proto-personnes* sont-elles aussi protégées par le principe de non-nuisance&nbsp;?
 
 > **En bref**&nbsp;: Peut-on nuire aux animaux&nbsp;? Oui, au moins à ceux qui sont des personnes. Mais cette conclusion s'appuie sur une interprétation littérale d'Ogien.
 
@@ -74,7 +74,7 @@ Nous pouvons échanger en langue des signes avec certains animaux. Nos animaux d
 
 L'éthique minimale n'est donc pas démunie pour étendre aux animaux l'idée d'écoute des revendications. Mais il faut reconnaître qu'il s'agit d'un cas très particulier. La notion de "revendication" sert au départ à éviter celle d'intérêt, qui peut être utilisée de façon paternaliste[^13].
 
-Elle n'est peut-être pas optimale penser nos relations avec les animaux. Son apport par rapport à l'idée d'"intérêt" est moins évident dans le cas des animaux et des personnes incapables de s'exprimer.
+Elle n'est peut-être pas optimale pour penser nos relations avec les animaux. Son apport par rapport à l'idée d'"intérêt" est moins évident dans le cas des animaux et des personnes incapables de s'exprimer.
 
 > **En bref**&nbsp;: Peut-on écouter des "revendications" animales&nbsp;? Oui, même si des difficultés pratiques et théoriques existent.
 
@@ -102,7 +102,7 @@ En fait, son principe de considération égale est d'abord un outil de lutte con
 
 ## 5. L'éthique concerne-t-elle les animaux&nbsp;?
 
-L'éthique *en général* concerne-t-elle les animaux&nbsp;? Y ont-ils une place&nbsp;? La réponse n'est pas facile à trouver chez Ogien. D'un coté, sa définition générale de l'ethique exclut les animaux. De l'autre, il admet que parler d'un "abîme moral" entre eux et nous serait une erreur.
+L'éthique *en général* concerne-t-elle les animaux&nbsp;? Y ont-ils une place&nbsp;? La réponse n'est pas facile à trouver chez Ogien. D'un coté, sa définition générale de l'éthique exclut les animaux. De l'autre, il admet que parler d'un "abîme moral" entre eux et nous serait une erreur.
 
 Selon Ogien, la morale concerne uniquement&nbsp;:
 
@@ -114,7 +114,7 @@ et
 
 Ce genre de conception rend extrêmement difficile d'intégrer les animaux à la morale. Ici presque chaque aspect pose problème quand on l'applique aux non-humains.
 
-Tous les animaux sont-ils des "personnes"&nbsp;? Probablement pas. Nos relations avec eux sont-elles réglées par autre chose que la "menace et la force"&nbsp;? Pas sûr. Peut-on parler de "coopération sociale" avec les animaux&nbsp;? Ou leur attribuer des "libertés individuelles"&nbsp;? Peut-être, mais en quels sens&nbsp;?
+Tous les animaux sont-ils des "personnes"&nbsp;? Probablement pas. Nos relations avec eux sont-elles réglées par autre chose que la "menace et la force"&nbsp;? Pas sûr. Peut-on parler de "coopération sociale" avec les animaux&nbsp;? leur attribuer des "libertés individuelles"&nbsp;? Peut-être, mais en quels sens&nbsp;?
 
 Ruwen Ogien n'est pourtant pas un ennemi acharné des animaux. Il reconnaît une continuité morale entre eux et nous[^20]. Il semble ouvert à leur accorder une place en éthique, même s'il ne franchit jamais explicitement le pas.
 
@@ -135,7 +135,7 @@ Dans ce contexte, manger de la viande ne peut pas être immoral. En mangeant de 
 
 Déplacer la question vers l'achat de viande ou de produits issus des animaux (cuir, lait, etc.) ne change rien. En achetant de la viande, je ne dégrade pas la situation des animaux déjà morts. Et ma participation aux préjudices subis par d'autres animaux via mon acte est très indirecte, voire incertaine[^22].
 
-La consommation de viande n'a dès lors *rien à voir* avec l'éthique si on suit Ogien. Elle n'est ni morale, ni immorale&nbsp;: elle relève d'un choix personnel sur les autres n'ont pas leur mot à dire. Un peu comme les choix éducatifs qu'on fait pour ses enfants, la préférence pour les produits écologiques ou le logiciel libre.
+La consommation de viande n'a dès lors *rien à voir* avec l'éthique si on suit Ogien. Elle n'est ni morale, ni immorale&nbsp;: elle relève d'un choix personnel sur lequel les autres n'ont pas leur mot à dire. Un peu comme les choix éducatifs qu'on fait pour ses enfants, la préférence pour les produits écologiques ou le logiciel libre.
 
 L'éthique minimale ne peut pas servir de justification à des pratiques comme le végétarisme ou le véganisme. Ces choix sont peut-être *fondés* sur des considérations morales, mais ils n'ont rien de moral *en eux-mêmes*. On pourrait plutôt y voir des choix *politiques*, qui s'adressent d'abord aux autres humains et non pas aux animaux.
 
@@ -238,7 +238,7 @@ Mais comment interagir avec les enfants&nbsp;? avec les animaux&nbsp;? avec tous
 
 <!-- SECTION 6. Manger de la viande est-il moral ? -->
 
-[^22]: *Indirecte*&nbsp;: il y a une différence entre acheter un bien qui résulte de l'exploitation animale par d'autres, et être soi-même à brutaliser des animaux dans un abattoir ou à organiser délibérément leur massacre dans un bureau.<br>*Incertaine*&nbsp;: en achetant de la viande ou du cuir, il n'est pas d'emblée certain que je participe à au maintient du système d'exploitation. Imaginons que le magasin où j'achète ai décidé d'arrêter la vente de ce type de produit en amont. Mon action particulière n'aura aucun impact sur la poursuite de l'exploitation.
+[^22]: *Indirecte*&nbsp;: il y a une différence entre acheter un bien qui résulte de l'exploitation animale par d'autres, et être soi-même à brutaliser des animaux dans un abattoir ou à organiser délibérément leur massacre dans un bureau.<br>*Incertaine*&nbsp;: en achetant de la viande ou du cuir, il n'est pas d'emblée certain que je participe à au maintient du système d'exploitation. Imaginons que le magasin où j'achète ait décidé d'arrêter la vente de ce type de produit en amont. Mon action particulière n'aura aucun impact sur la poursuite de l'exploitation.
 
 <!-- SECTION 7. Ruwen Ogien & les animaux -->
 <!-- SECTION 8. Pourquoi ce silence ? -->
