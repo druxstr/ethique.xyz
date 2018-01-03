@@ -47,9 +47,13 @@ weight: -10
   <span>[[permalien]](#neutre)</span>
 </details>
 <details id="defmorale">
-  <summary> Qu'est ce que l'éthique pour un minimaliste&nbsp;?</summary>
+  <summary> Qu'est-ce que l'éthique pour un minimaliste&nbsp;?</summary>
 
-  Pour un minimaliste, l'éthique s'intéresse à la coexistence des libertés individuelles et à la coopération sociale équitable. Elle ne cherche pas à répondre à des questions supposées "profondes" ou "existentielles". Elle n'a pas non plus vocation à régenter tous les aspects de notre existence.
+  Pour un minimaliste, l'éthique s'intéresse à la coexistence des libertés individuelles et à la coopération sociale équitable. Elle concerne les relations entre personnes non réglées par la menace et la force.
+
+  L'éthique ne cherche pas à répondre à des questions supposées "profondes" ou "existentielles". Elle n'a pas non plus vocation à régenter tous les aspects de notre existence.
+
+  Source : *L'éthique aujourd'hui*, Ch. 4, p. 80 et Conclusion, p. 197  
   <span>[[permalien]](#defmorale)</span>
 </details>
 <details id="moralimmoral">
