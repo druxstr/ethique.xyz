@@ -8,7 +8,7 @@ theme = "minimo"
 disqusShortname = "ethiquemini"
 googleAnalytics = ""
 
-Paginate = 50
+Paginate = 10
 preserveTaxonomyNames = true
 footnoteReturnLinkContents = "&larrhk;"
 
@@ -40,6 +40,7 @@ suffix = ""
 dateFormat = "02 Jan 2006"
 listDateFormat = "2006, Jan 02"
 hideEntryNavigation = ["page", "blog"] # boolean / array of sections
+recentPostsLength = 10
 hideSocialMenu = true
 showReadingTime = true
 

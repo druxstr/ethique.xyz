@@ -4,6 +4,8 @@ description: Essai d'inventaire des propos d'Ogien concernant les animaux et leu
 draft: false
 ---
 
+*Cette page inventorie les citations de Ruwen Ogien concernant le traitement des animaux. Pour une analyse de ce qu'il dit sur le sujet, voir [Que peut l'éthique minimale pour les animaux ?](/blog/ethique-minimale-animaux/)*
+
 **Remarque** : cet essai d'inventaire ne s'appuie ni sur une relecture intégrale, ni sur une recherche *full text* du corpus ogienien dans son ensemble. Il est nécessairement incomplet. Si vous rencontrez d'autres extraits qui pourraient s'y ajouter, n'hésitez pas à [écrire au site](/page/a-propos/#contact).
 
 ## La panique morale (2005)

@@ -35,7 +35,7 @@ Ogien cite les principes tels que formulés dans *La panique morale*, puis ajout
 
 Ogien reprend ensuite ces principes dans la conclusion du livre :
 
-> "C'est une conception qui repose sur trois principes seulement&nbsp;:<br>
+> C'est une conception qui repose sur trois principes seulement&nbsp;:<br>
 > 1. Indifférence morale du rapport à soi-même.<br>
 > 2. Non-nuisance à autrui<br>
 > 3. Égale considération de chacun.
