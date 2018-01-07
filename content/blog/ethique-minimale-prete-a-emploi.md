@@ -3,6 +3,7 @@ date = "2017-12-06T12:00:00+06:00"
 title = "L'éthique minimale est elle  \"prête à l'emploi\" ?"
 categories = ["analyse"]
 tags = ["consentement", "considération égale"]
+authors = ["ggallais"]
 draft = false
 +++
 

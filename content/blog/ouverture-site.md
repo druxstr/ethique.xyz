@@ -3,6 +3,7 @@ date = "2017-08-16T12:00:00+06:00"
 title = "Ouverture du site"
 categories = ["ethique.xyz"]
 tags = ["ethique.xyz"]
+authors = ["ggallais"]
 +++
 
 Ethique.xyz est un site web dédié à l'éthique minimale de Ruwen Ogien. Son objectif est de présenter la théorie de façon aussi claire et accessible que possible. Il aurait pu s'appeler ethique-minimale.org, .fr, ou .net, mais ethique.xyz était plus "minimal", dans la mesure où [ethique.mini](http://ethique.mini) n'était pas disponible.

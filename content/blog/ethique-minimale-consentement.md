@@ -5,6 +5,7 @@ author = "Guillaume Gallais"
 description = "Quels sont les liens entre éthique minimale et consentement ? Sont-ils aussi intimes qu'il y paraît ?"
 categories = ["analyse"]
 tags = ["non-nuisance", "consentement"]
+authors = ["ggallais"]
 draft = false
 +++
 > **En bref** : La notion de consentement est importante en éthique minimale, mais elle n'est pas centrale. Ogien est souvent ambigu ou peu explicite lorsqu'il aborde les liens entre éthique minimale et consentement.

@@ -4,6 +4,7 @@ title = "La notion de dommage en éthique minimale"
 description = "L'éthique minimale demande de ne pas causer certains dommages. Mais qu'entend-elle par dommage ?"
 categories = ["critique", "analyse"]
 tags = ["non-nuisance", "dommage"]
+authors = ["ggallais"]
 +++
 > **En bref** : L'éthique minimale définit le dommage comme une dégradation d'état par rapport à un état antérieur. Cela rend difficile l'évaluation des dommages psychologiques, et empêche de parler de "nuisance" dans certains cas limites (dommage à naître ou à mourir).
 <!-- ![dommage](/media/dommage.png) -->

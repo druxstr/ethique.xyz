@@ -4,6 +4,7 @@ title = "Que peut l'éthique minimale pour les animaux ?"
 description ="L'éthique minimale de Ruwen Ogien peut-elle justifier moralement un meilleur traitement des animaux ? De quelles ressources dispose-t-elle pour le faire ? Et est-ce suffisant ?"
 categories = ["analyse"]
 tags = ["animaux", "consentement", "non-nuisance", "consideration egale"]
+authors = ["ggallais"]
 draft = false
 +++
 
