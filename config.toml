@@ -5,7 +5,7 @@ copyright = ""
 
 theme = "minimo"
 
-disqusShortname = "ethiquemini"
+disqusShortname = ""
 googleAnalytics = ""
 
 Paginate = 10
