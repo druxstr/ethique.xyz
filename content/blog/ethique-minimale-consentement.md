@@ -1,7 +1,6 @@
 ﻿+++
 date = "2017-10-07T12:00:00+06:00"
 title = "Éthique minimale et consentement"
-author = "Guillaume Gallais"
 description = "Quels sont les liens entre éthique minimale et consentement ? Sont-ils aussi intimes qu'il y paraît ?"
 categories = ["analyse"]
 tags = ["non-nuisance", "consentement"]

@@ -83,6 +83,7 @@ Cette diversité montre que le principe est robuste : il est plus stable que les
 
 * [Principe de non-nuisance](/page/principe-non-nuisance)
 * [Principe d'indifférence morale du rapport à soi](/page/indifference-morale-rapport-a-soi)
+* [Blog] [L'éthique minimale est-elle "prête à l'emploi" ?](/blog/ethique-minimale-prete-a-emploi/)
 
 ## Notes & crédits
 
