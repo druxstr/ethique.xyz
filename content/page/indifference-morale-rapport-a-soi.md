@@ -1,8 +1,12 @@
 ---
 title: Indifférence morale du rapport à soi
 description: Ce qu'on fait de soi-même (son corps, sa vie, ses choix personnels) n'a rien à voir avec la morale. Rien.
+cover:
+ image: /media/rapport-a-soi.png
+ caption:
+ style: normal
 ---
-![Indifférence morale du rapport à soi](/media/rapport-a-soi.png)L'éthique minimale défend le principe d'indifférence morale du rapport à soi. Selon ce principe, ce qu'un individu se fait à lui-même est dénué de toute valeur morale. Ça n'est jamais "moral" ou "immoral" : ça n'a simplement rien à voir avec l'éthique.
+L'éthique minimale défend le principe d'indifférence morale du rapport à soi. Selon ce principe, ce qu'un individu se fait à lui-même est dénué de toute valeur morale. Ça n'est jamais "moral" ou "immoral" : ça n'a simplement rien à voir avec l'éthique.
 
 Il s'agit d'une version radicale du principe d'asymétrie morale[^1], qui veut qu'on différencie ce qu'on fait aux autres et ce qu'on se fait à soi. Si on accepte ce principe, on n'accordera pas autant de valeur morale au meurtre et au suicide, au viol et à la masturbation, au vol et à l'usage malheureux de son propre argent.
 

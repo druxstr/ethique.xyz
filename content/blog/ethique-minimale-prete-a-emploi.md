@@ -5,6 +5,11 @@ categories = ["analyse"]
 tags = ["consentement", "considération égale"]
 authors = ["ggallais"]
 draft = false
+
+[cover]
+image = "/media/nouilles.png"
+caption = ""
+style = "normal"
 +++
 
 > **En bref** : L'éthique minimale n'est *peut-être* pas une théorie "prête à l'emploi" qu'il suffirait d'appliquer telle quelle. On peut la voir comme un cadre de pensée général au sein duquel plusieurs théories plus précises peuvent coexister.
@@ -56,7 +61,9 @@ Je doute que cette situation soit volontaire de la part d'Ogien (mais pourquoi p
 
 Bref, l'éthique minimale serait plus encore minimale qu'on pourrait s'y attendre. Elle ne serait pas "prête à l'emploi", mais demanderait aux minimalistes de faire des choix interprétatifs et théoriques avant de pouvoir l'appliquer.
 
-## Notes
+## Notes & crédits
+
+Image : CC-BY-SA 4.0 Ethique.xyz à partir de [Noodles par Claire Jones](https://thenounproject.com/icon/43518/)
 
 [^1]: *L'éthique aujourd'hui* (2007) est l'ouvrage principal d'Ogien concernant l'éthique minimale. Il y consacre 50 pages à l'étude de l'indifférence morale du rapport à soi (Ch. 1-3, p. 25-75) et 40 à 45 pages à expliciter le principe de non-nuisance (Ch.4-5, p.76-116, voire p. 76-121).
 

@@ -6,6 +6,11 @@ categories = ["analyse"]
 tags = ["animaux", "consentement", "non-nuisance", "consideration egale"]
 authors = ["ggallais"]
 draft = false
+
+[cover]
+image = "/media/animaux.png"
+caption = ""
+style = "normal"
 +++
 
 > **En bref**&nbsp;: L'éthique d'Ogien ne permet qu'une prise en compte limitée des animaux. Ogien est très prudent sur ce sujet, qui met en lumière des défauts structurels de sa théorie.
@@ -176,6 +181,8 @@ Ogien ne s'oppose pas au paternalisme en toute situation. Il s'oppose au fait de
 Mais comment interagir avec les enfants&nbsp;? avec les animaux&nbsp;? avec tous ceux qui ne peuvent pas, plus, ou qui n'ont jamais pu s'exprimer de façon claire et explicite&nbsp;? En l'absence d'un exemple d'application, l'éthique minimale semble prise en défaut.
 
 ## Notes & crédits
+
+Image : CC-BY-SA 4.0 Ethique.xyz à partir de [Animals par Pete Fecteau](https://thenounproject.com/icon/13643/)
 
 <!-- INTRO -->
 

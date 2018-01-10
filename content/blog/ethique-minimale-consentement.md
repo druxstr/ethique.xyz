@@ -6,7 +6,13 @@ categories = ["analyse"]
 tags = ["non-nuisance", "consentement"]
 authors = ["ggallais"]
 draft = false
+
+[cover]
+image = "/media/consentement.png"
+caption = ""
+style = "normal"
 +++
+
 > **En bref** : La notion de consentement est importante en éthique minimale, mais elle n'est pas centrale. Ogien est souvent ambigu ou peu explicite lorsqu'il aborde les liens entre éthique minimale et consentement.
 <!-- ![consentement](/media/consentement.png) -->
 

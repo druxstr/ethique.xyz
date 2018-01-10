@@ -5,6 +5,11 @@ description = "L'éthique minimale demande de ne pas causer certains dommages. M
 categories = ["critique", "analyse"]
 tags = ["non-nuisance", "dommage"]
 authors = ["ggallais"]
+
+[cover]
+image = "/media/dommage.png"
+caption = ""
+style = "normal"
 +++
 > **En bref** : L'éthique minimale définit le dommage comme une dégradation d'état par rapport à un état antérieur. Cela rend difficile l'évaluation des dommages psychologiques, et empêche de parler de "nuisance" dans certains cas limites (dommage à naître ou à mourir).
 <!-- ![dommage](/media/dommage.png) -->
@@ -93,7 +98,7 @@ On pourrait aussi tenter une généralisation du problème. On soutiendrait alor
 
 ## Notes & crédits
 
-Image : CC-BY-SA 4.0 Ethique.xyz, à partir de [Hit par Ezra Keddell](https://thenounproject.com/icon/6593/)
+Image : CC-BY-SA 4.0 Ethique.xyz depuis [Assault par parkjisun](https://thenounproject.com/icon/302798/) & [Close](https://thenounproject.com/icon/644441/) par No more Heroes
 
 [^1]: Voir la page [Principe de non-nuisance](https://ethique.xyz/page/principe-non-nuisance/) du présent site. De façon générale, ce billet ne redonne pas les références déjà fournies sur la page à propos de la non-nuisance.
 

@@ -1,8 +1,12 @@
 ---
 title: Principe de non-nuisance
 description: L'éthique minimale nous demande de "ne pas nuire aux autres". Mais que signifie "nuire" ? Qui sont les "autres" ? Où commence et où s'arrête la nuisance ?
+cover:
+ image: /media/ne-pas-nuire.png
+ caption:
+ style: normal
 ---
-![Ne pas nuire](/media/ne-pas-nuire.png)L'éthique minimale reprend le [principe de non-nuisance](https://fr.wikipedia.org/wiki/Harm_principle) énoncé par John Stuart Mill en 1859 dans *De la liberté*[^1]. Selon ce principe, la seule raison légitime d'interférer avec les affaires des autres est d'empêcher que du tort soit causé à autrui.
+L'éthique minimale reprend le [principe de non-nuisance](https://fr.wikipedia.org/wiki/Harm_principle) énoncé par John Stuart Mill en 1859 dans *De la liberté*[^1]. Selon ce principe, la seule raison légitime d'interférer avec les affaires des autres est d'empêcher que du tort soit causé à autrui.
 
 <!-- "interférer" plutôt que '"intervenir", voir LEA p. 102 où Ogien cite Mill, qui utilise bien "interférer" -->
 
