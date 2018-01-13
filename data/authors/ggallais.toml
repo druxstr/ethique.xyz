@@ -2,9 +2,10 @@ id = "ggallais"
 
 [email]
 username = ""
-host = "whoz.me"
+host = ""
+
 [name]
-display = "guillaume"
+display = "Guillaume Gallais"
 
 [social]
 email = ""
