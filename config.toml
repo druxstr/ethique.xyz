@@ -2,7 +2,7 @@
 
 archetypeDir =                "archetypes"
 # hostname (and path) to the root, e.g. http://spf13.com/
-baseURL = "https://ethique.xyz"                 ""
+baseURL = "https://ethique.xyz"
 # include content marked as draft
 buildDrafts =                 false
 # include content with publishdate in the future
@@ -23,17 +23,11 @@ defaultContentLanguage =      "fr"
 # Renders the default content language in subdir, e.g. /en/. The root directory / will redirect to /en/
 defaultContentLanguageInSubdir =  false
 disableLiveReload =           false
-#Do not build RSS files
-disableRSS =                  false
-# Do not build Sitemap file
-disableSitemap =              false
 # Enable GitInfo feature
 enableGitInfo =               false
 # Build robots.txt file
 enableRobotsTXT =             true
 # Do not render 404 page
-disable404 =                  false
-# Do not inject generator meta tag on homepage
 disableHugoGeneratorInject =  false
 # Allows you to disable all page types and will render nothing related to 'kind';
 # values = "page", "home", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"
@@ -57,7 +51,7 @@ layoutDir =                   "layouts"
 # Enable Logging
 log =                         false
 # Log File path (if set, logging enabled automatically)
-logFile =
+logFile =                     ""
 # maximum number of items in the RSS feed
 rssLimit =                    15
 # "toml","yaml", or "json"
@@ -71,7 +65,7 @@ noTimes =                     false
 paginate =                    10
 paginatePath =                "page"
 # See "content-management/permalinks"
-permalinks =
+permalinks =                  ""
 # Pluralize titles in lists using inflect
 pluralizeListTitles =         true
 # Preserve special characters in taxonomy names ("Gérard Depardieu" vs "Gerard Depardieu")
@@ -85,9 +79,9 @@ pygmentsStyle =               "monokai"
 # true: use pygments-css or false: color-codes directly
 pygmentsUseClasses =          false
 # see "Section Menu for Lazy Bloggers", /templates/menu-templates for more info
-SectionPagesMenu =
+SectionPagesMenu =            ""
 # default sitemap configuration map
-sitemap =
+sitemap =                     ""
 # filesystem path to read static files relative from
 staticDir =                   "static"
 # display memory and timing of different steps of the program
@@ -108,10 +102,10 @@ watch =                       true
 ## Minimo theme more specific confif
 
 # for smart copyright line, leave this blank and check [params.copyright]
-copyright = ""
-disqusShortname = ""
+copyright =                   ""
+disqusShortname =             ""
 # Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ )
-pygmentsCodefences = true
+pygmentsCodefences =          true
 
 [params.info]
 description = "Une éthique applicable qui tient en un tweet"
@@ -169,11 +163,11 @@ tag = "tags"
 # [permalinks]
 # page = "/:slug/"
 
-# [[menu.main]]
-# name = "Repo"
-# weight = -10
-# identifier = "repository"
-# url = ""
+#[[menu.main]]
+#name = "English"
+#weight = -5
+#identifier = "repository"
+#url = "/en/"
 
 [blackfriday]
 hrefTargetBlank = true
@@ -184,3 +178,6 @@ hrefTargetBlank = true
 lang = "fr"
 languageName = "Français"
 weight = 1
+#[languages.en]
+#title = "Ruwen Ogien's Minimal Ethics"
+#description = "A usable ethics that fits it a tweet"
