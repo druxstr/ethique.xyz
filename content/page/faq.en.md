@@ -1,5 +1,5 @@
 ---
-title: F.A.Q
+title: FAQ
 description: Questions about Ruwen Ogien's Minimal Ethics & this website
 comments: false
 menu: main
