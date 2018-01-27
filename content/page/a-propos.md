@@ -18,6 +18,10 @@ Ce site a pour objectif principal de présenter l'éthique minimale de [Ruwen Og
 
 Vous pouvez partager et adapter le contenu de ce site à condition de créditer Ethique.xyz et de diffuser vos créations dérivées sous une licence [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr) ou équivalente.
 
+## Code source & contribution
+
+Le code source de ce site et de ses contenus est [disponible sur Github](https://github.com/druxstr/ethique.xyz/). N'hésitez pas à contribuer (forme ou contenu !) si vous voyez des choses améliorables.
+
 ### Mentions légales
 
 Ethique.xyz est hébergé par Infomaniak Network SA
