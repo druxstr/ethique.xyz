@@ -2,8 +2,6 @@
 title: About
 description: Stop, children, what's that site ?
 comments: false
-menu: main
-weight: -170
 draft: true
 ---
 
