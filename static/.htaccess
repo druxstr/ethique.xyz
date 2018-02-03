@@ -3,3 +3,11 @@ AddOutputFilterByType DEFLATE "application/atom+xml" "application/javascript" "a
 RewriteEngine on
 RewriteCond %{HTTP:X-Forwarded-Proto} !https
 RewriteRule (.*) https://ethique.xyz/$1 [R=301,L]
+
+# Far future expiration
+<IfModule mod_expires.c>
+ExpiresActive on
+<FilesMatch "\.(gif|jpeg|jpg|png|ico|js|css|swf)$">
+ExpiresDefault "access plus 2160 hours"
+</FilesMatch>
+</IfModule>
