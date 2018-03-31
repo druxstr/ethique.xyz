@@ -15,7 +15,7 @@ Want to report some broken english ? Feel like improving this website in any way
 
 ![contact](/media/contact.png)
 
-Or even better, you make a [git pull request](https://github.com/druxstr/ethique.xyz/content/) on Github.
+Or even better, make a [git pull request](https://github.com/druxstr/ethique.xyz/tree/master/content) on Github.
 
 ---
 
