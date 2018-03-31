@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: F.A.Q
 description: Questions about Ruwen Ogien's Minimal Ethics & this website
 comments: false
 draft: false
@@ -16,9 +16,9 @@ draft: false
 
 ## Ruwen Ogien's Minimal Ethics
 <details id="defmorale">
-  <summary> How does Minimal Ethics defines Ethics in genreal&nbsp;?</summary>
+  <summary> How does Minimal Ethics defines ethics in general&nbsp;?</summary>
 
-  Ethics is about how indivual freedoms can coexist, and what a fair social cooperation can look like. It has to do with relationships between persons which are neither ruled by force nor by threat.
+  Ethics is about how indivual freedoms can coexist, and what a fair social cooperation can look like. It has to do with relationships between persons which are ruled neither by force nor threat.
 
   Answering "deep" or "existential" questions isn't a part of ethics. Ethics's mission isn't to shape every aspect of our life by telling us what to do.
 
@@ -70,15 +70,17 @@ draft: false
 <details id="english">
   <summary>What do I miss by not reading this site in French&nbsp;?</summary>
 
-  Nothing, it's way funnier in English.
+  Not much, it's way funnier in English.
 
-  More seriously, most of the content won't be translated. This includes [some dull pages](/page/) (Bibliography, Ogien's quotations on animals, etc.), a [longer version of this FAQ](/page/faq), and [deeper criticisms of Ogien's ethics](/blog/). If in despair, use an automatic translator.
+  More seriously, most of the content won't be translated. This includes : a detailed explanation of each principle, [some dull pages](/page/) (Bibliography, Ogien's quotations on animals, etc.), an [extended version of this F.A.Q](/page/faq), and [deeper criticisms of Ogien's ethics](/blog/). If in despair, use an automatic translator.
 
   <span>[[permalien]](#english)</span>
 </details>
 <details id="qui">
   <summary>Who made this&nbsp;?</summary>
 
-  I'm Guillaume Gallais, an ex-philosophy student in France. I've been reading Ruwen Ogien's works since 2003. I had the chance to meet him (once) and to read & criticize pre-print versions of his masterwork *L'éthique aujourd'hui* (*Ethics nowadays* - not translated as far as I know).
+  Some French speaking guy, obviously.
+
+  I'm Guillaume Gallais, an ex-philosophy student in France. I've been reading Ruwen Ogien's works since 2003. I had the chance to meet him (once) and to access pre-print versions of his masterwork *L'éthique aujourd'hui* (*Ethics nowadays* - not translated as far as I know).
   <span>[[permalien]](#qui)</span>
 </details>
