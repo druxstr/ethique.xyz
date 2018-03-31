@@ -1,5 +1,4 @@
 # For theme relative config, see below
-
 archetypeDir =                "archetypes"
 # hostname (and path) to the root, e.g. http://spf13.com/
 baseURL = "https://ethique.xyz"
@@ -164,11 +163,11 @@ tag = "tags"
 # [permalinks]
 # page = "/:slug/"
 
-#[[menu.main]]
-#name = "English"
-#weight = -5
-#identifier = "repository"
-#url = "/en/"
+[[menu.main]]
+name = "🇬🇧"
+weight = -5
+identifier = ""
+url = "/en/"
 
 [blackfriday]
 hrefTargetBlank = true
@@ -177,8 +176,10 @@ hrefTargetBlank = true
 # edit this block for your own language
 [languages.fr]
 lang = "fr"
+title= "Éthique minimale"
+description = "Une éthique applicable qui tient en un tweet"
 languageName = "Français"
 weight = 1
-#[languages.en]
-#title = "Ruwen Ogien's Minimal Ethics"
-#description = "A usable ethics that fits it a tweet"
+[languages.en]
+title = "Ruwen Ogien's Minimal Ethics"
+description = "A usable ethics that fits it a tweet"
