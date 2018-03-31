@@ -1,9 +1,7 @@
 ---
 title: Home
-menu: main
 description: "Ruwen Ogien's Minimal Ethics : now a groundbreaking website !"
-weight: -270
-draft: true
+draft: false
 ---
 
 ## What is Minimal Ethics?
