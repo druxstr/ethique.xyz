@@ -88,7 +88,7 @@ stepAnalysis =                false
 # theme to use (located by default in /themes/THEMENAME/)
 themesDir =                   "themes"
 theme =                       "minimo"
-title =                       "Éthique minimale"
+#title =                       "Éthique minimale"
 # if true, use /filename.html instead of /filename/
 uglyURLs =                    false
 # verbose output
@@ -106,9 +106,9 @@ disqusShortname =             ""
 # Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ )
 pygmentsCodefences =          true
 
-[params.info]
-description = "Une éthique applicable qui tient en un tweet"
-title404 = "404 !"
+#[params.info]
+#description = "Une éthique applicable qui tient en un tweet"
+#title404 = "404 !"
 
 [params.assets]
 favicon = "favicon.ico"
@@ -163,12 +163,6 @@ tag = "tags"
 # [permalinks]
 # page = "/:slug/"
 
-[[menu.main]]
-name = "🇬🇧"
-weight = -5
-identifier = ""
-url = "/en/"
-
 [blackfriday]
 hrefTargetBlank = true
 
@@ -176,10 +170,52 @@ hrefTargetBlank = true
 # edit this block for your own language
 [languages.fr]
 lang = "fr"
-title= "Éthique minimale"
-description = "Une éthique applicable qui tient en un tweet"
 languageName = "Français"
 weight = 1
+title = "Éthique minimale"
+
+[languages.fr.params.info]
+description = "Une éthique applicable qui tient en un tweet"
+
+[[languages.fr.menu.main]]
+url    = "/"
+name   = "Accueil"
+weight = 5
+[[languages.fr.menu.main]]
+url    = "/page/a-propos"
+name   = "À propos"
+weight = 10
+[[languages.fr.menu.main]]
+url    = "/page/faq"
+name   = "F.A.Q"
+weight = 20
+[[languages.fr.menu.main]]
+name = "🇬🇧"
+weight = 30
+url = "/en/"
+
 [languages.en]
-title = "Ruwen Ogien's Minimal Ethics"
+lang = "en"
+languageName = "English"
+weight = 1
+title= "Ruwen Ogien's Miminal Ethics"
+
+[languages.en.params.info]
 description = "A usable ethics that fits it a tweet"
+
+[[languages.en.menu.main]]
+url    = "/en/"
+name   = "Home"
+weight = 5
+[[languages.en.menu.main]]
+url    = "/en/page/a-propos"
+name   = "About"
+weight = 10
+[[languages.en.menu.main]]
+url    = "/en/page/faq"
+name   = "FAQ"
+weight = 20
+[[languages.en.menu.main]]
+name = "🇫🇷"
+weight = 30
+url = "/"
