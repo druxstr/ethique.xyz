@@ -1,8 +1,6 @@
 ---
 title: Accueil
-menu: main
 description: "Un site sur l'éthique de Ruwen Ogien"
-weight: -270
 ---
 
 ## Qu'est-ce que l'éthique minimale ?
