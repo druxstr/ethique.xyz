@@ -20,7 +20,7 @@ draft: true
 <details id="defmorale">
   <summary> How does Minimal Ethics defines Ethics in genreal&nbsp;?</summary>
 
-  Ethics is about how indivual freedoms can coexist, and what a fair social cooperation can look like. It concerns the relationships between persons that are neither ruled by force nor by threat.
+  Ethics is about how indivual freedoms can coexist, and what a fair social cooperation can look like. It has to do with relationships between persons which are neither ruled by force nor by threat.
 
   Answering "deep" or "existential" questions isn't a part of ethics. Ethics's mission isn't to shape every aspect of our life by telling us what to do.
 
@@ -30,7 +30,7 @@ draft: true
 <details id="moralimmoral">
   <summary>Are each of our actions either moral or immoral&nbsp;?</summary>
 
-  No. That's not the spirit. In Minimal Ethics, an action either breaks a moral principle, or it has nothing to do with ethics. If you break one of the 3 moral principle stated by Ogien, you do something immoral. If you don't break any principle, what you're doing isn't "moral", it's just not moral related.
+  No. That's not the spirit. In Minimal Ethics, an action either breaks a moral principle, or it has nothing to do with ethics. If you break one of the moral principles stated by Ogien, you do something immoral. If you don't break any principle, what you're doing isn't "moral", it's just not moral related.
 
   <span>[[permalien]](#moralimmoral)</span>
 </details>
@@ -51,7 +51,7 @@ draft: true
 
   *No*. Minimal Ethics confines ethics to relation to *others*. It's hard to do less. But you can do more, for instance if you claim that the relation of one to himself has a moral relevance.
 
-  *Yes and no (at the same time)*. If you extend ethics to one's relation to himself AND only admit the harm principle, you're both *less minimal* (you extend ethics to oneself) and *more minimal* than Ogien (you reject his 2 other principles).
+  *Yes and no (at the same time)*. If you extend ethics to one's relation to himself AND only admit the harm principle, you're both *less minimal* (you extend ethics to oneself) and *more minimal* than Ogien (you reject his other principles).
   <span>[[permalien]](#autresmini)</span>
 </details>
 
@@ -60,7 +60,7 @@ draft: true
 <details id="argument">
   <summary>You don't provide Ogien's reasonings. Why&nbsp;?</summary>
 
-  The website is an introduction to Ruwen Ogien's books. They're fun. You should read them. My point isn't to repeat them badly.
+  The website is an introduction to Ruwen Ogien's books. They're fun. You should read them. My point isn't to rephrase them badly.
   <span>[[permalien]](#argument)</span>
 </details>
 <details id="biblio">
@@ -81,6 +81,6 @@ draft: true
 <details id="qui">
   <summary>Who made this&nbsp;?</summary>
 
-  I'm Guillaume Gallais, an ex-philosophy student in France. I've been reading Ruwen Ogien's works since 2003. I had the chance to meet him (once) and to read and criticize pre-print versions of his masterwork *L'éthique aujourd'hui* (*Ethics nowadays* - not translated as far as I know).
+  I'm Guillaume Gallais, an ex-philosophy student in France. I've been reading Ruwen Ogien's works since 2003. I had the chance to meet him (once) and to read & criticize pre-print versions of his masterwork *L'éthique aujourd'hui* (*Ethics nowadays* - not translated as far as I know).
   <span>[[permalien]](#qui)</span>
 </details>
