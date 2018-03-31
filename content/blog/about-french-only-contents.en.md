@@ -24,4 +24,4 @@ No you're not. You're drunk. Cool down, and come back shortly. If you're still i
 
 ![contact](/media/contact.png)
 
-Or even better, you can make a [git pull request](https://github.com/druxstr/ethique.xyz/content/) on Github.
+Or even better, you can make a [git pull request](https://github.com/druxstr/ethique.xyz/tree/master/content) on Github.
