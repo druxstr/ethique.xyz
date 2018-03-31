@@ -2,8 +2,6 @@
 title: F.A.Q
 description: Questions & objections à propos de l'éthique minimale et de ce site
 comments: false
-menu: main
-weight: -10
 ---
 
 <!-- template pour les nouvelles entrées :
