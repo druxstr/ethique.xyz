@@ -213,7 +213,7 @@ name   = "About"
 weight = 10
 [[languages.en.menu.main]]
 url    = "/en/page/faq"
-name   = "FAQ"
+name   = "F.A.Q"
 weight = 20
 [[languages.en.menu.main]]
 name = "🇫🇷"
