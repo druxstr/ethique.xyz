@@ -2,7 +2,7 @@
 title: About
 description: Stop, children, what's that site ?
 comments: false
-draft: true
+draft: false
 ---
 
 This website's main purpose is to introduce to [Ruwen Ogien](https://fr.wikipedia.org/wiki/Ruwen_Ogien)'s Minimal Ethics. It tries to be clear, accurate, and easy to read. Admittedly, it's poorly translated from French, using [DeepL](https://www.deepl.com/translator) & my not-so-dubious-but-yet-insecured english skills.
