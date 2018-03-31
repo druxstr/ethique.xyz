@@ -2,7 +2,7 @@
 title: FAQ
 description: Questions about Ruwen Ogien's Minimal Ethics & this website
 comments: false
-draft: true
+draft: false
 ---
 
 <!-- template pour les nouvelles entrées :
