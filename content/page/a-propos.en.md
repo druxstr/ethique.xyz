@@ -5,7 +5,7 @@ comments: false
 draft: false
 ---
 
-This website's main purpose is to introduce to [Ruwen Ogien](https://fr.wikipedia.org/wiki/Ruwen_Ogien)'s Minimal Ethics. It tries to be clear, accurate, and easy to read. Admittedly, it's poorly translated from French, using [DeepL](https://www.deepl.com/translator) & my not-so-dubious-but-yet-insecured english skills.
+This website's main purpose is to introduce to [Ruwen Ogien](https://fr.wikipedia.org/wiki/Ruwen_Ogien)'s Minimal Ethics. It tries to be clear, accurate, and easy to read. Admittedly, it's poorly translated from French, using [DeepL](https://www.deepl.com/translator) & my not-so-dubious-but-yet-insecure english skills.
 
 In its French version, the website also hosts criticisms and continuations of Ruwen Ogien's work. It's [right here](/blog/), but I'm too lazy to translate it right now. Also, I really doubt anyone will ever read this page or any english page of the site.
 
