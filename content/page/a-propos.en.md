@@ -32,3 +32,7 @@ Avenue de la Praille, 26 - 1227 Carouge - Suisse<br>
 N° IDE & TVA : CHE-103.167.648
 
 This website and its content are provide "as is", with no implicit or explicit warranty. It may contain inaccuracies, errors, omissions or have technical issues. Ethique.xyz won't assume any responsiblity for any issue you may encounter using this website. If you die reading this website, it will be your fault.
+
+### Privacy
+
+This website uses cookies to understand how you're interacting with its content. If you've activated the *Do Not Track* option in your browser, you're not being tracked here. Same if you're using a blocker (like Raymon Hill's excellent *uBlock Origin*). Otherwise, you can [disable tracking here](https://whoz.me/all/piwik/index.php?module=CoreAdminHome&action=optOut&language=en&backgroundColor=&fontColor=&fontSize=&fontFamily=Helvetica).
