@@ -6,7 +6,7 @@ draft: false
 
 ## What is Minimal Ethics?
 
-Minimal ethics is a theory that reduces ethics to a bare minimum of principles. It provides a simple framework for assessing the morality of our actions.
+Minimal Ethics is a theory that reduces ethics to a bare minimum of principles. It provides a simple framework for assessing the morality of our actions.
 
 It fights conceptions that see morality "everywhere" and pretend to dictate everyone how to live their lives. It was developed by the French philosopher Ruwen Ogien in the late 2000s.
 
