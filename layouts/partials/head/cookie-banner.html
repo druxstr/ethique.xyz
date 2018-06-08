@@ -1,25 +1,40 @@
 <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
 <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
 <script>
-window.addEventListener("load", function(){
-window.cookieconsent.initialise({
-  "palette": {
-    "popup": {
-      "background": "#edeff5",
-      "text": "#838391"
-    },
-    "button": {
-      "background": "#4b81e8"
-    }
-  },
-  "theme": "edgeless",
-  "type": "opt-out",
-  "content": {
-    "message": "J'utilise de cookies pour mesurer l'audience (microscopique) du site.",
-    "dismiss": "Ça me va !",
-    "deny": "Pas d'accord",
-    "link": "Raconte-moi tout",
-    "href": "http://ethique.xyz/page/a-propos"
-  }
-})});
+        var outputLink = "/page/cookie";
+        window.addEventListener("load", function(){
+            window.cookieconsent.initialise({
+                "palette": {
+                    "popup": {
+                        "background": "#edeff5",
+                        "text": "#838391"
+                    },
+                    "button": {
+                        "background": "#4b81e8"
+                    }
+                },
+                onStatusChange: function(status, chosenBefore) {
+                    console.log(status, chosenBefore);
+                    var type = this.options.type;
+                    var didConsent = this.hasConsented();
+                    if (type === 'opt-out' && !didConsent) {
+                        window.open(outputLink);
+                        //location.reload();
+                    }
+                    console.log(type,didConsent);
+                },
+                "theme": "edgeless",
+                "type": "opt-out",
+                "cookie": {
+                    "expiryDays": 2
+                },
+                "content": {
+                    "message": "J'utilise des cookies pour mesurer l'audience (microscopique) du site.",
+                    "dismiss": "Ça me va !",
+                    "deny": "Pas d'accord",
+                    "link": "Raconte-moi tout",
+                    "href":"/page/cookie#informatique-et-libertés"
+                }
+            });
+        });
 </script>
