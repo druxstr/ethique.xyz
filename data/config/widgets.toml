@@ -1,0 +1,10 @@
+
+# Recent Posts Widget config
+[recent_posts]
+title = ""                            # default: "Recent Posts"
+length = 10                           # default: 5
+excludeTypes = ["page"]               # default: ["page"]
+
+# Search Widget config
+[search]
+title = "Rechercher sur le site"                      # default: "Search"
