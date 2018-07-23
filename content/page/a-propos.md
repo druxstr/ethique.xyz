@@ -1,6 +1,6 @@
 ---
-title: À propos
-description: Pourquoi ce site
+title: "À propos"
+description: "Pourquoi ce site"
 comments: false
 ---
 
