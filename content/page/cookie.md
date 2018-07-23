@@ -2,12 +2,15 @@
 title: "Vie privée & cookie"
 description: "Comment ce site mesure son audience"
 date: 2018-06-02T08:55:10+02:00
-draft: true
+draft: false
 type: page
 ---
 
 ## État actuel du suivi
-<iframe width="100%" src="https://whoz.me/all/piwik/index.php?module=CoreAdminHome&action=optOut&language=fr&backgroundColor=&fontColor=&fontSize=&fontFamily=Helvetica"></iframe>
+<iframe width="100%" src="https://whoz.me/all/piwik/index.php?module=CoreAdminHome&action=optOut&language=fr&backgroundColor=&fontColor=&fontSize=&fontFamily=Helvetica"><p>Si vous voyez ce message, c'est probablement que votre navigateur bloque le contenu prévu (un <iframe>).</p>
+</iframe>
+
+Si vous ne voyez pas de cadre ci-dessus, votre navigateur bloque probablement une partie du contenu. Vous pouvez consulter l'état du suivi et refuser les cookies [via ce lien](https://whoz.me/all/piwik/index.php?module=CoreAdminHome&action=optOut&language=fr&backgroundColor=&fontColor=&fontSize=&fontFamily=Helvetica).
 
 ## Informatique et libertés
 
