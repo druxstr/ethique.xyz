@@ -110,6 +110,9 @@ pygmentsCodefences =          true
 #description = "Une éthique applicable qui tient en un tweet"
 #title404 = "404 !"
 
+[params.search]
+client = "fuse"
+
 [params.assets]
 favicon = "favicon.ico"
 customCSS = ["css/custom.css"]
@@ -165,6 +168,9 @@ tag = "tags"
 
 [blackfriday]
 hrefTargetBlank = true
+
+[params.widgets]
+homepage = ["recent_posts", "search"]
 
 [languages]
 # edit this block for your own language
