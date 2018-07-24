@@ -7,4 +7,4 @@ excludeTypes = ["page"]               # default: ["page"]
 
 # Search Widget config
 [search]
-title = "Rechercher sur le site"                      # default: "Search"
+title = ""                      # default: "Search"
