@@ -15,27 +15,32 @@ comments: false
 
 ## Questions sur l'éthique minimale
 <details id="2007">
-  <summary>J'ai entendu dire que la théorie n'avait plus qu'un ou deux principes. Est-ce le cas&nbsp;?</summary>
+  <summary>J'ai lu que la théorie n'avait plus qu'un ou deux principes. Est-ce le cas&nbsp;?</summary>
 
-  À ma connaissance, l'éthique minimale reste composée de trois principes. J'ai lu par endroits que Ruwen Ogien avait réduit sa théorie [à un](http://www.lemonde.fr/livres/article/2009/07/16/ruwen-ogien-ne-pas-nuire-aux-autres-rien-de-plus_1219322_3260.html) (ou [à deux](http://next.liberation.fr/culture-next/2017/05/05/le-philosophe-ruwen-ogien-est-mort_1567414)) principe(s). Mais je n'ai trouvé *aucune source fiable dans son oeuvre* qui dise clairement cela.
+  C'est compliqué. Ruwen Ogien a bien affirmé que son éthique se limitait au seul principe de non-nuisance. Mais en réalité, il n'a jamais abandonné le principe [d'indifférence morale du rapport à soi](page/indifference-morale-rapport-a-soi/). Par contre, il est revenu sur le principe de [considération égale](/page/egale-consideration-de-chacun). La théorie aurait donc 2 principes... Mais cela crée des problèmes.
 
-  [Wikipédia](https://fr.wikipedia.org/w/index.php?title=%C3%89thique_minimale&oldid=137352851) a longtemps affirmé qu'Ogien avait réduit l'éthique minimale au seul principe de non-nuisance. Mais cette partie de l'article Wikipédia n'était pas sourcée, ou de façon contestable (appui sur une citation au conditionnel dans un article de presse).
+  En 2006, Ogien explique que le principe de non-nuisance doit être complété par un principe d'assistance. C'est pourquoi il ajoute le principe de considération égale à sa théorie.
 
-  Cependant, il est vrai qu'Ogien parle moins des autres principes de l'éthique minimale dans ses ouvrages postérieurs à *L'éthique aujourd'hui*. Même lorsqu'il mobilise *de fait* ces principes et s'appuie sur eux, il ne l'indique pas toujours explicitement.
+  Quelques années plus tard, il change d'avis. Ce principe d'assistance lui semble introduire un risque de paternalisme&nbsp;: il l'abandonne. La considération égale serait donc rejetée hors de l'éthique minimale.
 
-  D'un point de vue intellectuel, admettre l'abandon d'un principe (ou plus) pose de lourds problèmes. Ogien aurait profondément remanié sa théorie, sans expliquer pourquoi, ni le mentionner explicitement...
+  Problème&nbsp;: le principe de considération égale n'est pas *uniquement* un principe d'assistance. Ogien soutient que c’est un composant central que toute théorie morale doit accepter par défaut.
 
-  Il semble *improbable* qu'Ogien abandonne le [principe de considération égale](/page/egale-consideration-de-chacun/). Selon lui, c'est un principe central que toute théorie morale doit accepter par défaut. Il exprime "le point de vue moral".
+  La considération égale exprime "le point de vue moral". On ne peut s'en débarrasser en claquant des doigts. Or, à ma connaissance, Ogien n'a jamais expliqué en détails ce revirement théorique.
 
-  Il semble *concevable* qu'Ogien supprime le [principe d'indifférence morale du rapport à soi](/page/indifference-morale-rapport-a-soi/), qui pourrait être impliqué par le principe de non-nuisance à autrui. Mais Ogien avait déjà envisagé cette idée dans *L'éthique aujourd'hui* et l'avait rejetée.
+  Pour savoir pourquoi ce site conserve une présentation de l'éthique minimale en 3 principes, voir [cette entrée de la FAQ](#pcedead)
 
-  Bref, la situation est compliquée. Si vous disposez d'informations permettant de trancher définitivement la question : [écrivez-moi de suite](/page/a-propos/#contact).
-  <span>[[permalien]](#2007)</span>
+  Source&nbsp;: *La morale introuvable*, in Raison publique 2017&nbsp;/&nbsp;02, "Du minimalisme moral", p.30. <span>[[permalien]](#2007)</span>
 </details>
 <details id="evolution">
   <summary>Les principes ont-ils toujours été les mêmes&nbsp;?</summary>
 
-  Non. Les [premières versions de l'éthique minimale](/page/formulations-ethique-minimale/) n'incluaient pas le principe d'indifférence morale du rapport à soi. Elles mobilisaient le principe de neutralité à l'égard des conceptions du bien. Par ailleurs, la formulation des principes a évolué entre le début de l'éthique minimale et sa présentation détaillée dans *L'éthique aujourd'hui*.
+  Non.
+
+  Les [premières versions de l'éthique minimale](/page/formulations-ethique-minimale/) n'incluaient pas le principe d'indifférence morale du rapport à soi. Elles mobilisaient le principe de neutralité à l'égard des conceptions du bien.
+
+  La dernière version de la théorie semble rejeter le principe de considération égale. Ogien paraît même abandonner *aussi* l'indifférence morale du rapport à soi, mais ça n'est pas vraiment le cas.
+
+  Par ailleurs, la formulation des principes a évolué entre le début de l'éthique minimale et sa présentation détaillée dans *L'éthique aujourd'hui*.
   <span>[[permalien]](#evolution)</span>
 </details>
 <details id="neutre">
@@ -105,8 +110,16 @@ comments: false
 
 ## Questions sur le site
 
+<details id="pcedead">
+  <summary>Pourquoi garder le principe de considération égale&nbsp;?</summary>
+
+  J'ai écrit ce site *avant* que le texte où Ogien rejette le principe d'égale considération soit publié. C'était des semaines de travail. Je n'ai pas la force de tout reprendre pour adapter le site à la dernière version de la théorie.
+
+  Mais si je décidais de le faire, sur quoi pourrais-je m'appuyer&nbsp;? À ma connaissance, il n'y a pas de texte détaillé où Ogien présente sa théorie mise à jour. Faute de mieux, je préfère en rester à une version bien documentée de la théorie, celle en 3 principes.
+  <span>[[permalien]](#pcedead)</span>
+</details>
 <details id="argument">
-  <summary>Ce site expose les contenus théoriques, mais pas les arguments qui les fondent. Pourquoi&nbsp;?</summary>
+  <summary>Pourquoi ne pas présenter les arguments qui fondent l'éthique minimale&nbsp;?</summary>
 
   L'objectif est de faire découvrir l'éthique minimale, pas de remplacer la lecture d'Ogien – qui est plus drôle et plus passionnante que ce site web. Sérieusement, lisez Ogien, c'est aussi philosophique qu'hilarant.
   <span>[[permalien]](#argument)</span>
