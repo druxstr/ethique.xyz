@@ -50,6 +50,7 @@ var {
 }
 
 .entry-content a,
+.item-title a,
 .list-item-title a {
     border-bottom: 0.125em solid blue;
     color: blue;
