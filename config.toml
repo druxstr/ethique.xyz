@@ -196,8 +196,12 @@ url    = "/page/faq"
 name   = "F.A.Q"
 weight = 20
 [[languages.fr.menu.main]]
-name = "🇬🇧"
+name = "🔍"
 weight = 30
+url = "/search"
+[[languages.fr.menu.main]]
+name = "🇬🇧"
+weight = 40
 url = "/en/"
 
 [languages.en]
@@ -222,6 +226,10 @@ url    = "/en/page/faq"
 name   = "F.A.Q"
 weight = 20
 [[languages.en.menu.main]]
-name = "🇫🇷"
+name = "🔍"
 weight = 30
+url = "/en/search"
+[[languages.en.menu.main]]
+name = "🇫🇷"
+weight = 40
 url = "/"
