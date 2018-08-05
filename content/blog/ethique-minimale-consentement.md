@@ -9,7 +9,7 @@ draft = false
 
 [cover]
 image = "/media/consentement.png"
-caption = ""
+caption = "Consentement (à partir de [Tick](https://thenounproject.com/icon/644440/) & [Close](https://thenounproject.com/icon/644441/) par No more Heroes)"
 style = "normal"
 +++
 
@@ -70,9 +70,7 @@ Ogien est conscient des fragilités conceptuelles et pratiques qui entourent la 
 
 <!-- propose d'utiliser l'EM pour clarifier la notion de consentement, si ça c'est pas signe qu'est pas une éthique du consentement -->
 
-## Notes & crédits
-
-Image : CC-BY-SA 4.0 Ethique.xyz depuis [Tick](https://thenounproject.com/icon/644440/) & [Close](https://thenounproject.com/icon/644441/) par No more Heroes
+## Notes
 
 [^1]: Ces formulations sont équivalentes. Voir Ruwen Ogien, *L'éthique aujourd'hui*, Ch. 4, p. 81
 

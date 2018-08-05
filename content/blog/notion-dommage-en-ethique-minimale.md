@@ -8,7 +8,7 @@ authors = ["ggallais"]
 
 [cover]
 image = "/media/dommage.png"
-caption = ""
+caption = "Dommage (à partir de [Assault par parkjisun](https://thenounproject.com/icon/302798/) & [Close](https://thenounproject.com/icon/644441/) par No more Heroes)"
 style = "normal"
 +++
 > **En bref** : L'éthique minimale définit le dommage comme une dégradation d'état par rapport à un état antérieur. Cela rend difficile l'évaluation des dommages psychologiques, et empêche de parler de "nuisance" dans certains cas limites (dommage à naître ou à mourir).
@@ -96,9 +96,7 @@ Si cette solution ne marche pas, l'éthique minimale devra s'orienter vers d'aut
 
 On pourrait aussi tenter une généralisation du problème. On soutiendrait alors qu'*aucune théorie morale* n'est capable d'expliquer le tort à tuer autrui tout en conservant une conception vérifiable du dommage.
 
-## Notes & crédits
-
-Image : CC-BY-SA 4.0 Ethique.xyz depuis [Assault par parkjisun](https://thenounproject.com/icon/302798/) & [Close](https://thenounproject.com/icon/644441/) par No more Heroes
+## Notes
 
 [^1]: Voir la page [Principe de non-nuisance](https://ethique.xyz/page/principe-non-nuisance/) du présent site. De façon générale, ce billet ne redonne pas les références déjà fournies sur la page à propos de la non-nuisance.
 

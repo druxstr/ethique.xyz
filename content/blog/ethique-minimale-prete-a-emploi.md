@@ -8,7 +8,7 @@ draft = false
 
 [cover]
 image = "/media/nouilles.png"
-caption = ""
+caption = "Théorie prête à l'emploi (à partir de [Noodles par Claire Jones](https://thenounproject.com/icon/43518/))"
 style = "normal"
 +++
 
@@ -61,9 +61,7 @@ Je doute que cette situation soit volontaire de la part d'Ogien (mais pourquoi p
 
 Bref, l'éthique minimale serait plus encore minimale qu'on pourrait s'y attendre. Elle ne serait pas "prête à l'emploi", mais demanderait aux minimalistes de faire des choix interprétatifs et théoriques avant de pouvoir l'appliquer.
 
-## Notes & crédits
-
-Image : CC-BY-SA 4.0 Ethique.xyz à partir de [Noodles par Claire Jones](https://thenounproject.com/icon/43518/)
+## Notes
 
 [^1]: *L'éthique aujourd'hui* (2007) est l'ouvrage principal d'Ogien concernant l'éthique minimale. Il y consacre 50 pages à l'étude de l'indifférence morale du rapport à soi (Ch. 1-3, p. 25-75) et 40 à 45 pages à expliciter le principe de non-nuisance (Ch.4-5, p.76-116, voire p. 76-121).
 
