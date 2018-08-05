@@ -168,6 +168,9 @@ tag = "tags"
 
 [blackfriday]
 hrefTargetBlank = true
+smartypants = true
+angledQuotes = true
+smartypantsQuotesNBSP = true
 
 [params.widgets]
 homepage = ["recent_posts", "search"]
