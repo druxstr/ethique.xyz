@@ -1,9 +1,9 @@
 ---
 title: Principe de non-nuisance
-description: L'éthique minimale nous demande de "ne pas nuire aux autres". Mais que signifie "nuire" ? Qui sont les "autres" ? Où commence et où s'arrête la nuisance ?
+description: L'éthique minimale nous demande de ne pas nuire aux autres. Mais que signifie nuire ? Qui sont les autres ? Où commence et où s'arrête la nuisance ?
 cover:
  image: /media/ne-pas-nuire.png
- caption:
+ caption: Ne pas nuire (à partir de [Assault par parkjisun](https://thenounproject.com/icon/302798/) & [Forbidden par Noah](https://thenounproject.com/icon/1232525/))
  style: normal
 ---
 L'éthique minimale reprend le [principe de non-nuisance](https://fr.wikipedia.org/wiki/Harm_principle) énoncé par John Stuart Mill en 1859 dans *De la liberté*[^1]. Selon ce principe, la seule raison légitime d'interférer avec les affaires des autres est d'empêcher que du tort soit causé à autrui.
@@ -127,9 +127,7 @@ MDCC admet que possible, mais sans valeur morale p. 101 p.133. Et je m'appuierai
 * [Blog] [La notion de dommage en éthique minimale](/blog/notion-dommage-en-ethique-minimale)
 * [Blog] [Éthique minimale et consentement](/blog/ethique-minimale-consentement)
 
-## Notes & crédits
-
-Image&nbsp;: CC-BY-SA 4.0 Ethique.xyz, à partir de [Assault par parkjisun](https://thenounproject.com/icon/302798/) & [Forbidden par Noah](https://thenounproject.com/icon/1232525/)
+## Notes
 
 [^1]: Ruwen Ogien, *Penser la pornographie*, 2003, PUF, Ch. 1, p. 12-13 ; *La panique morale*, 2005, Grasset, Ch. 1, p. 39-42 & p. 327 note 30 ; *L'éthique aujourd'hui*, Gallimard, 2007, Ch. 8, p. 156.
 
