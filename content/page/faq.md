@@ -25,7 +25,7 @@ comments: false
 
   Problème&nbsp;: le principe de considération égale n'est pas *uniquement* un principe d'assistance. Ogien soutient que c’est un composant central que toute théorie morale doit accepter par défaut.
 
-  La considération égale exprime "le point de vue moral". On ne peut s'en débarrasser en claquant des doigts. Or, à ma connaissance, Ogien n'a jamais expliqué en détails ce revirement théorique.
+  La considération égale exprime "le point de vue moral". On ne peut s'en débarrasser en claquant des doigts. Or, à ma connaissance, Ogien n'a jamais expliqué en détail ce revirement théorique.
 
   Pour savoir pourquoi ce site conserve une présentation de l'éthique minimale en 3 principes, voir [cette entrée de la FAQ](#pcedead)
 
@@ -76,7 +76,7 @@ comments: false
   <span>[[permalien]](#moral)</span>
 </details>
 <details id="moraleethique">
-  <summary>Y a-t-il une différence entre "morale" et éthique"&nbsp;?</summary>
+  <summary>Y a-t-il une différence entre "morale" et "éthique"&nbsp;?</summary>
 
   Non. L'éthique minimale utilise les 2 termes indifféremment. Contrairement à d'autres théories, elle ne fait aucune distinction entre "morale" et "éthique".
 
