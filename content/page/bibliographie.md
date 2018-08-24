@@ -1,7 +1,7 @@
 ---
 title: Bibliographie
 description: Liste des sources utilisées pour rédiger les contenus du site
-comments:
+comments: false
 weight: -170
 draft: false
 ---
