@@ -133,7 +133,7 @@ comments: false
 <details id="pageblog">
   <summary>Quelle est la différence entre la section "Blog" et le reste&nbsp;?</summary>
 
-  La section ""[Blog](/blog/)" est réservée aux contenus qui ne sont pas 100% ogieniens. Elle a vocation à contenir des analyses approfondies, des interprétations, des critiques ou des prolongations de l'éthique d'Ogien.
+  La section "[Blog](/blog/)" est réservée aux contenus qui ne sont pas 100% ogieniens. Elle a vocation à contenir des analyses approfondies, des interprétations, des critiques ou des prolongations de l'éthique d'Ogien.
 
   Le reste du site (la section "[Pages](/page/)" et cette FAQ) expose l'éthique minimale telle que Ruwen Ogien la présente lui-même, sans critique ni parti pris interprétatif.
   <span>[[permalien]](#pageblog)</span>
