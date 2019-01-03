@@ -107,6 +107,24 @@ comments: false
   *Oui et non (en même temps)*. On peut réduire l'éthique à la non-nuisance *et* accorder une valeur au rapport à soi-même. Dans ce cas on est *à la fois* plus et moins minimaliste qu'Ogien.
   <span>[[permalien]](#autresmini)</span>
 </details>
+<details id="id">
+  <summary>Où trouver d'autres ressources sur l'éthique minimale ?</summary>
+
+  **Sur le web**
+
+  * [Infographies récapitulatives](/page/infographies) : oui, j'ai aussi fait des images.
+  * [Éthique minimale sur Wikipédia](https://fr.wikipedia.org/wiki/%C3%89thique_minimale) : les anciennes versions de la théorie.
+  * [Minimalisme et philosophie du droit](http://www.droitphilosophie.com/article/lecture/minimalisme-moral-et-philosophie-du-droit-en-hommage-a-ruwen-ogien-230) par Jean-Baptiste Le Bohec : court, clair et excellent. Aborde aussi des aspects politiques.
+
+  **En bibliothèque**
+
+  * Les ouvrages d'Ogien, notamment ceux [utilisés pour faire ce site](/page/bibliographie/)
+  * [Du Minimalisme moral. Essais pour Ruwen Ogien](http://www.raison-publique.fr/article854.html) : publié après la mort d'Ogien, nombreux articles de collègues et d'amis à lui.
+  * [Revue de Théologie et de Philosophie, Vol. 140 / 2008 II-III](https://www.jstor.org/stable/i40182196), "L'éthique minimale. Dialogues philosophiques et théologiques avec Ruwen Ogien"
+  <span>[[permalien]](#ressources)</span>
+</details>
+
+
 
 ## Questions sur le site
 
