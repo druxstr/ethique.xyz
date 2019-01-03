@@ -30,7 +30,7 @@ Dans cette perspective, on ne nuit pas&nbsp;:
 
 Cette définition minimale d'autrui ne ferme pas la réflexion. Peut-on dire qu'on nuit moralement à un collectif (la société, une entreprise) ? Est-il crédible d'élargir la morale à *toutes* les personnes (même non-humaines) ? Ou, à l'inverse, à des entités concrètes qui ne sont pas des personnes[^3] ?
 
-![logigramme récapitulatif "à quoi peut-on nuire ?"](/media/logigramme_a-quoi-nuire.png)
+{{< figure src="/media/logigramme_a-quoi-nuire.png" alt="Logigramme qui résume à quoi on peut nuire. Si ça existe, que c'est en vie et que c'est une personne, on peut lui nuire. Si ça n'existe pas, qu'on hésite à dire que ça existe, que c'est inanimé, mort ou pas une personne, on ne peut pas lui nuire. Si c'est vivant mais qu'on hésite à dire que c'est une personne : ben, c'est compliqué la philo morale.">}}
 
 ## Qu'est-ce que nuire ?
 
